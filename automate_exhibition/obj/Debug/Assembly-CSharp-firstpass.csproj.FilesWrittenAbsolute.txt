@@ -1,0 +1,17 @@
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/UnityEngine.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/UnityEditor.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Mono.Cecil.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/kevinschiffer/Git/automate_exhibition/automate_exhibition/Temp/bin/Debug/Mono.Cecil.Mdb.dll
