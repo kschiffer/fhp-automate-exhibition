@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 58ecd76951224b54f9057e960800b416
+timeCreated: 1468084921
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: brim
+    100002: brubber
+    100004: bspoke
+    100006: cover
+    100008: engine
+    100010: exhaust
+    100012: ffender
+    100014: forks
+    100016: frame
+    100018: frim
+    100020: frubber
+    100022: fspoke
+    100024: guards
+    100026: hbars
+    100028: rail
+    100030: rfender
+    100032: seat
+    100034: tank
+    100036: //RootNode
+    400000: brim
+    400002: brubber
+    400004: bspoke
+    400006: cover
+    400008: engine
+    400010: exhaust
+    400012: ffender
+    400014: forks
+    400016: frame
+    400018: frim
+    400020: frubber
+    400022: fspoke
+    400024: guards
+    400026: hbars
+    400028: rail
+    400030: rfender
+    400032: seat
+    400034: tank
+    400036: //RootNode
+    2300000: brim
+    2300002: brubber
+    2300004: bspoke
+    2300006: cover
+    2300008: engine
+    2300010: exhaust
+    2300012: ffender
+    2300014: forks
+    2300016: frame
+    2300018: frim
+    2300020: frubber
+    2300022: fspoke
+    2300024: guards
+    2300026: hbars
+    2300028: rail
+    2300030: rfender
+    2300032: seat
+    2300034: tank
+    3300000: brim
+    3300002: brubber
+    3300004: bspoke
+    3300006: cover
+    3300008: engine
+    3300010: exhaust
+    3300012: ffender
+    3300014: forks
+    3300016: frame
+    3300018: frim
+    3300020: frubber
+    3300022: fspoke
+    3300024: guards
+    3300026: hbars
+    3300028: rail
+    3300030: rfender
+    3300032: seat
+    3300034: tank
+    4300000: brim
+    4300002: brubber
+    4300004: bspoke
+    4300006: cover
+    4300008: engine
+    4300010: exhaust
+    4300012: ffender
+    4300014: forks
+    4300016: frame
+    4300018: frim
+    4300020: frubber
+    4300022: fspoke
+    4300024: guards
+    4300026: hbars
+    4300028: rail
+    4300030: rfender
+    4300032: seat
+    4300034: tank
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

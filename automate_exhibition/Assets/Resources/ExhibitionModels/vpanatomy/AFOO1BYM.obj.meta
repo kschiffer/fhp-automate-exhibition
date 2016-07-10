@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: f51c9cbb4341cc84b8ebb82f6519f800
+timeCreated: 1468085097
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: calcanus
+    100004: cuboid
+    100006: cunifrm1
+    100008: cunifrm2
+    100010: cunifrm3
+    100012: metatrl1
+    100014: metatrl2
+    100016: metatrl3
+    100018: metatrl4
+    100020: metatrl5
+    100022: naviculr
+    100024: t1phalx1
+    100026: t1phalx2
+    100028: t2phalx1
+    100030: t2phalx2
+    100032: t2phalx3
+    100034: t3phalx1
+    100036: t3phalx2
+    100038: t3phalx3
+    100040: t4phalx1
+    100042: t4phalx2
+    100044: t4phalx3
+    100046: t5phalx1
+    100048: t5phalx2
+    100050: t5phalx3
+    100052: talus
+    400000: //RootNode
+    400002: calcanus
+    400004: cuboid
+    400006: cunifrm1
+    400008: cunifrm2
+    400010: cunifrm3
+    400012: metatrl1
+    400014: metatrl2
+    400016: metatrl3
+    400018: metatrl4
+    400020: metatrl5
+    400022: naviculr
+    400024: t1phalx1
+    400026: t1phalx2
+    400028: t2phalx1
+    400030: t2phalx2
+    400032: t2phalx3
+    400034: t3phalx1
+    400036: t3phalx2
+    400038: t3phalx3
+    400040: t4phalx1
+    400042: t4phalx2
+    400044: t4phalx3
+    400046: t5phalx1
+    400048: t5phalx2
+    400050: t5phalx3
+    400052: talus
+    2300000: calcanus
+    2300002: cuboid
+    2300004: cunifrm1
+    2300006: cunifrm2
+    2300008: cunifrm3
+    2300010: metatrl1
+    2300012: metatrl2
+    2300014: metatrl3
+    2300016: metatrl4
+    2300018: metatrl5
+    2300020: naviculr
+    2300022: t1phalx1
+    2300024: t1phalx2
+    2300026: t2phalx1
+    2300028: t2phalx2
+    2300030: t2phalx3
+    2300032: t3phalx1
+    2300034: t3phalx2
+    2300036: t3phalx3
+    2300038: t4phalx1
+    2300040: t4phalx2
+    2300042: t4phalx3
+    2300044: t5phalx1
+    2300046: t5phalx2
+    2300048: t5phalx3
+    2300050: talus
+    3300000: calcanus
+    3300002: cuboid
+    3300004: cunifrm1
+    3300006: cunifrm2
+    3300008: cunifrm3
+    3300010: metatrl1
+    3300012: metatrl2
+    3300014: metatrl3
+    3300016: metatrl4
+    3300018: metatrl5
+    3300020: naviculr
+    3300022: t1phalx1
+    3300024: t1phalx2
+    3300026: t2phalx1
+    3300028: t2phalx2
+    3300030: t2phalx3
+    3300032: t3phalx1
+    3300034: t3phalx2
+    3300036: t3phalx3
+    3300038: t4phalx1
+    3300040: t4phalx2
+    3300042: t4phalx3
+    3300044: t5phalx1
+    3300046: t5phalx2
+    3300048: t5phalx3
+    3300050: talus
+    4300000: calcanus
+    4300002: cuboid
+    4300004: cunifrm1
+    4300006: cunifrm2
+    4300008: cunifrm3
+    4300010: metatrl1
+    4300012: metatrl2
+    4300014: metatrl3
+    4300016: metatrl4
+    4300018: metatrl5
+    4300020: naviculr
+    4300022: t1phalx1
+    4300024: t1phalx2
+    4300026: t2phalx1
+    4300028: t2phalx2
+    4300030: t2phalx3
+    4300032: t3phalx1
+    4300034: t3phalx2
+    4300036: t3phalx3
+    4300038: t4phalx1
+    4300040: t4phalx2
+    4300042: t4phalx3
+    4300044: t5phalx1
+    4300046: t5phalx2
+    4300048: t5phalx3
+    4300050: talus
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

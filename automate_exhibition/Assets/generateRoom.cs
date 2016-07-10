@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEditor;
 
 public class generateRoom : MonoBehaviour {
 
@@ -16,18 +17,26 @@ public class generateRoom : MonoBehaviour {
 	public int minSupplementaryWalls = 3;
 	public int minObjects = 10;
 	public int maxObjects = 30;
+    public GameObject RoofElement;
 
-	private class WallValues {
+    private float width;
+    private float height;
+    private float length;
+
+    private class WallValues {
 		public bool otherDirection;
 		public bool oppositeSide;
 		public float currentDivision;
 	}
 
-	void generateBasicRoom() {
-		float width;
-		float height;
-		float length;
+    public Vector3 getRoomSize()
+    {
+        return new Vector3(width, height, length);
+    }
 
+    
+    public void generateBasicRoom() {
+        
 
 		// Calculate Room Dimensions
 
@@ -73,98 +82,115 @@ public class generateRoom : MonoBehaviour {
 		wall3.tag = "wall";
 		wall4.tag = "wall";
 
+        // Generate Roof Element
+
+        GameObject re = (GameObject)Instantiate(RoofElement, new Vector3(0, height*1.5f,0), Quaternion.identity);
+        float scalingFactor = Mathf.Max(width, height) * 2.5f;
+        re.transform.localScale = new Vector3(scalingFactor,10,scalingFactor);
+
 		Debug.Log(width*length);
 
+        // Generate Random Light Color
 
-		// --- Supplementary Walls --- //
+        //RenderSettings.ambientLight = Random.ColorHSV(0, 1, 0.8f, 1, 0.8f, 1, 1, 1);
 
-		float supplementaryWallsCount = Mathf.Floor(Random.Range(minSupplementaryWalls,maxSupplementaryWalls));
+        // --- Supplementary Walls --- //
+
+        float supplementaryWallsCount = Mathf.Floor(Random.Range(minSupplementaryWalls,maxSupplementaryWalls));
 		float sizeCoefficient = width*length / 800;
 		float xDivisions = Mathf.Ceil(Random.Range(4+sizeCoefficient,6+sizeCoefficient));
 		float wallLength;
 		WallValues[] lastWallValues = new WallValues[(int) supplementaryWallsCount];
 
-		for (int i = 0; i < supplementaryWallsCount; i++) {
+        for (int i = 0; i < supplementaryWallsCount; i++)
+        {
 
-			bool otherDirection = (Random.value >= .5);
-			bool oppositeSide = (Random.value >= .5);
-			float currentDivision = Mathf.Ceil(Random.Range(0,xDivisions-1));
-			bool alreadyExists = false;
+            bool otherDirection = (Random.value >= .5);
+            bool oppositeSide = (Random.value >= .5);
+            float currentDivision = Mathf.Ceil(Random.Range(0, xDivisions - 1));
+            bool alreadyExists = false;
 
-			Debug.Log(otherDirection);
-			Debug.Log(oppositeSide);
-			Debug.Log(currentDivision);
-			Debug.Log(xDivisions);
-
-
-			for (int j = 0; j < i; j++) {
-				WallValues wallValues = lastWallValues[j];
-				if (
-					wallValues.otherDirection == otherDirection && 
-					wallValues.oppositeSide == oppositeSide && 
-					wallValues.currentDivision == currentDivision
-				) {
-					alreadyExists = true;
-					break;
-				}
-			}
-			if (alreadyExists){
-				i = i - 1;
-				Debug.Log("Already there");
-				continue;
-			}
+            Debug.Log(otherDirection);
+            Debug.Log(oppositeSide);
+            Debug.Log(currentDivision);
+            Debug.Log(xDivisions);
 
 
-			lastWallValues[i] = new WallValues(){
-				otherDirection = otherDirection,
-				oppositeSide = oppositeSide,
-				currentDivision = currentDivision
-			};
+            for (int j = 0; j < i; j++)
+            {
+                WallValues wallValues = lastWallValues[j];
+                if (
+                    wallValues.otherDirection == otherDirection &&
+                    wallValues.oppositeSide == oppositeSide &&
+                    wallValues.currentDivision == currentDivision
+                )
+                {
+                    alreadyExists = true;
+                    break;
+                }
+            }
+            if (alreadyExists)
+            {
+                i = i - 1;
+                Debug.Log("Already there");
+                continue;
+            }
 
-			GameObject wall = GameObject.CreatePrimitive(PrimitiveType.Cube);
-			wall.GetComponent<MeshRenderer>().material = wallMaterial;
-			wall.tag = "wall";
 
-			if (!otherDirection) {
+            lastWallValues[i] = new WallValues()
+            {
+                otherDirection = otherDirection,
+                oppositeSide = oppositeSide,
+                currentDivision = currentDivision
+            };
 
-				// one direction
+            GameObject wall = GameObject.CreatePrimitive(PrimitiveType.Cube);
+            wall.GetComponent<MeshRenderer>().material = wallMaterial;
+            wall.tag = "wall";
 
-				float xPosUnit = currentDivision / xDivisions * width;
-				Debug.Log(xPosUnit, wall);
+            if (!otherDirection)
+            {
 
-				wallLength = Mathf.Floor(length*Random.Range(.1f,.6f));
-				wall.transform.localScale = new Vector3(wallThickness, height, wallLength);
+                // one direction
 
-				if (oppositeSide)
-					wall.transform.position = new Vector3(-(width/2) + xPosUnit, height/2, -(length/2) + wallLength/2);
-				else
-					wall.transform.position = new Vector3(-(width/2) + xPosUnit, height/2, (length/2) - wallLength/2);
+                float xPosUnit = currentDivision / xDivisions * width;
+                Debug.Log(xPosUnit, wall);
 
-			} else {
+                wallLength = Mathf.Floor(length * Random.Range(.1f, .6f));
+                wall.transform.localScale = new Vector3(wallThickness, height, wallLength);
 
-				// other direction
+                if (oppositeSide)
+                    wall.transform.position = new Vector3(-(width / 2) + xPosUnit, height / 2, -(length / 2) + wallLength / 2);
+                else
+                    wall.transform.position = new Vector3(-(width / 2) + xPosUnit, height / 2, (length / 2) - wallLength / 2);
 
-				Debug.Log("other direction", wall);
+            }
+            else
+            {
 
-				float yPosUnit = currentDivision / xDivisions * length;
-				Debug.Log(yPosUnit, wall);
+                // other direction
 
-				wallLength = Mathf.Floor(width*Random.Range(.1f,.6f));
-				wall.transform.localScale = new Vector3(wallLength, height, wallThickness);
+                Debug.Log("other direction", wall);
 
-				if (oppositeSide)
-					wall.transform.position = new Vector3(-(width/2) + wallLength/2, height/2, -(length/2) + yPosUnit);
-				else
-					wall.transform.position = new Vector3((width/2) - wallLength/2, height/2, -(length/2) + yPosUnit);
-			}
-		}
+                float yPosUnit = currentDivision / xDivisions * length;
+                Debug.Log(yPosUnit, wall);
+
+                wallLength = Mathf.Floor(width * Random.Range(.1f, .6f));
+                wall.transform.localScale = new Vector3(wallLength, height, wallThickness);
+
+                if (oppositeSide)
+                    wall.transform.position = new Vector3(-(width / 2) + wallLength / 2, height / 2, -(length / 2) + yPosUnit);
+                else
+                    wall.transform.position = new Vector3((width / 2) - wallLength / 2, height / 2, -(length / 2) + yPosUnit);
+            }
+        }
 
 	}
 
 	// Use this for initialization
 	void Start () {
 		generateBasicRoom();
-		this.GetComponent<objectGenerator>().generateObjects(1);
+		this.GetComponent<objectGenerator>().generateObjects(3);
 	}
 	
 	// Update is called once per frame

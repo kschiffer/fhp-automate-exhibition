@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 887225f754a16c44db8bac9c89ea53d1
+timeCreated: 1468084968
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: amberlit
+    100002: battery
+    100004: bfender
+    100006: black
+    100008: bottom
+    100010: box01
+    100012: control1
+    100014: control2
+    100016: dpeg
+    100018: engine
+    100020: ffender
+    100022: fshocks
+    100024: gascap
+    100026: glass
+    100028: hbars
+    100030: radiator
+    100032: saddle
+    100034: seat
+    100036: speaker
+    100038: tank
+    100040: tires
+    100042: vent01
+    100044: vent02
+    100046: windshld
+    100048: wlit
+    100050: //RootNode
+    400000: amberlit
+    400002: battery
+    400004: bfender
+    400006: black
+    400008: bottom
+    400010: box01
+    400012: control1
+    400014: control2
+    400016: dpeg
+    400018: engine
+    400020: ffender
+    400022: fshocks
+    400024: gascap
+    400026: glass
+    400028: hbars
+    400030: radiator
+    400032: saddle
+    400034: seat
+    400036: speaker
+    400038: tank
+    400040: tires
+    400042: vent01
+    400044: vent02
+    400046: windshld
+    400048: wlit
+    400050: //RootNode
+    2300000: amberlit
+    2300002: battery
+    2300004: bfender
+    2300006: black
+    2300008: bottom
+    2300010: box01
+    2300012: control1
+    2300014: control2
+    2300016: dpeg
+    2300018: engine
+    2300020: ffender
+    2300022: fshocks
+    2300024: gascap
+    2300026: glass
+    2300028: hbars
+    2300030: radiator
+    2300032: saddle
+    2300034: seat
+    2300036: speaker
+    2300038: tank
+    2300040: tires
+    2300042: vent01
+    2300044: vent02
+    2300046: windshld
+    2300048: wlit
+    3300000: amberlit
+    3300002: battery
+    3300004: bfender
+    3300006: black
+    3300008: bottom
+    3300010: box01
+    3300012: control1
+    3300014: control2
+    3300016: dpeg
+    3300018: engine
+    3300020: ffender
+    3300022: fshocks
+    3300024: gascap
+    3300026: glass
+    3300028: hbars
+    3300030: radiator
+    3300032: saddle
+    3300034: seat
+    3300036: speaker
+    3300038: tank
+    3300040: tires
+    3300042: vent01
+    3300044: vent02
+    3300046: windshld
+    3300048: wlit
+    4300000: amberlit
+    4300002: battery
+    4300004: bfender
+    4300006: black
+    4300008: bottom
+    4300010: box01
+    4300012: control1
+    4300014: control2
+    4300016: dpeg
+    4300018: engine
+    4300020: ffender
+    4300022: fshocks
+    4300024: gascap
+    4300026: glass
+    4300028: hbars
+    4300030: radiator
+    4300032: saddle
+    4300034: seat
+    4300036: speaker
+    4300038: tank
+    4300040: tires
+    4300042: vent01
+    4300044: vent02
+    4300046: windshld
+    4300048: wlit
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

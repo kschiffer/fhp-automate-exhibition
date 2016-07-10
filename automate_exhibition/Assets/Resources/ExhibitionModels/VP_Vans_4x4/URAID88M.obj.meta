@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 958f586ff5a51994b9ae2a5a348d98bc
+timeCreated: 1468084986
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottom
+    100002: bumperg
+    100004: chrome
+    100006: dlghts
+    100008: door
+    100010: edges
+    100012: fbumper
+    100014: ffender
+    100016: flaps
+    100018: flgts
+    100020: glass
+    100022: guard
+    100024: hood
+    100026: markers
+    100028: rbumber
+    100030: rear
+    100032: rfender
+    100034: rim
+    100036: rlghts
+    100038: roof
+    100040: rtire
+    100042: rubber
+    100044: trim
+    100046: //RootNode
+    100048: washers
+    400000: bottom
+    400002: bumperg
+    400004: chrome
+    400006: dlghts
+    400008: door
+    400010: edges
+    400012: fbumper
+    400014: ffender
+    400016: flaps
+    400018: flgts
+    400020: glass
+    400022: guard
+    400024: hood
+    400026: markers
+    400028: rbumber
+    400030: rear
+    400032: rfender
+    400034: rim
+    400036: rlghts
+    400038: roof
+    400040: rtire
+    400042: rubber
+    400044: trim
+    400046: //RootNode
+    400048: washers
+    2300000: bottom
+    2300002: bumperg
+    2300004: chrome
+    2300006: dlghts
+    2300008: door
+    2300010: edges
+    2300012: fbumper
+    2300014: ffender
+    2300016: flaps
+    2300018: flgts
+    2300020: glass
+    2300022: guard
+    2300024: hood
+    2300026: markers
+    2300028: rbumber
+    2300030: rear
+    2300032: rfender
+    2300034: rim
+    2300036: rlghts
+    2300038: roof
+    2300040: rtire
+    2300042: rubber
+    2300044: trim
+    2300046: washers
+    3300000: bottom
+    3300002: bumperg
+    3300004: chrome
+    3300006: dlghts
+    3300008: door
+    3300010: edges
+    3300012: fbumper
+    3300014: ffender
+    3300016: flaps
+    3300018: flgts
+    3300020: glass
+    3300022: guard
+    3300024: hood
+    3300026: markers
+    3300028: rbumber
+    3300030: rear
+    3300032: rfender
+    3300034: rim
+    3300036: rlghts
+    3300038: roof
+    3300040: rtire
+    3300042: rubber
+    3300044: trim
+    3300046: washers
+    4300000: bottom
+    4300002: bumperg
+    4300004: chrome
+    4300006: dlghts
+    4300008: door
+    4300010: edges
+    4300012: fbumper
+    4300014: ffender
+    4300016: flaps
+    4300018: flgts
+    4300020: glass
+    4300022: guard
+    4300024: hood
+    4300026: markers
+    4300028: rbumber
+    4300030: rear
+    4300032: rfender
+    4300034: rim
+    4300036: rlghts
+    4300038: roof
+    4300040: rtire
+    4300042: rubber
+    4300044: trim
+    4300046: washers
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 06705585e001ee54b9b06b1526f8a64d
+timeCreated: 1468084839
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottom
+    100002: bumper
+    100004: cab
+    100006: camper
+    100008: cdoor
+    100010: cglass
+    100012: ctrim
+    100014: grill
+    100016: grill2
+    100018: gtrim
+    100020: lights
+    100022: markers
+    100024: rim
+    100026: rubber
+    100028: //RootNode
+    100030: windows
+    400000: bottom
+    400002: bumper
+    400004: cab
+    400006: camper
+    400008: cdoor
+    400010: cglass
+    400012: ctrim
+    400014: grill
+    400016: grill2
+    400018: gtrim
+    400020: lights
+    400022: markers
+    400024: rim
+    400026: rubber
+    400028: //RootNode
+    400030: windows
+    2300000: bottom
+    2300002: bumper
+    2300004: cab
+    2300006: camper
+    2300008: cdoor
+    2300010: cglass
+    2300012: ctrim
+    2300014: grill
+    2300016: grill2
+    2300018: gtrim
+    2300020: lights
+    2300022: markers
+    2300024: rim
+    2300026: rubber
+    2300028: windows
+    3300000: bottom
+    3300002: bumper
+    3300004: cab
+    3300006: camper
+    3300008: cdoor
+    3300010: cglass
+    3300012: ctrim
+    3300014: grill
+    3300016: grill2
+    3300018: gtrim
+    3300020: lights
+    3300022: markers
+    3300024: rim
+    3300026: rubber
+    3300028: windows
+    4300000: bottom
+    4300002: bumper
+    4300004: cab
+    4300006: camper
+    4300008: cdoor
+    4300010: cglass
+    4300012: ctrim
+    4300014: grill
+    4300016: grill2
+    4300018: gtrim
+    4300020: lights
+    4300022: markers
+    4300024: rim
+    4300026: rubber
+    4300028: windows
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 73980733fcaa97a4d85f5c62c4e541e7
+timeCreated: 1468084950
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: black
+    100004: brakelgt
+    100006: door
+    100008: doorglas
+    100010: doortrim
+    100012: glass
+    100014: grill
+    100016: handle
+    100018: lfrim
+    100020: lftire
+    100022: lights
+    100024: paint
+    100026: rack
+    100028: rfrim
+    100030: rftire
+    100032: rrim
+    100034: rtire
+    100036: spannel
+    100038: sroof
+    100040: trim
+    100042: //RootNode
+    400000: back
+    400002: black
+    400004: brakelgt
+    400006: door
+    400008: doorglas
+    400010: doortrim
+    400012: glass
+    400014: grill
+    400016: handle
+    400018: lfrim
+    400020: lftire
+    400022: lights
+    400024: paint
+    400026: rack
+    400028: rfrim
+    400030: rftire
+    400032: rrim
+    400034: rtire
+    400036: spannel
+    400038: sroof
+    400040: trim
+    400042: //RootNode
+    2300000: back
+    2300002: black
+    2300004: brakelgt
+    2300006: door
+    2300008: doorglas
+    2300010: doortrim
+    2300012: glass
+    2300014: grill
+    2300016: handle
+    2300018: lfrim
+    2300020: lftire
+    2300022: lights
+    2300024: paint
+    2300026: rack
+    2300028: rfrim
+    2300030: rftire
+    2300032: rrim
+    2300034: rtire
+    2300036: spannel
+    2300038: sroof
+    2300040: trim
+    3300000: back
+    3300002: black
+    3300004: brakelgt
+    3300006: door
+    3300008: doorglas
+    3300010: doortrim
+    3300012: glass
+    3300014: grill
+    3300016: handle
+    3300018: lfrim
+    3300020: lftire
+    3300022: lights
+    3300024: paint
+    3300026: rack
+    3300028: rfrim
+    3300030: rftire
+    3300032: rrim
+    3300034: rtire
+    3300036: spannel
+    3300038: sroof
+    3300040: trim
+    4300000: back
+    4300002: black
+    4300004: brakelgt
+    4300006: door
+    4300008: doorglas
+    4300010: doortrim
+    4300012: glass
+    4300014: grill
+    4300016: handle
+    4300018: lfrim
+    4300020: lftire
+    4300022: lights
+    4300024: paint
+    4300026: rack
+    4300028: rfrim
+    4300030: rftire
+    4300032: rrim
+    4300034: rtire
+    4300036: spannel
+    4300038: sroof
+    4300040: trim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

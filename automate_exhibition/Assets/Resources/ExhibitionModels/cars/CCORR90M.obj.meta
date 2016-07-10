@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 7be30dc228a9da74a9b9fcabb8d23ceb
+timeCreated: 1468084961
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: black
+    100002: body
+    100004: bottom
+    100006: bumpers
+    100008: //RootNode
+    100010: door
+    100012: glass
+    100014: hood
+    100016: hub
+    100018: interior
+    100020: rim
+    100022: roof
+    100024: signals
+    100026: tire
+    100028: tlights
+    400000: black
+    400002: body
+    400004: bottom
+    400006: bumpers
+    400008: //RootNode
+    400010: door
+    400012: glass
+    400014: hood
+    400016: hub
+    400018: interior
+    400020: rim
+    400022: roof
+    400024: signals
+    400026: tire
+    400028: tlights
+    2300000: black
+    2300002: body
+    2300004: bottom
+    2300006: bumpers
+    2300008: door
+    2300010: glass
+    2300012: hood
+    2300014: hub
+    2300016: interior
+    2300018: rim
+    2300020: roof
+    2300022: signals
+    2300024: tire
+    2300026: tlights
+    3300000: black
+    3300002: body
+    3300004: bottom
+    3300006: bumpers
+    3300008: door
+    3300010: glass
+    3300012: hood
+    3300014: hub
+    3300016: interior
+    3300018: rim
+    3300020: roof
+    3300022: signals
+    3300024: tire
+    3300026: tlights
+    4300000: black
+    4300002: body
+    4300004: bottom
+    4300006: bumpers
+    4300008: door
+    4300010: glass
+    4300012: hood
+    4300014: hub
+    4300016: interior
+    4300018: rim
+    4300020: roof
+    4300022: signals
+    4300024: tire
+    4300026: tlights
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

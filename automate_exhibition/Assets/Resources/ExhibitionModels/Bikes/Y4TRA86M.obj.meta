@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 64b962fd6d794294d8f641302eea69b8
+timeCreated: 1468084935
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: axle
+    100002: engine
+    100004: fenders
+    100006: flaps
+    100008: frame
+    100010: grips
+    100012: hbars
+    100014: instrumt
+    100016: lfhub
+    100018: lftire
+    100020: rfhub
+    100022: rftire
+    100024: rhubs
+    100026: rtires
+    100028: scolumn
+    100030: seat
+    100032: steer
+    100034: tank
+    100036: //RootNode
+    400000: axle
+    400002: engine
+    400004: fenders
+    400006: flaps
+    400008: frame
+    400010: grips
+    400012: hbars
+    400014: instrumt
+    400016: lfhub
+    400018: lftire
+    400020: rfhub
+    400022: rftire
+    400024: rhubs
+    400026: rtires
+    400028: scolumn
+    400030: seat
+    400032: steer
+    400034: tank
+    400036: //RootNode
+    2300000: axle
+    2300002: engine
+    2300004: fenders
+    2300006: flaps
+    2300008: frame
+    2300010: grips
+    2300012: hbars
+    2300014: instrumt
+    2300016: lfhub
+    2300018: lftire
+    2300020: rfhub
+    2300022: rftire
+    2300024: rhubs
+    2300026: rtires
+    2300028: scolumn
+    2300030: seat
+    2300032: steer
+    2300034: tank
+    3300000: axle
+    3300002: engine
+    3300004: fenders
+    3300006: flaps
+    3300008: frame
+    3300010: grips
+    3300012: hbars
+    3300014: instrumt
+    3300016: lfhub
+    3300018: lftire
+    3300020: rfhub
+    3300022: rftire
+    3300024: rhubs
+    3300026: rtires
+    3300028: scolumn
+    3300030: seat
+    3300032: steer
+    3300034: tank
+    4300000: axle
+    4300002: engine
+    4300004: fenders
+    4300006: flaps
+    4300008: frame
+    4300010: grips
+    4300012: hbars
+    4300014: instrumt
+    4300016: lfhub
+    4300018: lftire
+    4300020: rfhub
+    4300022: rftire
+    4300024: rhubs
+    4300026: rtires
+    4300028: scolumn
+    4300030: seat
+    4300032: steer
+    4300034: tank
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

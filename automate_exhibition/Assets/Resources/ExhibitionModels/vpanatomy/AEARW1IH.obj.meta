@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 38c1edd6e43479b4e828b085e088c45b
+timeCreated: 1468084896
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: canals1
+    100004: coc
+    100006: eardrum
+    100008: ebase
+    100010: estbase
+    100012: etube1
+    100014: etube2
+    100016: hammer
+    100018: innerear
+    100020: membrane
+    100022: nerves
+    100024: outerear
+    100026: ring
+    100028: stirrup
+    100030: topplate
+    100032: tube
+    400000: //RootNode
+    400002: canals1
+    400004: coc
+    400006: eardrum
+    400008: ebase
+    400010: estbase
+    400012: etube1
+    400014: etube2
+    400016: hammer
+    400018: innerear
+    400020: membrane
+    400022: nerves
+    400024: outerear
+    400026: ring
+    400028: stirrup
+    400030: topplate
+    400032: tube
+    2300000: canals1
+    2300002: coc
+    2300004: eardrum
+    2300006: ebase
+    2300008: estbase
+    2300010: etube1
+    2300012: etube2
+    2300014: hammer
+    2300016: innerear
+    2300018: membrane
+    2300020: nerves
+    2300022: outerear
+    2300024: ring
+    2300026: stirrup
+    2300028: topplate
+    2300030: tube
+    3300000: canals1
+    3300002: coc
+    3300004: eardrum
+    3300006: ebase
+    3300008: estbase
+    3300010: etube1
+    3300012: etube2
+    3300014: hammer
+    3300016: innerear
+    3300018: membrane
+    3300020: nerves
+    3300022: outerear
+    3300024: ring
+    3300026: stirrup
+    3300028: topplate
+    3300030: tube
+    4300000: canals1
+    4300002: coc
+    4300004: eardrum
+    4300006: ebase
+    4300008: estbase
+    4300010: etube1
+    4300012: etube2
+    4300014: hammer
+    4300016: innerear
+    4300018: membrane
+    4300020: nerves
+    4300022: outerear
+    4300024: ring
+    4300026: stirrup
+    4300028: topplate
+    4300030: tube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

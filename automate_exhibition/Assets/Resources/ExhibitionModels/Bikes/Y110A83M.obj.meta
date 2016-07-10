@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 35395b9f4592b6d4d8d0fb419f881b5d
+timeCreated: 1468084888
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bars
+    100002: boots
+    100004: brake
+    100006: cable
+    100008: control
+    100010: engine
+    100012: ffender
+    100014: fhub
+    100016: forks
+    100018: frame
+    100020: frntflap
+    100022: ftire
+    100024: gascap
+    100026: gears
+    100028: grips
+    100030: headlgt
+    100032: light
+    100034: mounts
+    100036: rack
+    100038: rearflap
+    100040: rfenders
+    100042: rhub
+    100044: rtire
+    100046: seat
+    100048: tank
+    100050: tube
+    100052: //RootNode
+    400000: bars
+    400002: boots
+    400004: brake
+    400006: cable
+    400008: control
+    400010: engine
+    400012: ffender
+    400014: fhub
+    400016: forks
+    400018: frame
+    400020: frntflap
+    400022: ftire
+    400024: gascap
+    400026: gears
+    400028: grips
+    400030: headlgt
+    400032: light
+    400034: mounts
+    400036: rack
+    400038: rearflap
+    400040: rfenders
+    400042: rhub
+    400044: rtire
+    400046: seat
+    400048: tank
+    400050: tube
+    400052: //RootNode
+    2300000: bars
+    2300002: boots
+    2300004: brake
+    2300006: cable
+    2300008: control
+    2300010: engine
+    2300012: ffender
+    2300014: fhub
+    2300016: forks
+    2300018: frame
+    2300020: frntflap
+    2300022: ftire
+    2300024: gascap
+    2300026: gears
+    2300028: grips
+    2300030: headlgt
+    2300032: light
+    2300034: mounts
+    2300036: rack
+    2300038: rearflap
+    2300040: rfenders
+    2300042: rhub
+    2300044: rtire
+    2300046: seat
+    2300048: tank
+    2300050: tube
+    3300000: bars
+    3300002: boots
+    3300004: brake
+    3300006: cable
+    3300008: control
+    3300010: engine
+    3300012: ffender
+    3300014: fhub
+    3300016: forks
+    3300018: frame
+    3300020: frntflap
+    3300022: ftire
+    3300024: gascap
+    3300026: gears
+    3300028: grips
+    3300030: headlgt
+    3300032: light
+    3300034: mounts
+    3300036: rack
+    3300038: rearflap
+    3300040: rfenders
+    3300042: rhub
+    3300044: rtire
+    3300046: seat
+    3300048: tank
+    3300050: tube
+    4300000: bars
+    4300002: boots
+    4300004: brake
+    4300006: cable
+    4300008: control
+    4300010: engine
+    4300012: ffender
+    4300014: fhub
+    4300016: forks
+    4300018: frame
+    4300020: frntflap
+    4300022: ftire
+    4300024: gascap
+    4300026: gears
+    4300028: grips
+    4300030: headlgt
+    4300032: light
+    4300034: mounts
+    4300036: rack
+    4300038: rearflap
+    4300040: rfenders
+    4300042: rhub
+    4300044: rtire
+    4300046: seat
+    4300048: tank
+    4300050: tube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

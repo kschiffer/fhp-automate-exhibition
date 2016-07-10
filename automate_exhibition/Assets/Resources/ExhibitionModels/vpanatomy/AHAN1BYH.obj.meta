@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 1633e590b8de4d545813d6d9861d1370
+timeCreated: 1468084857
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: capitate
+    100004: hamate
+    100006: lunate
+    100008: mcarpal1
+    100010: mcarpal2
+    100012: mcarpal3
+    100014: mcarpal4
+    100016: mcarpal5
+    100018: phalx1d
+    100020: phalx1p
+    100022: phalx2d
+    100024: phalx2m
+    100026: phalx2p
+    100028: phalx3d
+    100030: phalx3m
+    100032: phalx3p
+    100034: phalx4d
+    100036: phalx4m
+    100038: phalx4p
+    100040: phalx5d
+    100042: phalx5m
+    100044: phalx5p
+    100046: pisiform
+    100048: scaphoid
+    100050: trapezod
+    100052: trapezum
+    100054: triqutrm
+    400000: //RootNode
+    400002: capitate
+    400004: hamate
+    400006: lunate
+    400008: mcarpal1
+    400010: mcarpal2
+    400012: mcarpal3
+    400014: mcarpal4
+    400016: mcarpal5
+    400018: phalx1d
+    400020: phalx1p
+    400022: phalx2d
+    400024: phalx2m
+    400026: phalx2p
+    400028: phalx3d
+    400030: phalx3m
+    400032: phalx3p
+    400034: phalx4d
+    400036: phalx4m
+    400038: phalx4p
+    400040: phalx5d
+    400042: phalx5m
+    400044: phalx5p
+    400046: pisiform
+    400048: scaphoid
+    400050: trapezod
+    400052: trapezum
+    400054: triqutrm
+    2300000: capitate
+    2300002: hamate
+    2300004: lunate
+    2300006: mcarpal1
+    2300008: mcarpal2
+    2300010: mcarpal3
+    2300012: mcarpal4
+    2300014: mcarpal5
+    2300016: phalx1d
+    2300018: phalx1p
+    2300020: phalx2d
+    2300022: phalx2m
+    2300024: phalx2p
+    2300026: phalx3d
+    2300028: phalx3m
+    2300030: phalx3p
+    2300032: phalx4d
+    2300034: phalx4m
+    2300036: phalx4p
+    2300038: phalx5d
+    2300040: phalx5m
+    2300042: phalx5p
+    2300044: pisiform
+    2300046: scaphoid
+    2300048: trapezod
+    2300050: trapezum
+    2300052: triqutrm
+    3300000: capitate
+    3300002: hamate
+    3300004: lunate
+    3300006: mcarpal1
+    3300008: mcarpal2
+    3300010: mcarpal3
+    3300012: mcarpal4
+    3300014: mcarpal5
+    3300016: phalx1d
+    3300018: phalx1p
+    3300020: phalx2d
+    3300022: phalx2m
+    3300024: phalx2p
+    3300026: phalx3d
+    3300028: phalx3m
+    3300030: phalx3p
+    3300032: phalx4d
+    3300034: phalx4m
+    3300036: phalx4p
+    3300038: phalx5d
+    3300040: phalx5m
+    3300042: phalx5p
+    3300044: pisiform
+    3300046: scaphoid
+    3300048: trapezod
+    3300050: trapezum
+    3300052: triqutrm
+    4300000: capitate
+    4300002: hamate
+    4300004: lunate
+    4300006: mcarpal1
+    4300008: mcarpal2
+    4300010: mcarpal3
+    4300012: mcarpal4
+    4300014: mcarpal5
+    4300016: phalx1d
+    4300018: phalx1p
+    4300020: phalx2d
+    4300022: phalx2m
+    4300024: phalx2p
+    4300026: phalx3d
+    4300028: phalx3m
+    4300030: phalx3p
+    4300032: phalx4d
+    4300034: phalx4m
+    4300036: phalx4p
+    4300038: phalx5d
+    4300040: phalx5m
+    4300042: phalx5p
+    4300044: pisiform
+    4300046: scaphoid
+    4300048: trapezod
+    4300050: trapezum
+    4300052: triqutrm
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

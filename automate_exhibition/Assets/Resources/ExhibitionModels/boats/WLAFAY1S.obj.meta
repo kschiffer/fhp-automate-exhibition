@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 6a6a386b4e771a94caf0fda237340034
+timeCreated: 1468084940
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: barrel
+    100002: deck1
+    100004: deck2
+    100006: deck3
+    100008: dish1
+    100010: dish2
+    100012: dish3
+    100014: hull1
+    100016: hull2
+    100018: hull3
+    100020: mast
+    100022: stacks
+    100024: super1
+    100026: super2
+    100028: super3
+    100030: tower1
+    100032: tower2
+    100034: tower3
+    100036: turret
+    100038: //RootNode
+    400000: barrel
+    400002: deck1
+    400004: deck2
+    400006: deck3
+    400008: dish1
+    400010: dish2
+    400012: dish3
+    400014: hull1
+    400016: hull2
+    400018: hull3
+    400020: mast
+    400022: stacks
+    400024: super1
+    400026: super2
+    400028: super3
+    400030: tower1
+    400032: tower2
+    400034: tower3
+    400036: turret
+    400038: //RootNode
+    2300000: barrel
+    2300002: deck1
+    2300004: deck2
+    2300006: deck3
+    2300008: dish1
+    2300010: dish2
+    2300012: dish3
+    2300014: hull1
+    2300016: hull2
+    2300018: hull3
+    2300020: mast
+    2300022: stacks
+    2300024: super1
+    2300026: super2
+    2300028: super3
+    2300030: tower1
+    2300032: tower2
+    2300034: tower3
+    2300036: turret
+    3300000: barrel
+    3300002: deck1
+    3300004: deck2
+    3300006: deck3
+    3300008: dish1
+    3300010: dish2
+    3300012: dish3
+    3300014: hull1
+    3300016: hull2
+    3300018: hull3
+    3300020: mast
+    3300022: stacks
+    3300024: super1
+    3300026: super2
+    3300028: super3
+    3300030: tower1
+    3300032: tower2
+    3300034: tower3
+    3300036: turret
+    4300000: barrel
+    4300002: deck1
+    4300004: deck2
+    4300006: deck3
+    4300008: dish1
+    4300010: dish2
+    4300012: dish3
+    4300014: hull1
+    4300016: hull2
+    4300018: hull3
+    4300020: mast
+    4300022: stacks
+    4300024: super1
+    4300026: super2
+    4300028: super3
+    4300030: tower1
+    4300032: tower2
+    4300034: tower3
+    4300036: turret
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

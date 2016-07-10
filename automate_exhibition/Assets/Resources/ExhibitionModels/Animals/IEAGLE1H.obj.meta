@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 9a50274290c24734aa4a0266b2d2b34f
+timeCreated: 1468084990
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: beak1
+    100002: beak2
+    100004: body
+    100006: claws
+    100008: eyes
+    100010: feet
+    100012: head
+    100014: //RootNode
+    100016: mouth
+    100018: nose
+    100020: tailfeat
+    100022: tailspin
+    100024: tongue
+    100026: wing1
+    100028: wing2
+    100030: wings3
+    100032: wings4
+    100034: wspines1
+    100036: wspines2
+    100038: wspines3
+    100040: wspines4
+    400000: beak1
+    400002: beak2
+    400004: body
+    400006: claws
+    400008: eyes
+    400010: feet
+    400012: head
+    400014: //RootNode
+    400016: mouth
+    400018: nose
+    400020: tailfeat
+    400022: tailspin
+    400024: tongue
+    400026: wing1
+    400028: wing2
+    400030: wings3
+    400032: wings4
+    400034: wspines1
+    400036: wspines2
+    400038: wspines3
+    400040: wspines4
+    2300000: beak1
+    2300002: beak2
+    2300004: body
+    2300006: claws
+    2300008: eyes
+    2300010: feet
+    2300012: head
+    2300014: mouth
+    2300016: nose
+    2300018: tailfeat
+    2300020: tailspin
+    2300022: tongue
+    2300024: wing1
+    2300026: wing2
+    2300028: wings3
+    2300030: wings4
+    2300032: wspines1
+    2300034: wspines2
+    2300036: wspines3
+    2300038: wspines4
+    3300000: beak1
+    3300002: beak2
+    3300004: body
+    3300006: claws
+    3300008: eyes
+    3300010: feet
+    3300012: head
+    3300014: mouth
+    3300016: nose
+    3300018: tailfeat
+    3300020: tailspin
+    3300022: tongue
+    3300024: wing1
+    3300026: wing2
+    3300028: wings3
+    3300030: wings4
+    3300032: wspines1
+    3300034: wspines2
+    3300036: wspines3
+    3300038: wspines4
+    4300000: beak1
+    4300002: beak2
+    4300004: body
+    4300006: claws
+    4300008: eyes
+    4300010: feet
+    4300012: head
+    4300014: mouth
+    4300016: nose
+    4300018: tailfeat
+    4300020: tailspin
+    4300022: tongue
+    4300024: wing1
+    4300026: wing2
+    4300028: wings3
+    4300030: wings4
+    4300032: wspines1
+    4300034: wspines2
+    4300036: wspines3
+    4300038: wspines4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

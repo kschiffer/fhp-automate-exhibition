@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: da1f344d950dcb0428c5a35782ae090d
+timeCreated: 1468085070
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aft
+    100002: aft2
+    100004: deck
+    100006: fore
+    100008: foremast
+    100010: hull
+    100012: keel
+    100014: lamp
+    100016: mast1
+    100018: mast2
+    100020: mast3
+    100022: rig
+    100024: sail1
+    100026: sail2
+    100028: sail3
+    100030: sail4
+    100032: sail5
+    100034: sail6
+    100036: //RootNode
+    100038: windows
+    400000: aft
+    400002: aft2
+    400004: deck
+    400006: fore
+    400008: foremast
+    400010: hull
+    400012: keel
+    400014: lamp
+    400016: mast1
+    400018: mast2
+    400020: mast3
+    400022: rig
+    400024: sail1
+    400026: sail2
+    400028: sail3
+    400030: sail4
+    400032: sail5
+    400034: sail6
+    400036: //RootNode
+    400038: windows
+    2300000: aft
+    2300002: aft2
+    2300004: deck
+    2300006: fore
+    2300008: foremast
+    2300010: hull
+    2300012: keel
+    2300014: lamp
+    2300016: mast1
+    2300018: mast2
+    2300020: mast3
+    2300022: rig
+    2300024: sail1
+    2300026: sail2
+    2300028: sail3
+    2300030: sail4
+    2300032: sail5
+    2300034: sail6
+    2300036: windows
+    3300000: aft
+    3300002: aft2
+    3300004: deck
+    3300006: fore
+    3300008: foremast
+    3300010: hull
+    3300012: keel
+    3300014: lamp
+    3300016: mast1
+    3300018: mast2
+    3300020: mast3
+    3300022: rig
+    3300024: sail1
+    3300026: sail2
+    3300028: sail3
+    3300030: sail4
+    3300032: sail5
+    3300034: sail6
+    3300036: windows
+    4300000: aft
+    4300002: aft2
+    4300004: deck
+    4300006: fore
+    4300008: foremast
+    4300010: hull
+    4300012: keel
+    4300014: lamp
+    4300016: mast1
+    4300018: mast2
+    4300020: mast3
+    4300022: rig
+    4300024: sail1
+    4300026: sail2
+    4300028: sail3
+    4300030: sail4
+    4300032: sail5
+    4300034: sail6
+    4300036: windows
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

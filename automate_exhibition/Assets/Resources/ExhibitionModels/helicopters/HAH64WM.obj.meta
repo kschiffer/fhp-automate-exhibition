@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: b1fa5ac01b023b84ca471d3b13153f1d
+timeCreated: 1468085018
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cockpit
+    100002: elevator
+    100004: engines
+    100006: fgear
+    100008: fuselage
+    100010: glass
+    100012: //RootNode
+    100014: m230gun
+    100016: mainhub
+    100018: pylon
+    100020: radar
+    100022: rgear
+    100024: rrotor1
+    100026: rrotor2
+    100028: rtrblade
+    100030: rtrjoint
+    100032: scissors
+    100034: sensmast
+    100036: trans
+    400000: cockpit
+    400002: elevator
+    400004: engines
+    400006: fgear
+    400008: fuselage
+    400010: glass
+    400012: //RootNode
+    400014: m230gun
+    400016: mainhub
+    400018: pylon
+    400020: radar
+    400022: rgear
+    400024: rrotor1
+    400026: rrotor2
+    400028: rtrblade
+    400030: rtrjoint
+    400032: scissors
+    400034: sensmast
+    400036: trans
+    2300000: cockpit
+    2300002: elevator
+    2300004: engines
+    2300006: fgear
+    2300008: fuselage
+    2300010: glass
+    2300012: m230gun
+    2300014: mainhub
+    2300016: pylon
+    2300018: radar
+    2300020: rgear
+    2300022: rrotor1
+    2300024: rrotor2
+    2300026: rtrblade
+    2300028: rtrjoint
+    2300030: scissors
+    2300032: sensmast
+    2300034: trans
+    3300000: cockpit
+    3300002: elevator
+    3300004: engines
+    3300006: fgear
+    3300008: fuselage
+    3300010: glass
+    3300012: m230gun
+    3300014: mainhub
+    3300016: pylon
+    3300018: radar
+    3300020: rgear
+    3300022: rrotor1
+    3300024: rrotor2
+    3300026: rtrblade
+    3300028: rtrjoint
+    3300030: scissors
+    3300032: sensmast
+    3300034: trans
+    4300000: cockpit
+    4300002: elevator
+    4300004: engines
+    4300006: fgear
+    4300008: fuselage
+    4300010: glass
+    4300012: m230gun
+    4300014: mainhub
+    4300016: pylon
+    4300018: radar
+    4300020: rgear
+    4300022: rrotor1
+    4300024: rrotor2
+    4300026: rtrblade
+    4300028: rtrjoint
+    4300030: scissors
+    4300032: sensmast
+    4300034: trans
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

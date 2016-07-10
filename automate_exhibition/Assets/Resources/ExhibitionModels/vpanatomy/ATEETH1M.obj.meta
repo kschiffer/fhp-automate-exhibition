@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 808d27faecd848544a714f6699d11de3
+timeCreated: 1468084964
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: lcanine
+    100004: lcenincr
+    100006: llatincr
+    100008: lmolar1
+    100010: lmolar2
+    100012: lpremol1
+    100014: lpremol2
+    100016: lwisdom
+    100018: ucanine
+    100020: ucomincr
+    100022: ulatincr
+    100024: umolar1
+    100026: umolar2
+    100028: upremol1
+    100030: upremol2
+    100032: uwisdom
+    400000: //RootNode
+    400002: lcanine
+    400004: lcenincr
+    400006: llatincr
+    400008: lmolar1
+    400010: lmolar2
+    400012: lpremol1
+    400014: lpremol2
+    400016: lwisdom
+    400018: ucanine
+    400020: ucomincr
+    400022: ulatincr
+    400024: umolar1
+    400026: umolar2
+    400028: upremol1
+    400030: upremol2
+    400032: uwisdom
+    2300000: lcanine
+    2300002: lcenincr
+    2300004: llatincr
+    2300006: lmolar1
+    2300008: lmolar2
+    2300010: lpremol1
+    2300012: lpremol2
+    2300014: lwisdom
+    2300016: ucanine
+    2300018: ucomincr
+    2300020: ulatincr
+    2300022: umolar1
+    2300024: umolar2
+    2300026: upremol1
+    2300028: upremol2
+    2300030: uwisdom
+    3300000: lcanine
+    3300002: lcenincr
+    3300004: llatincr
+    3300006: lmolar1
+    3300008: lmolar2
+    3300010: lpremol1
+    3300012: lpremol2
+    3300014: lwisdom
+    3300016: ucanine
+    3300018: ucomincr
+    3300020: ulatincr
+    3300022: umolar1
+    3300024: umolar2
+    3300026: upremol1
+    3300028: upremol2
+    3300030: uwisdom
+    4300000: lcanine
+    4300002: lcenincr
+    4300004: llatincr
+    4300006: lmolar1
+    4300008: lmolar2
+    4300010: lpremol1
+    4300012: lpremol2
+    4300014: lwisdom
+    4300016: ucanine
+    4300018: ucomincr
+    4300020: ulatincr
+    4300022: umolar1
+    4300024: umolar2
+    4300026: upremol1
+    4300028: upremol2
+    4300030: uwisdom
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

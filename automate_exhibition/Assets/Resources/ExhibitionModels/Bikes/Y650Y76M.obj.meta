@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 5fec0eb2c7acbaf439cb8ff023cac14a
+timeCreated: 1468084931
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bspokes
+    100002: engine
+    100004: ffender
+    100006: fhub
+    100008: forks
+    100010: frame
+    100012: frim
+    100014: fspokes
+    100016: ftire
+    100018: gauges
+    100020: lens
+    100022: light
+    100024: mount
+    100026: rfender
+    100028: rhub
+    100030: rrim
+    100032: rshocks
+    100034: rtire
+    100036: seat
+    100038: side
+    100040: tank
+    100042: //RootNode
+    400000: bspokes
+    400002: engine
+    400004: ffender
+    400006: fhub
+    400008: forks
+    400010: frame
+    400012: frim
+    400014: fspokes
+    400016: ftire
+    400018: gauges
+    400020: lens
+    400022: light
+    400024: mount
+    400026: rfender
+    400028: rhub
+    400030: rrim
+    400032: rshocks
+    400034: rtire
+    400036: seat
+    400038: side
+    400040: tank
+    400042: //RootNode
+    2300000: bspokes
+    2300002: engine
+    2300004: ffender
+    2300006: fhub
+    2300008: forks
+    2300010: frame
+    2300012: frim
+    2300014: fspokes
+    2300016: ftire
+    2300018: gauges
+    2300020: lens
+    2300022: light
+    2300024: mount
+    2300026: rfender
+    2300028: rhub
+    2300030: rrim
+    2300032: rshocks
+    2300034: rtire
+    2300036: seat
+    2300038: side
+    2300040: tank
+    3300000: bspokes
+    3300002: engine
+    3300004: ffender
+    3300006: fhub
+    3300008: forks
+    3300010: frame
+    3300012: frim
+    3300014: fspokes
+    3300016: ftire
+    3300018: gauges
+    3300020: lens
+    3300022: light
+    3300024: mount
+    3300026: rfender
+    3300028: rhub
+    3300030: rrim
+    3300032: rshocks
+    3300034: rtire
+    3300036: seat
+    3300038: side
+    3300040: tank
+    4300000: bspokes
+    4300002: engine
+    4300004: ffender
+    4300006: fhub
+    4300008: forks
+    4300010: frame
+    4300012: frim
+    4300014: fspokes
+    4300016: ftire
+    4300018: gauges
+    4300020: lens
+    4300022: light
+    4300024: mount
+    4300026: rfender
+    4300028: rhub
+    4300030: rrim
+    4300032: rshocks
+    4300034: rtire
+    4300036: seat
+    4300038: side
+    4300040: tank
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

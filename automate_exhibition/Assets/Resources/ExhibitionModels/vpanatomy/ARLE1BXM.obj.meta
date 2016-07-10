@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 72f85d31457cfe6439073336cb1b82b6
+timeCreated: 1468084945
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Calcaneu
+    100004: Cuboid
+    100006: Cuneifor
+    100008: Cuniform
+    100010: femur
+    100012: fibula
+    100014: Metarsal
+    100016: Metarsl1
+    100018: Metarsl3
+    100020: Metatars
+    100022: Navicula
+    100024: patella
+    100026: T1phalan
+    100028: t1phlanx
+    100030: T2phalan
+    100032: T2phlanx
+    100034: T3phalan
+    100036: T3phlanx
+    100038: T4phalan
+    100040: T4phlanx
+    100042: T5phalan
+    100044: T5phlanx
+    100046: talus
+    100048: tibia
+    400000: //RootNode
+    400002: Calcaneu
+    400004: Cuboid
+    400006: Cuneifor
+    400008: Cuniform
+    400010: femur
+    400012: fibula
+    400014: Metarsal
+    400016: Metarsl1
+    400018: Metarsl3
+    400020: Metatars
+    400022: Navicula
+    400024: patella
+    400026: T1phalan
+    400028: t1phlanx
+    400030: T2phalan
+    400032: T2phlanx
+    400034: T3phalan
+    400036: T3phlanx
+    400038: T4phalan
+    400040: T4phlanx
+    400042: T5phalan
+    400044: T5phlanx
+    400046: talus
+    400048: tibia
+    2300000: Calcaneu
+    2300002: Cuboid
+    2300004: Cuneifor
+    2300006: Cuniform
+    2300008: femur
+    2300010: fibula
+    2300012: Metarsal
+    2300014: Metarsl1
+    2300016: Metarsl3
+    2300018: Metatars
+    2300020: Navicula
+    2300022: patella
+    2300024: T1phalan
+    2300026: t1phlanx
+    2300028: T2phalan
+    2300030: T2phlanx
+    2300032: T3phalan
+    2300034: T3phlanx
+    2300036: T4phalan
+    2300038: T4phlanx
+    2300040: T5phalan
+    2300042: T5phlanx
+    2300044: talus
+    2300046: tibia
+    3300000: Calcaneu
+    3300002: Cuboid
+    3300004: Cuneifor
+    3300006: Cuniform
+    3300008: femur
+    3300010: fibula
+    3300012: Metarsal
+    3300014: Metarsl1
+    3300016: Metarsl3
+    3300018: Metatars
+    3300020: Navicula
+    3300022: patella
+    3300024: T1phalan
+    3300026: t1phlanx
+    3300028: T2phalan
+    3300030: T2phlanx
+    3300032: T3phalan
+    3300034: T3phlanx
+    3300036: T4phalan
+    3300038: T4phlanx
+    3300040: T5phalan
+    3300042: T5phlanx
+    3300044: talus
+    3300046: tibia
+    4300000: Calcaneu
+    4300002: Cuboid
+    4300004: Cuneifor
+    4300006: Cuniform
+    4300008: femur
+    4300010: fibula
+    4300012: Metarsal
+    4300014: Metarsl1
+    4300016: Metarsl3
+    4300018: Metatars
+    4300020: Navicula
+    4300022: patella
+    4300024: T1phalan
+    4300026: t1phlanx
+    4300028: T2phalan
+    4300030: T2phlanx
+    4300032: T3phalan
+    4300034: T3phlanx
+    4300036: T4phalan
+    4300038: T4phlanx
+    4300040: T5phalan
+    4300042: T5phlanx
+    4300044: talus
+    4300046: tibia
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

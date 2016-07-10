@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 79c4c36e2aa1ca04d879205b2c6ec115
+timeCreated: 1468084959
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bags
+    100002: bfender
+    100004: covers
+    100006: engine
+    100008: ffender
+    100010: frame
+    100012: frim
+    100014: fshocks
+    100016: fwheel
+    100018: hbars
+    100020: muffler
+    100022: rrim
+    100024: rwheel
+    100026: seat
+    100028: swingarm
+    100030: tank
+    100032: trans
+    100034: trunk
+    100036: windshld
+    100038: //RootNode
+    400000: bags
+    400002: bfender
+    400004: covers
+    400006: engine
+    400008: ffender
+    400010: frame
+    400012: frim
+    400014: fshocks
+    400016: fwheel
+    400018: hbars
+    400020: muffler
+    400022: rrim
+    400024: rwheel
+    400026: seat
+    400028: swingarm
+    400030: tank
+    400032: trans
+    400034: trunk
+    400036: windshld
+    400038: //RootNode
+    2300000: bags
+    2300002: bfender
+    2300004: covers
+    2300006: engine
+    2300008: ffender
+    2300010: frame
+    2300012: frim
+    2300014: fshocks
+    2300016: fwheel
+    2300018: hbars
+    2300020: muffler
+    2300022: rrim
+    2300024: rwheel
+    2300026: seat
+    2300028: swingarm
+    2300030: tank
+    2300032: trans
+    2300034: trunk
+    2300036: windshld
+    3300000: bags
+    3300002: bfender
+    3300004: covers
+    3300006: engine
+    3300008: ffender
+    3300010: frame
+    3300012: frim
+    3300014: fshocks
+    3300016: fwheel
+    3300018: hbars
+    3300020: muffler
+    3300022: rrim
+    3300024: rwheel
+    3300026: seat
+    3300028: swingarm
+    3300030: tank
+    3300032: trans
+    3300034: trunk
+    3300036: windshld
+    4300000: bags
+    4300002: bfender
+    4300004: covers
+    4300006: engine
+    4300008: ffender
+    4300010: frame
+    4300012: frim
+    4300014: fshocks
+    4300016: fwheel
+    4300018: hbars
+    4300020: muffler
+    4300022: rrim
+    4300024: rwheel
+    4300026: seat
+    4300028: swingarm
+    4300030: tank
+    4300032: trans
+    4300034: trunk
+    4300036: windshld
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

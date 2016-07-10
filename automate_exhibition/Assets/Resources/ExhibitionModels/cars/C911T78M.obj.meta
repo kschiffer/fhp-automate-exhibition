@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: b1433a536159cdf4fab4c0fc3c84dc73
+timeCreated: 1468085016
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bottom
+    100004: brims
+    100006: btires
+    100008: bumpers
+    100010: //RootNode
+    100012: dglass
+    100014: door
+    100016: glass
+    100018: hlights
+    100020: hood
+    100022: lrim
+    100024: ltire
+    100026: roof
+    100028: rrim
+    100030: rtire
+    100032: signals
+    100034: tlights
+    100036: trim
+    100038: trunk
+    100040: vent
+    400000: body
+    400002: bottom
+    400004: brims
+    400006: btires
+    400008: bumpers
+    400010: //RootNode
+    400012: dglass
+    400014: door
+    400016: glass
+    400018: hlights
+    400020: hood
+    400022: lrim
+    400024: ltire
+    400026: roof
+    400028: rrim
+    400030: rtire
+    400032: signals
+    400034: tlights
+    400036: trim
+    400038: trunk
+    400040: vent
+    2300000: body
+    2300002: bottom
+    2300004: brims
+    2300006: btires
+    2300008: bumpers
+    2300010: dglass
+    2300012: door
+    2300014: glass
+    2300016: hlights
+    2300018: hood
+    2300020: lrim
+    2300022: ltire
+    2300024: roof
+    2300026: rrim
+    2300028: rtire
+    2300030: signals
+    2300032: tlights
+    2300034: trim
+    2300036: trunk
+    2300038: vent
+    3300000: body
+    3300002: bottom
+    3300004: brims
+    3300006: btires
+    3300008: bumpers
+    3300010: dglass
+    3300012: door
+    3300014: glass
+    3300016: hlights
+    3300018: hood
+    3300020: lrim
+    3300022: ltire
+    3300024: roof
+    3300026: rrim
+    3300028: rtire
+    3300030: signals
+    3300032: tlights
+    3300034: trim
+    3300036: trunk
+    3300038: vent
+    4300000: body
+    4300002: bottom
+    4300004: brims
+    4300006: btires
+    4300008: bumpers
+    4300010: dglass
+    4300012: door
+    4300014: glass
+    4300016: hlights
+    4300018: hood
+    4300020: lrim
+    4300022: ltire
+    4300024: roof
+    4300026: rrim
+    4300028: rtire
+    4300030: signals
+    4300032: tlights
+    4300034: trim
+    4300036: trunk
+    4300038: vent
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

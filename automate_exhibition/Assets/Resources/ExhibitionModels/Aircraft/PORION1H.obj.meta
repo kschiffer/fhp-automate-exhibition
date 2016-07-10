@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a1e5bfb79166a1a49a6102088c79c088
+timeCreated: 1468085000
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bwindows
+    100002: bwing
+    100004: flaps
+    100006: indecks4
+    100008: nbrid
+    100010: part1
+    100012: part2
+    100014: piston
+    100016: //RootNode
+    100018: power
+    100020: pylon
+    100022: sensors
+    100024: skin3
+    100026: windows4
+    100028: wing
+    100030: wires
+    400000: bwindows
+    400002: bwing
+    400004: flaps
+    400006: indecks4
+    400008: nbrid
+    400010: part1
+    400012: part2
+    400014: piston
+    400016: //RootNode
+    400018: power
+    400020: pylon
+    400022: sensors
+    400024: skin3
+    400026: windows4
+    400028: wing
+    400030: wires
+    2300000: bwindows
+    2300002: bwing
+    2300004: flaps
+    2300006: indecks4
+    2300008: nbrid
+    2300010: part1
+    2300012: part2
+    2300014: piston
+    2300016: power
+    2300018: pylon
+    2300020: sensors
+    2300022: skin3
+    2300024: windows4
+    2300026: wing
+    2300028: wires
+    3300000: bwindows
+    3300002: bwing
+    3300004: flaps
+    3300006: indecks4
+    3300008: nbrid
+    3300010: part1
+    3300012: part2
+    3300014: piston
+    3300016: power
+    3300018: pylon
+    3300020: sensors
+    3300022: skin3
+    3300024: windows4
+    3300026: wing
+    3300028: wires
+    4300000: bwindows
+    4300002: bwing
+    4300004: flaps
+    4300006: indecks4
+    4300008: nbrid
+    4300010: part1
+    4300012: part2
+    4300014: piston
+    4300016: power
+    4300018: pylon
+    4300020: sensors
+    4300022: skin3
+    4300024: windows4
+    4300026: wing
+    4300028: wires
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

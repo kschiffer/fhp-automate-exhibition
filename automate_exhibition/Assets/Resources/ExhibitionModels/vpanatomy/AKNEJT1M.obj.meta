@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: a7708e4f68677d84aabefcf0afd001d3
+timeCreated: 1468085008
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: antcru
+    100004: bicepsfe
+    100006: femur
+    100008: fibco
+    100010: fibula
+    100012: gastroc
+    100014: latmen
+    100016: medmen
+    100018: patella
+    100020: patlig
+    100022: postcru
+    100024: postmen
+    100026: quads
+    100028: semimem
+    100030: semiten
+    100032: tibco
+    100034: tibia
+    100036: trans
+    400000: //RootNode
+    400002: antcru
+    400004: bicepsfe
+    400006: femur
+    400008: fibco
+    400010: fibula
+    400012: gastroc
+    400014: latmen
+    400016: medmen
+    400018: patella
+    400020: patlig
+    400022: postcru
+    400024: postmen
+    400026: quads
+    400028: semimem
+    400030: semiten
+    400032: tibco
+    400034: tibia
+    400036: trans
+    2300000: antcru
+    2300002: bicepsfe
+    2300004: femur
+    2300006: fibco
+    2300008: fibula
+    2300010: gastroc
+    2300012: latmen
+    2300014: medmen
+    2300016: patella
+    2300018: patlig
+    2300020: postcru
+    2300022: postmen
+    2300024: quads
+    2300026: semimem
+    2300028: semiten
+    2300030: tibco
+    2300032: tibia
+    2300034: trans
+    3300000: antcru
+    3300002: bicepsfe
+    3300004: femur
+    3300006: fibco
+    3300008: fibula
+    3300010: gastroc
+    3300012: latmen
+    3300014: medmen
+    3300016: patella
+    3300018: patlig
+    3300020: postcru
+    3300022: postmen
+    3300024: quads
+    3300026: semimem
+    3300028: semiten
+    3300030: tibco
+    3300032: tibia
+    3300034: trans
+    4300000: antcru
+    4300002: bicepsfe
+    4300004: femur
+    4300006: fibco
+    4300008: fibula
+    4300010: gastroc
+    4300012: latmen
+    4300014: medmen
+    4300016: patella
+    4300018: patlig
+    4300020: postcru
+    4300022: postmen
+    4300024: quads
+    4300026: semimem
+    4300028: semiten
+    4300030: tibco
+    4300032: tibia
+    4300034: trans
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

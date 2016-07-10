@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 906314c1244dbdb4fae5c9b2eed5fd96
+timeCreated: 1468084978
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2
+    100002: 3
+    100004: all
+    100006: block
+    100008: clutch
+    100010: cover
+    100012: ex1
+    100014: ex2
+    100016: ex3
+    100018: ex4
+    100020: filter
+    100022: manifold
+    100024: mount
+    100026: pan
+    100028: pipes
+    100030: pump
+    100032: shield
+    100034: tube1
+    100036: tube2
+    100038: tube3
+    100040: tube4
+    100042: valve
+    100044: //RootNode
+    400000: 2
+    400002: 3
+    400004: all
+    400006: block
+    400008: clutch
+    400010: cover
+    400012: ex1
+    400014: ex2
+    400016: ex3
+    400018: ex4
+    400020: filter
+    400022: manifold
+    400024: mount
+    400026: pan
+    400028: pipes
+    400030: pump
+    400032: shield
+    400034: tube1
+    400036: tube2
+    400038: tube3
+    400040: tube4
+    400042: valve
+    400044: //RootNode
+    2300000: 2
+    2300002: 3
+    2300004: all
+    2300006: block
+    2300008: clutch
+    2300010: cover
+    2300012: ex1
+    2300014: ex2
+    2300016: ex3
+    2300018: ex4
+    2300020: filter
+    2300022: manifold
+    2300024: mount
+    2300026: pan
+    2300028: pipes
+    2300030: pump
+    2300032: shield
+    2300034: tube1
+    2300036: tube2
+    2300038: tube3
+    2300040: tube4
+    2300042: valve
+    3300000: 2
+    3300002: 3
+    3300004: all
+    3300006: block
+    3300008: clutch
+    3300010: cover
+    3300012: ex1
+    3300014: ex2
+    3300016: ex3
+    3300018: ex4
+    3300020: filter
+    3300022: manifold
+    3300024: mount
+    3300026: pan
+    3300028: pipes
+    3300030: pump
+    3300032: shield
+    3300034: tube1
+    3300036: tube2
+    3300038: tube3
+    3300040: tube4
+    3300042: valve
+    4300000: 2
+    4300002: 3
+    4300004: all
+    4300006: block
+    4300008: clutch
+    4300010: cover
+    4300012: ex1
+    4300014: ex2
+    4300016: ex3
+    4300018: ex4
+    4300020: filter
+    4300022: manifold
+    4300024: mount
+    4300026: pan
+    4300028: pipes
+    4300030: pump
+    4300032: shield
+    4300034: tube1
+    4300036: tube2
+    4300038: tube3
+    4300040: tube4
+    4300042: valve
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

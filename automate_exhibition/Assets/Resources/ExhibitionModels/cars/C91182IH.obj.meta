@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: f5a49c593743e734cba5e567b75bb68e
+timeCreated: 1468085098
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: amberlgt
+    100002: body
+    100004: bottom
+    100006: bseats
+    100008: //RootNode
+    100010: dash
+    100012: floor
+    100014: fseats
+    100016: headlgt
+    100018: lfrim
+    100020: lftire
+    100022: redlgt
+    100024: rfrim
+    100026: rftire
+    100028: rrims
+    100030: rtires
+    100032: rubber
+    100034: shift
+    100036: steer
+    100038: windows
+    400000: amberlgt
+    400002: body
+    400004: bottom
+    400006: bseats
+    400008: //RootNode
+    400010: dash
+    400012: floor
+    400014: fseats
+    400016: headlgt
+    400018: lfrim
+    400020: lftire
+    400022: redlgt
+    400024: rfrim
+    400026: rftire
+    400028: rrims
+    400030: rtires
+    400032: rubber
+    400034: shift
+    400036: steer
+    400038: windows
+    2300000: amberlgt
+    2300002: body
+    2300004: bottom
+    2300006: bseats
+    2300008: dash
+    2300010: floor
+    2300012: fseats
+    2300014: headlgt
+    2300016: lfrim
+    2300018: lftire
+    2300020: redlgt
+    2300022: rfrim
+    2300024: rftire
+    2300026: rrims
+    2300028: rtires
+    2300030: rubber
+    2300032: shift
+    2300034: steer
+    2300036: windows
+    3300000: amberlgt
+    3300002: body
+    3300004: bottom
+    3300006: bseats
+    3300008: dash
+    3300010: floor
+    3300012: fseats
+    3300014: headlgt
+    3300016: lfrim
+    3300018: lftire
+    3300020: redlgt
+    3300022: rfrim
+    3300024: rftire
+    3300026: rrims
+    3300028: rtires
+    3300030: rubber
+    3300032: shift
+    3300034: steer
+    3300036: windows
+    4300000: amberlgt
+    4300002: body
+    4300004: bottom
+    4300006: bseats
+    4300008: dash
+    4300010: floor
+    4300012: fseats
+    4300014: headlgt
+    4300016: lfrim
+    4300018: lftire
+    4300020: redlgt
+    4300022: rfrim
+    4300024: rftire
+    4300026: rrims
+    4300028: rtires
+    4300030: rubber
+    4300032: shift
+    4300034: steer
+    4300036: windows
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

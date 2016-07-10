@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 76e790881b77dff42be2f9081f1a8cac
+timeCreated: 1468084957
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bottom
+    100004: brakelgt
+    100006: bumpers
+    100008: //RootNode
+    100010: door
+    100012: edge
+    100014: frims
+    100016: ftire
+    100018: glass
+    100020: grill
+    100022: handle
+    100024: hatchbk
+    100026: hood
+    100028: roof
+    100030: rrims
+    100032: rtires
+    100034: skirt
+    100036: trim
+    100038: turnlgt
+    100040: whitelgt
+    400000: body
+    400002: bottom
+    400004: brakelgt
+    400006: bumpers
+    400008: //RootNode
+    400010: door
+    400012: edge
+    400014: frims
+    400016: ftire
+    400018: glass
+    400020: grill
+    400022: handle
+    400024: hatchbk
+    400026: hood
+    400028: roof
+    400030: rrims
+    400032: rtires
+    400034: skirt
+    400036: trim
+    400038: turnlgt
+    400040: whitelgt
+    2300000: body
+    2300002: bottom
+    2300004: brakelgt
+    2300006: bumpers
+    2300008: door
+    2300010: edge
+    2300012: frims
+    2300014: ftire
+    2300016: glass
+    2300018: grill
+    2300020: handle
+    2300022: hatchbk
+    2300024: hood
+    2300026: roof
+    2300028: rrims
+    2300030: rtires
+    2300032: skirt
+    2300034: trim
+    2300036: turnlgt
+    2300038: whitelgt
+    3300000: body
+    3300002: bottom
+    3300004: brakelgt
+    3300006: bumpers
+    3300008: door
+    3300010: edge
+    3300012: frims
+    3300014: ftire
+    3300016: glass
+    3300018: grill
+    3300020: handle
+    3300022: hatchbk
+    3300024: hood
+    3300026: roof
+    3300028: rrims
+    3300030: rtires
+    3300032: skirt
+    3300034: trim
+    3300036: turnlgt
+    3300038: whitelgt
+    4300000: body
+    4300002: bottom
+    4300004: brakelgt
+    4300006: bumpers
+    4300008: door
+    4300010: edge
+    4300012: frims
+    4300014: ftire
+    4300016: glass
+    4300018: grill
+    4300020: handle
+    4300022: hatchbk
+    4300024: hood
+    4300026: roof
+    4300028: rrims
+    4300030: rtires
+    4300032: skirt
+    4300034: trim
+    4300036: turnlgt
+    4300038: whitelgt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 076480dd28e1d6c4a90e75ec0d287673
+timeCreated: 1468084840
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: facial
+    100004: fanklel
+    100006: fankler
+    100008: fhoofl
+    100010: fhoofr
+    100012: fllegl
+    100014: fllegr
+    100016: fuplegl
+    100018: fuplegr
+    100020: //RootNode
+    100022: mane
+    100024: ranklel
+    100026: rankler
+    100028: rhoofl
+    100030: rhoofr
+    100032: rllegl
+    100034: rllegr
+    100036: ruplegl
+    100038: ruplegr
+    100040: tail
+    400000: body
+    400002: facial
+    400004: fanklel
+    400006: fankler
+    400008: fhoofl
+    400010: fhoofr
+    400012: fllegl
+    400014: fllegr
+    400016: fuplegl
+    400018: fuplegr
+    400020: //RootNode
+    400022: mane
+    400024: ranklel
+    400026: rankler
+    400028: rhoofl
+    400030: rhoofr
+    400032: rllegl
+    400034: rllegr
+    400036: ruplegl
+    400038: ruplegr
+    400040: tail
+    2300000: body
+    2300002: facial
+    2300004: fanklel
+    2300006: fankler
+    2300008: fhoofl
+    2300010: fhoofr
+    2300012: fllegl
+    2300014: fllegr
+    2300016: fuplegl
+    2300018: fuplegr
+    2300020: mane
+    2300022: ranklel
+    2300024: rankler
+    2300026: rhoofl
+    2300028: rhoofr
+    2300030: rllegl
+    2300032: rllegr
+    2300034: ruplegl
+    2300036: ruplegr
+    2300038: tail
+    3300000: body
+    3300002: facial
+    3300004: fanklel
+    3300006: fankler
+    3300008: fhoofl
+    3300010: fhoofr
+    3300012: fllegl
+    3300014: fllegr
+    3300016: fuplegl
+    3300018: fuplegr
+    3300020: mane
+    3300022: ranklel
+    3300024: rankler
+    3300026: rhoofl
+    3300028: rhoofr
+    3300030: rllegl
+    3300032: rllegr
+    3300034: ruplegl
+    3300036: ruplegr
+    3300038: tail
+    4300000: body
+    4300002: facial
+    4300004: fanklel
+    4300006: fankler
+    4300008: fhoofl
+    4300010: fhoofr
+    4300012: fllegl
+    4300014: fllegr
+    4300016: fuplegl
+    4300018: fuplegr
+    4300020: mane
+    4300022: ranklel
+    4300024: rankler
+    4300026: rhoofl
+    4300028: rhoofr
+    4300030: rllegl
+    4300032: rllegr
+    4300034: ruplegl
+    4300036: ruplegr
+    4300038: tail
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

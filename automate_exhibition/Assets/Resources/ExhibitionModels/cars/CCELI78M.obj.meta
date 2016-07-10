@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 7ec84de26d9ebaa40a093d747a7c958c
+timeCreated: 1468084963
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: black
+    100002: body
+    100004: bottom
+    100006: brims
+    100008: btires
+    100010: bumpers
+    100012: //RootNode
+    100014: doors
+    100016: glass
+    100018: hlights
+    100020: hood
+    100022: housing
+    100024: lfrim
+    100026: lftire
+    100028: lights
+    100030: rfrim
+    100032: rftire
+    100034: roof
+    100036: silver
+    100038: trunk
+    400000: black
+    400002: body
+    400004: bottom
+    400006: brims
+    400008: btires
+    400010: bumpers
+    400012: //RootNode
+    400014: doors
+    400016: glass
+    400018: hlights
+    400020: hood
+    400022: housing
+    400024: lfrim
+    400026: lftire
+    400028: lights
+    400030: rfrim
+    400032: rftire
+    400034: roof
+    400036: silver
+    400038: trunk
+    2300000: black
+    2300002: body
+    2300004: bottom
+    2300006: brims
+    2300008: btires
+    2300010: bumpers
+    2300012: doors
+    2300014: glass
+    2300016: hlights
+    2300018: hood
+    2300020: housing
+    2300022: lfrim
+    2300024: lftire
+    2300026: lights
+    2300028: rfrim
+    2300030: rftire
+    2300032: roof
+    2300034: silver
+    2300036: trunk
+    3300000: black
+    3300002: body
+    3300004: bottom
+    3300006: brims
+    3300008: btires
+    3300010: bumpers
+    3300012: doors
+    3300014: glass
+    3300016: hlights
+    3300018: hood
+    3300020: housing
+    3300022: lfrim
+    3300024: lftire
+    3300026: lights
+    3300028: rfrim
+    3300030: rftire
+    3300032: roof
+    3300034: silver
+    3300036: trunk
+    4300000: black
+    4300002: body
+    4300004: bottom
+    4300006: brims
+    4300008: btires
+    4300010: bumpers
+    4300012: doors
+    4300014: glass
+    4300016: hlights
+    4300018: hood
+    4300020: housing
+    4300022: lfrim
+    4300024: lftire
+    4300026: lights
+    4300028: rfrim
+    4300030: rftire
+    4300032: roof
+    4300034: silver
+    4300036: trunk
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

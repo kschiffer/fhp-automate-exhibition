@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 88eca01f46c624740b8e48922b2bed9a
+timeCreated: 1468084969
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: black
+    100002: body
+    100004: buc
+    100006: grey1
+    100008: grey2
+    100010: grey3
+    100012: horn
+    100014: lace
+    100016: logo
+    100018: patch
+    100020: pattern
+    100022: red
+    100024: //RootNode
+    100026: strap1
+    100028: strap2
+    100030: tongue
+    100032: white
+    400000: black
+    400002: body
+    400004: buc
+    400006: grey1
+    400008: grey2
+    400010: grey3
+    400012: horn
+    400014: lace
+    400016: logo
+    400018: patch
+    400020: pattern
+    400022: red
+    400024: //RootNode
+    400026: strap1
+    400028: strap2
+    400030: tongue
+    400032: white
+    2300000: black
+    2300002: body
+    2300004: buc
+    2300006: grey1
+    2300008: grey2
+    2300010: grey3
+    2300012: horn
+    2300014: lace
+    2300016: logo
+    2300018: patch
+    2300020: pattern
+    2300022: red
+    2300024: strap1
+    2300026: strap2
+    2300028: tongue
+    2300030: white
+    3300000: black
+    3300002: body
+    3300004: buc
+    3300006: grey1
+    3300008: grey2
+    3300010: grey3
+    3300012: horn
+    3300014: lace
+    3300016: logo
+    3300018: patch
+    3300020: pattern
+    3300022: red
+    3300024: strap1
+    3300026: strap2
+    3300028: tongue
+    3300030: white
+    4300000: black
+    4300002: body
+    4300004: buc
+    4300006: grey1
+    4300008: grey2
+    4300010: grey3
+    4300012: horn
+    4300014: lace
+    4300016: logo
+    4300018: patch
+    4300020: pattern
+    4300022: red
+    4300024: strap1
+    4300026: strap2
+    4300028: tongue
+    4300030: white
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

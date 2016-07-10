@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: f608135ab8468ef449a540ca9f8db590
+timeCreated: 1468085099
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cockpit
+    100002: elevator
+    100004: engines
+    100006: fgear
+    100008: fuselage
+    100010: glass
+    100012: //RootNode
+    100014: hellfire
+    100016: hfires2
+    100018: M200pods
+    100020: m230cgun
+    100022: mainhub
+    100024: pylon
+    100026: racks
+    100028: radar
+    100030: rgear
+    100032: rrotor1
+    100034: rrotor2
+    100036: rtrblade
+    100038: rtrjoint
+    100040: scissors
+    100042: sensmast
+    100044: sides
+    100046: TOW
+    100048: trans
+    400000: cockpit
+    400002: elevator
+    400004: engines
+    400006: fgear
+    400008: fuselage
+    400010: glass
+    400012: //RootNode
+    400014: hellfire
+    400016: hfires2
+    400018: M200pods
+    400020: m230cgun
+    400022: mainhub
+    400024: pylon
+    400026: racks
+    400028: radar
+    400030: rgear
+    400032: rrotor1
+    400034: rrotor2
+    400036: rtrblade
+    400038: rtrjoint
+    400040: scissors
+    400042: sensmast
+    400044: sides
+    400046: TOW
+    400048: trans
+    2300000: cockpit
+    2300002: elevator
+    2300004: engines
+    2300006: fgear
+    2300008: fuselage
+    2300010: glass
+    2300012: hellfire
+    2300014: hfires2
+    2300016: M200pods
+    2300018: m230cgun
+    2300020: mainhub
+    2300022: pylon
+    2300024: racks
+    2300026: radar
+    2300028: rgear
+    2300030: rrotor1
+    2300032: rrotor2
+    2300034: rtrblade
+    2300036: rtrjoint
+    2300038: scissors
+    2300040: sensmast
+    2300042: sides
+    2300044: TOW
+    2300046: trans
+    3300000: cockpit
+    3300002: elevator
+    3300004: engines
+    3300006: fgear
+    3300008: fuselage
+    3300010: glass
+    3300012: hellfire
+    3300014: hfires2
+    3300016: M200pods
+    3300018: m230cgun
+    3300020: mainhub
+    3300022: pylon
+    3300024: racks
+    3300026: radar
+    3300028: rgear
+    3300030: rrotor1
+    3300032: rrotor2
+    3300034: rtrblade
+    3300036: rtrjoint
+    3300038: scissors
+    3300040: sensmast
+    3300042: sides
+    3300044: TOW
+    3300046: trans
+    4300000: cockpit
+    4300002: elevator
+    4300004: engines
+    4300006: fgear
+    4300008: fuselage
+    4300010: glass
+    4300012: hellfire
+    4300014: hfires2
+    4300016: M200pods
+    4300018: m230cgun
+    4300020: mainhub
+    4300022: pylon
+    4300024: racks
+    4300026: radar
+    4300028: rgear
+    4300030: rrotor1
+    4300032: rrotor2
+    4300034: rtrblade
+    4300036: rtrjoint
+    4300038: scissors
+    4300040: sensmast
+    4300042: sides
+    4300044: TOW
+    4300046: trans
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

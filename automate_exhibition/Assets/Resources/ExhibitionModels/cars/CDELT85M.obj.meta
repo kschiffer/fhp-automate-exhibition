@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: fd850f94bb4a7ae428608ea97b922140
+timeCreated: 1468085112
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bottom
+    100004: bumpers
+    100006: //RootNode
+    100008: fdoor
+    100010: glass
+    100012: grill
+    100014: hlights
+    100016: hood
+    100018: lghttrim
+    100020: marker
+    100022: mirror
+    100024: rdoor
+    100026: rim
+    100028: rlights
+    100030: roof
+    100032: rtire
+    100034: rubber
+    100036: signals
+    100038: tires
+    100040: trim
+    100042: trunk
+    100044: wintrim
+    400000: body
+    400002: bottom
+    400004: bumpers
+    400006: //RootNode
+    400008: fdoor
+    400010: glass
+    400012: grill
+    400014: hlights
+    400016: hood
+    400018: lghttrim
+    400020: marker
+    400022: mirror
+    400024: rdoor
+    400026: rim
+    400028: rlights
+    400030: roof
+    400032: rtire
+    400034: rubber
+    400036: signals
+    400038: tires
+    400040: trim
+    400042: trunk
+    400044: wintrim
+    2300000: body
+    2300002: bottom
+    2300004: bumpers
+    2300006: fdoor
+    2300008: glass
+    2300010: grill
+    2300012: hlights
+    2300014: hood
+    2300016: lghttrim
+    2300018: marker
+    2300020: mirror
+    2300022: rdoor
+    2300024: rim
+    2300026: rlights
+    2300028: roof
+    2300030: rtire
+    2300032: rubber
+    2300034: signals
+    2300036: tires
+    2300038: trim
+    2300040: trunk
+    2300042: wintrim
+    3300000: body
+    3300002: bottom
+    3300004: bumpers
+    3300006: fdoor
+    3300008: glass
+    3300010: grill
+    3300012: hlights
+    3300014: hood
+    3300016: lghttrim
+    3300018: marker
+    3300020: mirror
+    3300022: rdoor
+    3300024: rim
+    3300026: rlights
+    3300028: roof
+    3300030: rtire
+    3300032: rubber
+    3300034: signals
+    3300036: tires
+    3300038: trim
+    3300040: trunk
+    3300042: wintrim
+    4300000: body
+    4300002: bottom
+    4300004: bumpers
+    4300006: fdoor
+    4300008: glass
+    4300010: grill
+    4300012: hlights
+    4300014: hood
+    4300016: lghttrim
+    4300018: marker
+    4300020: mirror
+    4300022: rdoor
+    4300024: rim
+    4300026: rlights
+    4300028: roof
+    4300030: rtire
+    4300032: rubber
+    4300034: signals
+    4300036: tires
+    4300038: trim
+    4300040: trunk
+    4300042: wintrim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 7d1821f892652a0438e2640b659ba7b3
+timeCreated: 1468084962
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: button1
+    100004: button2
+    100006: button3
+    100008: buttons4
+    100010: buttons5
+    100012: flash
+    100014: flashbot
+    100016: focus
+    100018: glass
+    100020: lens1
+    100022: //RootNode
+    100024: ring1
+    100026: ring2
+    100028: ring3
+    100030: screen1
+    100032: screen2
+    100034: screen4
+    100036: shutter
+    100038: top
+    400000: body
+    400002: button1
+    400004: button2
+    400006: button3
+    400008: buttons4
+    400010: buttons5
+    400012: flash
+    400014: flashbot
+    400016: focus
+    400018: glass
+    400020: lens1
+    400022: //RootNode
+    400024: ring1
+    400026: ring2
+    400028: ring3
+    400030: screen1
+    400032: screen2
+    400034: screen4
+    400036: shutter
+    400038: top
+    2300000: body
+    2300002: button1
+    2300004: button2
+    2300006: button3
+    2300008: buttons4
+    2300010: buttons5
+    2300012: flash
+    2300014: flashbot
+    2300016: focus
+    2300018: glass
+    2300020: lens1
+    2300022: ring1
+    2300024: ring2
+    2300026: ring3
+    2300028: screen1
+    2300030: screen2
+    2300032: screen4
+    2300034: shutter
+    2300036: top
+    3300000: body
+    3300002: button1
+    3300004: button2
+    3300006: button3
+    3300008: buttons4
+    3300010: buttons5
+    3300012: flash
+    3300014: flashbot
+    3300016: focus
+    3300018: glass
+    3300020: lens1
+    3300022: ring1
+    3300024: ring2
+    3300026: ring3
+    3300028: screen1
+    3300030: screen2
+    3300032: screen4
+    3300034: shutter
+    3300036: top
+    4300000: body
+    4300002: button1
+    4300004: button2
+    4300006: button3
+    4300008: buttons4
+    4300010: buttons5
+    4300012: flash
+    4300014: flashbot
+    4300016: focus
+    4300018: glass
+    4300020: lens1
+    4300022: ring1
+    4300024: ring2
+    4300026: ring3
+    4300028: screen1
+    4300030: screen2
+    4300032: screen4
+    4300034: shutter
+    4300036: top
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

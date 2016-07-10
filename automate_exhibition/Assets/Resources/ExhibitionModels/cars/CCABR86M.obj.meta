@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 5cc348df9132fe641b1e2e1dbb818f61
+timeCreated: 1468084927
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bottom
+    100004: brims
+    100006: btires
+    100008: bumpers
+    100010: //RootNode
+    100012: doors
+    100014: glass
+    100016: grill
+    100018: handles
+    100020: hlights
+    100022: hood
+    100024: lfrim
+    100026: lftire
+    100028: mirrors
+    100030: rfrim
+    100032: rftire
+    100034: rlights
+    100036: roof
+    400000: body
+    400002: bottom
+    400004: brims
+    400006: btires
+    400008: bumpers
+    400010: //RootNode
+    400012: doors
+    400014: glass
+    400016: grill
+    400018: handles
+    400020: hlights
+    400022: hood
+    400024: lfrim
+    400026: lftire
+    400028: mirrors
+    400030: rfrim
+    400032: rftire
+    400034: rlights
+    400036: roof
+    2300000: body
+    2300002: bottom
+    2300004: brims
+    2300006: btires
+    2300008: bumpers
+    2300010: doors
+    2300012: glass
+    2300014: grill
+    2300016: handles
+    2300018: hlights
+    2300020: hood
+    2300022: lfrim
+    2300024: lftire
+    2300026: mirrors
+    2300028: rfrim
+    2300030: rftire
+    2300032: rlights
+    2300034: roof
+    3300000: body
+    3300002: bottom
+    3300004: brims
+    3300006: btires
+    3300008: bumpers
+    3300010: doors
+    3300012: glass
+    3300014: grill
+    3300016: handles
+    3300018: hlights
+    3300020: hood
+    3300022: lfrim
+    3300024: lftire
+    3300026: mirrors
+    3300028: rfrim
+    3300030: rftire
+    3300032: rlights
+    3300034: roof
+    4300000: body
+    4300002: bottom
+    4300004: brims
+    4300006: btires
+    4300008: bumpers
+    4300010: doors
+    4300012: glass
+    4300014: grill
+    4300016: handles
+    4300018: hlights
+    4300020: hood
+    4300022: lfrim
+    4300024: lftire
+    4300026: mirrors
+    4300028: rfrim
+    4300030: rftire
+    4300032: rlights
+    4300034: roof
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

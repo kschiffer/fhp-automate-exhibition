@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 6d5cc8826caf0aa4386117162c27cbbd
+timeCreated: 1468084941
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: cockpit
+    100004: ctrim
+    100006: dnthrust
+    100008: elev
+    100010: eng
+    100012: exh
+    100014: guide
+    100016: intake
+    100018: nose
+    100020: nozzle
+    100022: //RootNode
+    100024: rudder
+    100026: upthrust
+    100028: wing
+    400000: body
+    400002: cockpit
+    400004: ctrim
+    400006: dnthrust
+    400008: elev
+    400010: eng
+    400012: exh
+    400014: guide
+    400016: intake
+    400018: nose
+    400020: nozzle
+    400022: //RootNode
+    400024: rudder
+    400026: upthrust
+    400028: wing
+    2300000: body
+    2300002: cockpit
+    2300004: ctrim
+    2300006: dnthrust
+    2300008: elev
+    2300010: eng
+    2300012: exh
+    2300014: guide
+    2300016: intake
+    2300018: nose
+    2300020: nozzle
+    2300022: rudder
+    2300024: upthrust
+    2300026: wing
+    3300000: body
+    3300002: cockpit
+    3300004: ctrim
+    3300006: dnthrust
+    3300008: elev
+    3300010: eng
+    3300012: exh
+    3300014: guide
+    3300016: intake
+    3300018: nose
+    3300020: nozzle
+    3300022: rudder
+    3300024: upthrust
+    3300026: wing
+    4300000: body
+    4300002: cockpit
+    4300004: ctrim
+    4300006: dnthrust
+    4300008: elev
+    4300010: eng
+    4300012: exh
+    4300014: guide
+    4300016: intake
+    4300018: nose
+    4300020: nozzle
+    4300022: rudder
+    4300024: upthrust
+    4300026: wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

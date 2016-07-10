@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 86ff524600e854d47abd3874d79eacfe
+timeCreated: 1468084967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bodyglas
+    100004: bottom
+    100006: brims
+    100008: btires
+    100010: bumpers
+    100012: //RootNode
+    100014: flrim
+    100016: fltire
+    100018: frrim
+    100020: frtire
+    100022: grill
+    100024: hlights
+    100026: hood
+    100028: ldoor
+    100030: ldoorgla
+    100032: rdoor
+    100034: rdoorgla
+    100036: rlights
+    100038: roof
+    100040: tsignals
+    400000: body
+    400002: bodyglas
+    400004: bottom
+    400006: brims
+    400008: btires
+    400010: bumpers
+    400012: //RootNode
+    400014: flrim
+    400016: fltire
+    400018: frrim
+    400020: frtire
+    400022: grill
+    400024: hlights
+    400026: hood
+    400028: ldoor
+    400030: ldoorgla
+    400032: rdoor
+    400034: rdoorgla
+    400036: rlights
+    400038: roof
+    400040: tsignals
+    2300000: body
+    2300002: bodyglas
+    2300004: bottom
+    2300006: brims
+    2300008: btires
+    2300010: bumpers
+    2300012: flrim
+    2300014: fltire
+    2300016: frrim
+    2300018: frtire
+    2300020: grill
+    2300022: hlights
+    2300024: hood
+    2300026: ldoor
+    2300028: ldoorgla
+    2300030: rdoor
+    2300032: rdoorgla
+    2300034: rlights
+    2300036: roof
+    2300038: tsignals
+    3300000: body
+    3300002: bodyglas
+    3300004: bottom
+    3300006: brims
+    3300008: btires
+    3300010: bumpers
+    3300012: flrim
+    3300014: fltire
+    3300016: frrim
+    3300018: frtire
+    3300020: grill
+    3300022: hlights
+    3300024: hood
+    3300026: ldoor
+    3300028: ldoorgla
+    3300030: rdoor
+    3300032: rdoorgla
+    3300034: rlights
+    3300036: roof
+    3300038: tsignals
+    4300000: body
+    4300002: bodyglas
+    4300004: bottom
+    4300006: brims
+    4300008: btires
+    4300010: bumpers
+    4300012: flrim
+    4300014: fltire
+    4300016: frrim
+    4300018: frtire
+    4300020: grill
+    4300022: hlights
+    4300024: hood
+    4300026: ldoor
+    4300028: ldoorgla
+    4300030: rdoor
+    4300032: rdoorgla
+    4300034: rlights
+    4300036: roof
+    4300038: tsignals
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

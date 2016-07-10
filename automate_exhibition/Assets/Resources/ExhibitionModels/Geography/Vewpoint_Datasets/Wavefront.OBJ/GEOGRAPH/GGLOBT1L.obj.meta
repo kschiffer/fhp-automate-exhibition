@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 2e00940a3e3183941897031ca2cd2601
+timeCreated: 1468084882
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: africa
+    100002: antartic
+    100004: asia
+    100006: austrlia
+    100008: camerica
+    100010: carbisle
+    100012: europe
+    100014: fareast
+    100016: //RootNode
+    100018: grenland
+    100020: hawaii
+    100022: iceland
+    100024: japan
+    100026: mideast
+    100028: namerica
+    100030: nzealand
+    100032: oceans
+    100034: pacfisle
+    100036: philpine
+    100038: samerica
+    100040: unitking
+    400000: africa
+    400002: antartic
+    400004: asia
+    400006: austrlia
+    400008: camerica
+    400010: carbisle
+    400012: europe
+    400014: fareast
+    400016: //RootNode
+    400018: grenland
+    400020: hawaii
+    400022: iceland
+    400024: japan
+    400026: mideast
+    400028: namerica
+    400030: nzealand
+    400032: oceans
+    400034: pacfisle
+    400036: philpine
+    400038: samerica
+    400040: unitking
+    2300000: africa
+    2300002: antartic
+    2300004: asia
+    2300006: austrlia
+    2300008: camerica
+    2300010: carbisle
+    2300012: europe
+    2300014: fareast
+    2300016: grenland
+    2300018: hawaii
+    2300020: iceland
+    2300022: japan
+    2300024: mideast
+    2300026: namerica
+    2300028: nzealand
+    2300030: oceans
+    2300032: pacfisle
+    2300034: philpine
+    2300036: samerica
+    2300038: unitking
+    3300000: africa
+    3300002: antartic
+    3300004: asia
+    3300006: austrlia
+    3300008: camerica
+    3300010: carbisle
+    3300012: europe
+    3300014: fareast
+    3300016: grenland
+    3300018: hawaii
+    3300020: iceland
+    3300022: japan
+    3300024: mideast
+    3300026: namerica
+    3300028: nzealand
+    3300030: oceans
+    3300032: pacfisle
+    3300034: philpine
+    3300036: samerica
+    3300038: unitking
+    4300000: africa
+    4300002: antartic
+    4300004: asia
+    4300006: austrlia
+    4300008: camerica
+    4300010: carbisle
+    4300012: europe
+    4300014: fareast
+    4300016: grenland
+    4300018: hawaii
+    4300020: iceland
+    4300022: japan
+    4300024: mideast
+    4300026: namerica
+    4300028: nzealand
+    4300030: oceans
+    4300032: pacfisle
+    4300034: philpine
+    4300036: samerica
+    4300038: unitking
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

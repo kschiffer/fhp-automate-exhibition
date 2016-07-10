@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 78b7d13cb6be4574ea9ed317d9f00c7e
+timeCreated: 1468084959
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bodyglas
+    100004: bottom
+    100006: brims
+    100008: btires
+    100010: //RootNode
+    100012: hlights
+    100014: hood
+    100016: ldoor
+    100018: ldoorgla
+    100020: lfrim
+    100022: lftire
+    100024: rdoor
+    100026: rdoorgla
+    100028: rfrim
+    100030: rftire
+    100032: roof
+    100034: tlights
+    400000: body
+    400002: bodyglas
+    400004: bottom
+    400006: brims
+    400008: btires
+    400010: //RootNode
+    400012: hlights
+    400014: hood
+    400016: ldoor
+    400018: ldoorgla
+    400020: lfrim
+    400022: lftire
+    400024: rdoor
+    400026: rdoorgla
+    400028: rfrim
+    400030: rftire
+    400032: roof
+    400034: tlights
+    2300000: body
+    2300002: bodyglas
+    2300004: bottom
+    2300006: brims
+    2300008: btires
+    2300010: hlights
+    2300012: hood
+    2300014: ldoor
+    2300016: ldoorgla
+    2300018: lfrim
+    2300020: lftire
+    2300022: rdoor
+    2300024: rdoorgla
+    2300026: rfrim
+    2300028: rftire
+    2300030: roof
+    2300032: tlights
+    3300000: body
+    3300002: bodyglas
+    3300004: bottom
+    3300006: brims
+    3300008: btires
+    3300010: hlights
+    3300012: hood
+    3300014: ldoor
+    3300016: ldoorgla
+    3300018: lfrim
+    3300020: lftire
+    3300022: rdoor
+    3300024: rdoorgla
+    3300026: rfrim
+    3300028: rftire
+    3300030: roof
+    3300032: tlights
+    4300000: body
+    4300002: bodyglas
+    4300004: bottom
+    4300006: brims
+    4300008: btires
+    4300010: hlights
+    4300012: hood
+    4300014: ldoor
+    4300016: ldoorgla
+    4300018: lfrim
+    4300020: lftire
+    4300022: rdoor
+    4300024: rdoorgla
+    4300026: rfrim
+    4300028: rftire
+    4300030: roof
+    4300032: tlights
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

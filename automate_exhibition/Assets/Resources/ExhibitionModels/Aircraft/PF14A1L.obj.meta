@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 05223eea560dab448a89f63adc06f7d6
+timeCreated: 1468084837
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cockpit
+    100002: ctrim
+    100004: elev
+    100006: exhaust
+    100008: fuselage
+    100010: insets
+    100012: intakes
+    100014: nose
+    100016: nozzle
+    100018: //RootNode
+    100020: rudder
+    100022: tabs
+    100024: tubes
+    100026: vents
+    100028: webs
+    100030: wing
+    400000: cockpit
+    400002: ctrim
+    400004: elev
+    400006: exhaust
+    400008: fuselage
+    400010: insets
+    400012: intakes
+    400014: nose
+    400016: nozzle
+    400018: //RootNode
+    400020: rudder
+    400022: tabs
+    400024: tubes
+    400026: vents
+    400028: webs
+    400030: wing
+    2300000: cockpit
+    2300002: ctrim
+    2300004: elev
+    2300006: exhaust
+    2300008: fuselage
+    2300010: insets
+    2300012: intakes
+    2300014: nose
+    2300016: nozzle
+    2300018: rudder
+    2300020: tabs
+    2300022: tubes
+    2300024: vents
+    2300026: webs
+    2300028: wing
+    3300000: cockpit
+    3300002: ctrim
+    3300004: elev
+    3300006: exhaust
+    3300008: fuselage
+    3300010: insets
+    3300012: intakes
+    3300014: nose
+    3300016: nozzle
+    3300018: rudder
+    3300020: tabs
+    3300022: tubes
+    3300024: vents
+    3300026: webs
+    3300028: wing
+    4300000: cockpit
+    4300002: ctrim
+    4300004: elev
+    4300006: exhaust
+    4300008: fuselage
+    4300010: insets
+    4300012: intakes
+    4300014: nose
+    4300016: nozzle
+    4300018: rudder
+    4300020: tabs
+    4300022: tubes
+    4300024: vents
+    4300026: webs
+    4300028: wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

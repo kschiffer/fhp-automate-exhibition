@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: f0ea530a7bd3ad245bf937f7ef48203a
+timeCreated: 1468085090
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bframe
+    100002: exhaust
+    100004: faxle
+    100006: frame2
+    100008: frubber
+    100010: hub
+    100012: instrmnt
+    100014: lever
+    100016: levers2
+    100018: mainfram
+    100020: rrim
+    100022: rtread
+    100024: seat
+    100026: swheel
+    100028: //RootNode
+    400000: bframe
+    400002: exhaust
+    400004: faxle
+    400006: frame2
+    400008: frubber
+    400010: hub
+    400012: instrmnt
+    400014: lever
+    400016: levers2
+    400018: mainfram
+    400020: rrim
+    400022: rtread
+    400024: seat
+    400026: swheel
+    400028: //RootNode
+    2300000: bframe
+    2300002: exhaust
+    2300004: faxle
+    2300006: frame2
+    2300008: frubber
+    2300010: hub
+    2300012: instrmnt
+    2300014: lever
+    2300016: levers2
+    2300018: mainfram
+    2300020: rrim
+    2300022: rtread
+    2300024: seat
+    2300026: swheel
+    3300000: bframe
+    3300002: exhaust
+    3300004: faxle
+    3300006: frame2
+    3300008: frubber
+    3300010: hub
+    3300012: instrmnt
+    3300014: lever
+    3300016: levers2
+    3300018: mainfram
+    3300020: rrim
+    3300022: rtread
+    3300024: seat
+    3300026: swheel
+    4300000: bframe
+    4300002: exhaust
+    4300004: faxle
+    4300006: frame2
+    4300008: frubber
+    4300010: hub
+    4300012: instrmnt
+    4300014: lever
+    4300016: levers2
+    4300018: mainfram
+    4300020: rrim
+    4300022: rtread
+    4300024: seat
+    4300026: swheel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

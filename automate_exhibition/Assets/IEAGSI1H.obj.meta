@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: a90f2e43cafb9d743bfae361f43b4a02
+timeCreated: 1468082221
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: clawsl
+    100004: clawsr
+    100006: eyes
+    100008: footl
+    100010: footr
+    100012: head
+    100014: //RootNode
+    100016: lbeak1
+    100018: lbeak2
+    100020: Lleg
+    100022: lmouth
+    100024: nose
+    100026: rleg
+    100028: tailfeth
+    100030: tailspin
+    100032: tongue
+    100034: ubeak1
+    100036: ubeak2
+    100038: umouth
+    100040: wing
+    400000: body
+    400002: clawsl
+    400004: clawsr
+    400006: eyes
+    400008: footl
+    400010: footr
+    400012: head
+    400014: //RootNode
+    400016: lbeak1
+    400018: lbeak2
+    400020: Lleg
+    400022: lmouth
+    400024: nose
+    400026: rleg
+    400028: tailfeth
+    400030: tailspin
+    400032: tongue
+    400034: ubeak1
+    400036: ubeak2
+    400038: umouth
+    400040: wing
+    2300000: body
+    2300002: clawsl
+    2300004: clawsr
+    2300006: eyes
+    2300008: footl
+    2300010: footr
+    2300012: head
+    2300014: lbeak1
+    2300016: lbeak2
+    2300018: Lleg
+    2300020: lmouth
+    2300022: nose
+    2300024: rleg
+    2300026: tailfeth
+    2300028: tailspin
+    2300030: tongue
+    2300032: ubeak1
+    2300034: ubeak2
+    2300036: umouth
+    2300038: wing
+    3300000: body
+    3300002: clawsl
+    3300004: clawsr
+    3300006: eyes
+    3300008: footl
+    3300010: footr
+    3300012: head
+    3300014: lbeak1
+    3300016: lbeak2
+    3300018: Lleg
+    3300020: lmouth
+    3300022: nose
+    3300024: rleg
+    3300026: tailfeth
+    3300028: tailspin
+    3300030: tongue
+    3300032: ubeak1
+    3300034: ubeak2
+    3300036: umouth
+    3300038: wing
+    4300000: body
+    4300002: clawsl
+    4300004: clawsr
+    4300006: eyes
+    4300008: footl
+    4300010: footr
+    4300012: head
+    4300014: lbeak1
+    4300016: lbeak2
+    4300018: Lleg
+    4300020: lmouth
+    4300022: nose
+    4300024: rleg
+    4300026: tailfeth
+    4300028: tailspin
+    4300030: tongue
+    4300032: ubeak1
+    4300034: ubeak2
+    4300036: umouth
+    4300038: wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

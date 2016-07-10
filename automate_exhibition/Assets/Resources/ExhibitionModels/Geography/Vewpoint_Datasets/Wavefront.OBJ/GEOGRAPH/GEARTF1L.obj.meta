@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 408af1d712286a945a5d65961b178cba
+timeCreated: 1468084905
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Africa
+    100002: Antarcti
+    100004: Asia
+    100006: Australi
+    100008: C_Americ
+    100010: Caribbea
+    100012: Europe
+    100014: FarEast
+    100016: //RootNode
+    100018: Greenlan
+    100020: Hawaii
+    100022: Iceland
+    100024: Japan
+    100026: MiddleEa
+    100028: N_Americ
+    100030: NewZeala
+    100032: Oceans
+    100034: PacificI
+    100036: Philippi
+    100038: S_Americ
+    100040: UnitedKi
+    400000: Africa
+    400002: Antarcti
+    400004: Asia
+    400006: Australi
+    400008: C_Americ
+    400010: Caribbea
+    400012: Europe
+    400014: FarEast
+    400016: //RootNode
+    400018: Greenlan
+    400020: Hawaii
+    400022: Iceland
+    400024: Japan
+    400026: MiddleEa
+    400028: N_Americ
+    400030: NewZeala
+    400032: Oceans
+    400034: PacificI
+    400036: Philippi
+    400038: S_Americ
+    400040: UnitedKi
+    2300000: Africa
+    2300002: Antarcti
+    2300004: Asia
+    2300006: Australi
+    2300008: C_Americ
+    2300010: Caribbea
+    2300012: Europe
+    2300014: FarEast
+    2300016: Greenlan
+    2300018: Hawaii
+    2300020: Iceland
+    2300022: Japan
+    2300024: MiddleEa
+    2300026: N_Americ
+    2300028: NewZeala
+    2300030: Oceans
+    2300032: PacificI
+    2300034: Philippi
+    2300036: S_Americ
+    2300038: UnitedKi
+    3300000: Africa
+    3300002: Antarcti
+    3300004: Asia
+    3300006: Australi
+    3300008: C_Americ
+    3300010: Caribbea
+    3300012: Europe
+    3300014: FarEast
+    3300016: Greenlan
+    3300018: Hawaii
+    3300020: Iceland
+    3300022: Japan
+    3300024: MiddleEa
+    3300026: N_Americ
+    3300028: NewZeala
+    3300030: Oceans
+    3300032: PacificI
+    3300034: Philippi
+    3300036: S_Americ
+    3300038: UnitedKi
+    4300000: Africa
+    4300002: Antarcti
+    4300004: Asia
+    4300006: Australi
+    4300008: C_Americ
+    4300010: Caribbea
+    4300012: Europe
+    4300014: FarEast
+    4300016: Greenlan
+    4300018: Hawaii
+    4300020: Iceland
+    4300022: Japan
+    4300024: MiddleEa
+    4300026: N_Americ
+    4300028: NewZeala
+    4300030: Oceans
+    4300032: PacificI
+    4300034: Philippi
+    4300036: S_Americ
+    4300038: UnitedKi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

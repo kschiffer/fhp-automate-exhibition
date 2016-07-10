@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 42b761e7a3e20f64c8f1c7663e179724
+timeCreated: 1468084906
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: airbrake
+    100002: body
+    100004: cpit
+    100006: elev
+    100008: exh
+    100010: intake
+    100012: lair
+    100014: lflap
+    100016: lkan
+    100018: lrud
+    100020: //RootNode
+    100022: rair
+    100024: rflap
+    100026: rkan
+    100028: rrud
+    100030: rudders
+    100032: wings
+    400000: airbrake
+    400002: body
+    400004: cpit
+    400006: elev
+    400008: exh
+    400010: intake
+    400012: lair
+    400014: lflap
+    400016: lkan
+    400018: lrud
+    400020: //RootNode
+    400022: rair
+    400024: rflap
+    400026: rkan
+    400028: rrud
+    400030: rudders
+    400032: wings
+    2300000: airbrake
+    2300002: body
+    2300004: cpit
+    2300006: elev
+    2300008: exh
+    2300010: intake
+    2300012: lair
+    2300014: lflap
+    2300016: lkan
+    2300018: lrud
+    2300020: rair
+    2300022: rflap
+    2300024: rkan
+    2300026: rrud
+    2300028: rudders
+    2300030: wings
+    3300000: airbrake
+    3300002: body
+    3300004: cpit
+    3300006: elev
+    3300008: exh
+    3300010: intake
+    3300012: lair
+    3300014: lflap
+    3300016: lkan
+    3300018: lrud
+    3300020: rair
+    3300022: rflap
+    3300024: rkan
+    3300026: rrud
+    3300028: rudders
+    3300030: wings
+    4300000: airbrake
+    4300002: body
+    4300004: cpit
+    4300006: elev
+    4300008: exh
+    4300010: intake
+    4300012: lair
+    4300014: lflap
+    4300016: lkan
+    4300018: lrud
+    4300020: rair
+    4300022: rflap
+    4300024: rkan
+    4300026: rrud
+    4300028: rudders
+    4300030: wings
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

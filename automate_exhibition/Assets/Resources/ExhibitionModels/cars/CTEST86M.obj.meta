@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: a0f3542c7315a904283dcd309a9a515f
+timeCreated: 1468084999
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: black
+    100002: body
+    100004: brims
+    100006: btires
+    100008: //RootNode
+    100010: dlgts
+    100012: door
+    100014: exhaust
+    100016: fgrill
+    100018: glass
+    100020: hood
+    100022: lfrim
+    100024: lftire
+    100026: lgtcover
+    100028: rear
+    100030: rfrim
+    100032: rftire
+    100034: rgrill
+    100036: rlgts
+    100038: roof
+    100040: tlgts
+    100042: trtrim
+    100044: trunk
+    100046: vent
+    100048: vent2
+    100050: wtrim
+    400000: black
+    400002: body
+    400004: brims
+    400006: btires
+    400008: //RootNode
+    400010: dlgts
+    400012: door
+    400014: exhaust
+    400016: fgrill
+    400018: glass
+    400020: hood
+    400022: lfrim
+    400024: lftire
+    400026: lgtcover
+    400028: rear
+    400030: rfrim
+    400032: rftire
+    400034: rgrill
+    400036: rlgts
+    400038: roof
+    400040: tlgts
+    400042: trtrim
+    400044: trunk
+    400046: vent
+    400048: vent2
+    400050: wtrim
+    2300000: black
+    2300002: body
+    2300004: brims
+    2300006: btires
+    2300008: dlgts
+    2300010: door
+    2300012: exhaust
+    2300014: fgrill
+    2300016: glass
+    2300018: hood
+    2300020: lfrim
+    2300022: lftire
+    2300024: lgtcover
+    2300026: rear
+    2300028: rfrim
+    2300030: rftire
+    2300032: rgrill
+    2300034: rlgts
+    2300036: roof
+    2300038: tlgts
+    2300040: trtrim
+    2300042: trunk
+    2300044: vent
+    2300046: vent2
+    2300048: wtrim
+    3300000: black
+    3300002: body
+    3300004: brims
+    3300006: btires
+    3300008: dlgts
+    3300010: door
+    3300012: exhaust
+    3300014: fgrill
+    3300016: glass
+    3300018: hood
+    3300020: lfrim
+    3300022: lftire
+    3300024: lgtcover
+    3300026: rear
+    3300028: rfrim
+    3300030: rftire
+    3300032: rgrill
+    3300034: rlgts
+    3300036: roof
+    3300038: tlgts
+    3300040: trtrim
+    3300042: trunk
+    3300044: vent
+    3300046: vent2
+    3300048: wtrim
+    4300000: black
+    4300002: body
+    4300004: brims
+    4300006: btires
+    4300008: dlgts
+    4300010: door
+    4300012: exhaust
+    4300014: fgrill
+    4300016: glass
+    4300018: hood
+    4300020: lfrim
+    4300022: lftire
+    4300024: lgtcover
+    4300026: rear
+    4300028: rfrim
+    4300030: rftire
+    4300032: rgrill
+    4300034: rlgts
+    4300036: roof
+    4300038: tlgts
+    4300040: trtrim
+    4300042: trunk
+    4300044: vent
+    4300046: vent2
+    4300048: wtrim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 97d2a7fa56f0acf4aa3488b872709038
+timeCreated: 1468084987
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: exhaust
+    100004: fdoor
+    100006: gear
+    100008: glass
+    100010: //RootNode
+    100012: intake
+    100014: rdoor
+    100016: rotor
+    100018: rrotor
+    100020: rshaft
+    100022: shaft
+    100024: shroud
+    100026: skid
+    100028: tail
+    100030: trim2
+    100032: vents
+    100034: vtrim
+    100036: wtrim
+    400000: body
+    400002: exhaust
+    400004: fdoor
+    400006: gear
+    400008: glass
+    400010: //RootNode
+    400012: intake
+    400014: rdoor
+    400016: rotor
+    400018: rrotor
+    400020: rshaft
+    400022: shaft
+    400024: shroud
+    400026: skid
+    400028: tail
+    400030: trim2
+    400032: vents
+    400034: vtrim
+    400036: wtrim
+    2300000: body
+    2300002: exhaust
+    2300004: fdoor
+    2300006: gear
+    2300008: glass
+    2300010: intake
+    2300012: rdoor
+    2300014: rotor
+    2300016: rrotor
+    2300018: rshaft
+    2300020: shaft
+    2300022: shroud
+    2300024: skid
+    2300026: tail
+    2300028: trim2
+    2300030: vents
+    2300032: vtrim
+    2300034: wtrim
+    3300000: body
+    3300002: exhaust
+    3300004: fdoor
+    3300006: gear
+    3300008: glass
+    3300010: intake
+    3300012: rdoor
+    3300014: rotor
+    3300016: rrotor
+    3300018: rshaft
+    3300020: shaft
+    3300022: shroud
+    3300024: skid
+    3300026: tail
+    3300028: trim2
+    3300030: vents
+    3300032: vtrim
+    3300034: wtrim
+    4300000: body
+    4300002: exhaust
+    4300004: fdoor
+    4300006: gear
+    4300008: glass
+    4300010: intake
+    4300012: rdoor
+    4300014: rotor
+    4300016: rrotor
+    4300018: rshaft
+    4300020: shaft
+    4300022: shroud
+    4300024: skid
+    4300026: tail
+    4300028: trim2
+    4300030: vents
+    4300032: vtrim
+    4300034: wtrim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

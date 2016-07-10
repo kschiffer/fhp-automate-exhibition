@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 9e89174b85e646c42910464fe899c663
+timeCreated: 1468084997
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: brakes
+    100002: brim
+    100004: brubber
+    100006: bspoke
+    100008: cover
+    100010: engine
+    100012: exhuast
+    100014: ffender
+    100016: forks
+    100018: frame
+    100020: frim
+    100022: frubber
+    100024: fspoke
+    100026: hbars
+    100028: rfender
+    100030: seat
+    100032: shock
+    100034: sus
+    100036: tank
+    100038: //RootNode
+    400000: brakes
+    400002: brim
+    400004: brubber
+    400006: bspoke
+    400008: cover
+    400010: engine
+    400012: exhuast
+    400014: ffender
+    400016: forks
+    400018: frame
+    400020: frim
+    400022: frubber
+    400024: fspoke
+    400026: hbars
+    400028: rfender
+    400030: seat
+    400032: shock
+    400034: sus
+    400036: tank
+    400038: //RootNode
+    2300000: brakes
+    2300002: brim
+    2300004: brubber
+    2300006: bspoke
+    2300008: cover
+    2300010: engine
+    2300012: exhuast
+    2300014: ffender
+    2300016: forks
+    2300018: frame
+    2300020: frim
+    2300022: frubber
+    2300024: fspoke
+    2300026: hbars
+    2300028: rfender
+    2300030: seat
+    2300032: shock
+    2300034: sus
+    2300036: tank
+    3300000: brakes
+    3300002: brim
+    3300004: brubber
+    3300006: bspoke
+    3300008: cover
+    3300010: engine
+    3300012: exhuast
+    3300014: ffender
+    3300016: forks
+    3300018: frame
+    3300020: frim
+    3300022: frubber
+    3300024: fspoke
+    3300026: hbars
+    3300028: rfender
+    3300030: seat
+    3300032: shock
+    3300034: sus
+    3300036: tank
+    4300000: brakes
+    4300002: brim
+    4300004: brubber
+    4300006: bspoke
+    4300008: cover
+    4300010: engine
+    4300012: exhuast
+    4300014: ffender
+    4300016: forks
+    4300018: frame
+    4300020: frim
+    4300022: frubber
+    4300024: fspoke
+    4300026: hbars
+    4300028: rfender
+    4300030: seat
+    4300032: shock
+    4300034: sus
+    4300036: tank
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

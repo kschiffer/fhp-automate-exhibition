@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 152aa89f4ea794a4fa02f16f89f374e8
+timeCreated: 1468084857
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: agm86
+    100002: barrels
+    100004: comp1
+    100006: cowl1
+    100008: cowl2
+    100010: cpit
+    100012: ctrim
+    100014: elect
+    100016: exh
+    100018: fcone
+    100020: flap1
+    100022: flap4
+    100024: fuselage
+    100026: gboot
+    100028: hstab
+    100030: inlet
+    100032: //RootNode
+    100034: pylon
+    100036: rcone
+    100038: rfan
+    100040: robserv
+    100042: sight
+    100044: vstab
+    100046: wings
+    100048: wtanks
+    400000: agm86
+    400002: barrels
+    400004: comp1
+    400006: cowl1
+    400008: cowl2
+    400010: cpit
+    400012: ctrim
+    400014: elect
+    400016: exh
+    400018: fcone
+    400020: flap1
+    400022: flap4
+    400024: fuselage
+    400026: gboot
+    400028: hstab
+    400030: inlet
+    400032: //RootNode
+    400034: pylon
+    400036: rcone
+    400038: rfan
+    400040: robserv
+    400042: sight
+    400044: vstab
+    400046: wings
+    400048: wtanks
+    2300000: agm86
+    2300002: barrels
+    2300004: comp1
+    2300006: cowl1
+    2300008: cowl2
+    2300010: cpit
+    2300012: ctrim
+    2300014: elect
+    2300016: exh
+    2300018: fcone
+    2300020: flap1
+    2300022: flap4
+    2300024: fuselage
+    2300026: gboot
+    2300028: hstab
+    2300030: inlet
+    2300032: pylon
+    2300034: rcone
+    2300036: rfan
+    2300038: robserv
+    2300040: sight
+    2300042: vstab
+    2300044: wings
+    2300046: wtanks
+    3300000: agm86
+    3300002: barrels
+    3300004: comp1
+    3300006: cowl1
+    3300008: cowl2
+    3300010: cpit
+    3300012: ctrim
+    3300014: elect
+    3300016: exh
+    3300018: fcone
+    3300020: flap1
+    3300022: flap4
+    3300024: fuselage
+    3300026: gboot
+    3300028: hstab
+    3300030: inlet
+    3300032: pylon
+    3300034: rcone
+    3300036: rfan
+    3300038: robserv
+    3300040: sight
+    3300042: vstab
+    3300044: wings
+    3300046: wtanks
+    4300000: agm86
+    4300002: barrels
+    4300004: comp1
+    4300006: cowl1
+    4300008: cowl2
+    4300010: cpit
+    4300012: ctrim
+    4300014: elect
+    4300016: exh
+    4300018: fcone
+    4300020: flap1
+    4300022: flap4
+    4300024: fuselage
+    4300026: gboot
+    4300028: hstab
+    4300030: inlet
+    4300032: pylon
+    4300034: rcone
+    4300036: rfan
+    4300038: robserv
+    4300040: sight
+    4300042: vstab
+    4300044: wings
+    4300046: wtanks
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: c29be928bce84fd4181254075ec6f898
+timeCreated: 1468085031
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bottom
+    100002: //RootNode
+    100004: fbumper
+    100006: fdoor
+    100008: ffender
+    100010: front
+    100012: ftire
+    100014: glass
+    100016: gutter
+    100018: handles
+    100020: hlgts
+    100022: hood
+    100024: license
+    100026: markers
+    100028: mirror
+    100030: rbumper
+    100032: rdoor
+    100034: rear
+    100036: rfender
+    100038: rim
+    100040: roof
+    100042: rtire
+    100044: skirts
+    100046: tkgts
+    100048: trim
+    100050: trim2
+    100052: trunk
+    400000: bottom
+    400002: //RootNode
+    400004: fbumper
+    400006: fdoor
+    400008: ffender
+    400010: front
+    400012: ftire
+    400014: glass
+    400016: gutter
+    400018: handles
+    400020: hlgts
+    400022: hood
+    400024: license
+    400026: markers
+    400028: mirror
+    400030: rbumper
+    400032: rdoor
+    400034: rear
+    400036: rfender
+    400038: rim
+    400040: roof
+    400042: rtire
+    400044: skirts
+    400046: tkgts
+    400048: trim
+    400050: trim2
+    400052: trunk
+    2300000: bottom
+    2300002: fbumper
+    2300004: fdoor
+    2300006: ffender
+    2300008: front
+    2300010: ftire
+    2300012: glass
+    2300014: gutter
+    2300016: handles
+    2300018: hlgts
+    2300020: hood
+    2300022: license
+    2300024: markers
+    2300026: mirror
+    2300028: rbumper
+    2300030: rdoor
+    2300032: rear
+    2300034: rfender
+    2300036: rim
+    2300038: roof
+    2300040: rtire
+    2300042: skirts
+    2300044: tkgts
+    2300046: trim
+    2300048: trim2
+    2300050: trunk
+    3300000: bottom
+    3300002: fbumper
+    3300004: fdoor
+    3300006: ffender
+    3300008: front
+    3300010: ftire
+    3300012: glass
+    3300014: gutter
+    3300016: handles
+    3300018: hlgts
+    3300020: hood
+    3300022: license
+    3300024: markers
+    3300026: mirror
+    3300028: rbumper
+    3300030: rdoor
+    3300032: rear
+    3300034: rfender
+    3300036: rim
+    3300038: roof
+    3300040: rtire
+    3300042: skirts
+    3300044: tkgts
+    3300046: trim
+    3300048: trim2
+    3300050: trunk
+    4300000: bottom
+    4300002: fbumper
+    4300004: fdoor
+    4300006: ffender
+    4300008: front
+    4300010: ftire
+    4300012: glass
+    4300014: gutter
+    4300016: handles
+    4300018: hlgts
+    4300020: hood
+    4300022: license
+    4300024: markers
+    4300026: mirror
+    4300028: rbumper
+    4300030: rdoor
+    4300032: rear
+    4300034: rfender
+    4300036: rim
+    4300038: roof
+    4300040: rtire
+    4300042: skirts
+    4300044: tkgts
+    4300046: trim
+    4300048: trim2
+    4300050: trunk
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

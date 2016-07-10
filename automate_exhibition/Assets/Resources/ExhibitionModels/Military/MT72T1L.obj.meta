@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 35b1266f63df74a459ba613affe59274
+timeCreated: 1468084889
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body1
+    100002: cannon
+    100004: granade
+    100006: gview
+    100008: lights
+    100010: //RootNode
+    100012: top1
+    100014: top2
+    100016: top3
+    100018: top4
+    100020: top5
+    100022: top6
+    100024: top7
+    100026: tread
+    100028: tread2
+    100030: turrent
+    100032: undrcarg
+    100034: wheels
+    400000: body1
+    400002: cannon
+    400004: granade
+    400006: gview
+    400008: lights
+    400010: //RootNode
+    400012: top1
+    400014: top2
+    400016: top3
+    400018: top4
+    400020: top5
+    400022: top6
+    400024: top7
+    400026: tread
+    400028: tread2
+    400030: turrent
+    400032: undrcarg
+    400034: wheels
+    2300000: body1
+    2300002: cannon
+    2300004: granade
+    2300006: gview
+    2300008: lights
+    2300010: top1
+    2300012: top2
+    2300014: top3
+    2300016: top4
+    2300018: top5
+    2300020: top6
+    2300022: top7
+    2300024: tread
+    2300026: tread2
+    2300028: turrent
+    2300030: undrcarg
+    2300032: wheels
+    3300000: body1
+    3300002: cannon
+    3300004: granade
+    3300006: gview
+    3300008: lights
+    3300010: top1
+    3300012: top2
+    3300014: top3
+    3300016: top4
+    3300018: top5
+    3300020: top6
+    3300022: top7
+    3300024: tread
+    3300026: tread2
+    3300028: turrent
+    3300030: undrcarg
+    3300032: wheels
+    4300000: body1
+    4300002: cannon
+    4300004: granade
+    4300006: gview
+    4300008: lights
+    4300010: top1
+    4300012: top2
+    4300014: top3
+    4300016: top4
+    4300018: top5
+    4300020: top6
+    4300022: top7
+    4300024: tread
+    4300026: tread2
+    4300028: turrent
+    4300030: undrcarg
+    4300032: wheels
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

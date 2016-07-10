@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: d073e0ef291fc58448d695d90734841e
+timeCreated: 1468085048
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 5inch
+    100002: barrel
+    100004: barrels
+    100006: base
+    100008: boots
+    100010: deck1
+    100012: deck2
+    100014: for16
+    100016: harpoon
+    100018: harpoon1
+    100020: hull
+    100022: pbase
+    100024: pdish
+    100026: phouse
+    100028: radar
+    100030: radar1
+    100032: radar2
+    100034: radar3
+    100036: rangfind
+    100038: stacks
+    100040: tubes
+    100042: turret
+    100044: //RootNode
+    400000: 5inch
+    400002: barrel
+    400004: barrels
+    400006: base
+    400008: boots
+    400010: deck1
+    400012: deck2
+    400014: for16
+    400016: harpoon
+    400018: harpoon1
+    400020: hull
+    400022: pbase
+    400024: pdish
+    400026: phouse
+    400028: radar
+    400030: radar1
+    400032: radar2
+    400034: radar3
+    400036: rangfind
+    400038: stacks
+    400040: tubes
+    400042: turret
+    400044: //RootNode
+    2300000: 5inch
+    2300002: barrel
+    2300004: barrels
+    2300006: base
+    2300008: boots
+    2300010: deck1
+    2300012: deck2
+    2300014: for16
+    2300016: harpoon
+    2300018: harpoon1
+    2300020: hull
+    2300022: pbase
+    2300024: pdish
+    2300026: phouse
+    2300028: radar
+    2300030: radar1
+    2300032: radar2
+    2300034: radar3
+    2300036: rangfind
+    2300038: stacks
+    2300040: tubes
+    2300042: turret
+    3300000: 5inch
+    3300002: barrel
+    3300004: barrels
+    3300006: base
+    3300008: boots
+    3300010: deck1
+    3300012: deck2
+    3300014: for16
+    3300016: harpoon
+    3300018: harpoon1
+    3300020: hull
+    3300022: pbase
+    3300024: pdish
+    3300026: phouse
+    3300028: radar
+    3300030: radar1
+    3300032: radar2
+    3300034: radar3
+    3300036: rangfind
+    3300038: stacks
+    3300040: tubes
+    3300042: turret
+    4300000: 5inch
+    4300002: barrel
+    4300004: barrels
+    4300006: base
+    4300008: boots
+    4300010: deck1
+    4300012: deck2
+    4300014: for16
+    4300016: harpoon
+    4300018: harpoon1
+    4300020: hull
+    4300022: pbase
+    4300024: pdish
+    4300026: phouse
+    4300028: radar
+    4300030: radar1
+    4300032: radar2
+    4300034: radar3
+    4300036: rangfind
+    4300038: stacks
+    4300040: tubes
+    4300042: turret
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

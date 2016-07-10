@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 4ae51ee8f9128dc43af1603a55bd6d73
+timeCreated: 1468084912
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cockpit
+    100002: cones
+    100004: cowl2
+    100006: cowling
+    100008: doors
+    100010: elev
+    100012: exhaust
+    100014: fuselage
+    100016: intake
+    100018: //RootNode
+    100020: probe
+    100022: rdoors
+    100024: reverse
+    100026: rudder
+    100028: struts
+    100030: turbines
+    100032: win1
+    100034: wings
+    400000: cockpit
+    400002: cones
+    400004: cowl2
+    400006: cowling
+    400008: doors
+    400010: elev
+    400012: exhaust
+    400014: fuselage
+    400016: intake
+    400018: //RootNode
+    400020: probe
+    400022: rdoors
+    400024: reverse
+    400026: rudder
+    400028: struts
+    400030: turbines
+    400032: win1
+    400034: wings
+    2300000: cockpit
+    2300002: cones
+    2300004: cowl2
+    2300006: cowling
+    2300008: doors
+    2300010: elev
+    2300012: exhaust
+    2300014: fuselage
+    2300016: intake
+    2300018: probe
+    2300020: rdoors
+    2300022: reverse
+    2300024: rudder
+    2300026: struts
+    2300028: turbines
+    2300030: win1
+    2300032: wings
+    3300000: cockpit
+    3300002: cones
+    3300004: cowl2
+    3300006: cowling
+    3300008: doors
+    3300010: elev
+    3300012: exhaust
+    3300014: fuselage
+    3300016: intake
+    3300018: probe
+    3300020: rdoors
+    3300022: reverse
+    3300024: rudder
+    3300026: struts
+    3300028: turbines
+    3300030: win1
+    3300032: wings
+    4300000: cockpit
+    4300002: cones
+    4300004: cowl2
+    4300006: cowling
+    4300008: doors
+    4300010: elev
+    4300012: exhaust
+    4300014: fuselage
+    4300016: intake
+    4300018: probe
+    4300020: rdoors
+    4300022: reverse
+    4300024: rudder
+    4300026: struts
+    4300028: turbines
+    4300030: win1
+    4300032: wings
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

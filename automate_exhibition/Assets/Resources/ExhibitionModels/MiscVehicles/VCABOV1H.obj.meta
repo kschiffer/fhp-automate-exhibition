@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: ef170a4c73164a547aefec81b490ff10
+timeCreated: 1468085086
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antenae
+    100002: axle
+    100004: body
+    100006: bottom
+    100008: bumper
+    100010: clgts
+    100012: dlgts
+    100014: flaps
+    100016: frame
+    100018: frim
+    100020: ftire
+    100022: glass
+    100024: hlgts
+    100026: markers
+    100028: mirrors
+    100030: mufflers
+    100032: pipes
+    100034: plate
+    100036: racks
+    100038: rrims
+    100040: rtires
+    100042: tanks
+    100044: tbox
+    100046: trim1
+    100048: trim2
+    100050: trim3
+    100052: //RootNode
+    100054: vents
+    400000: antenae
+    400002: axle
+    400004: body
+    400006: bottom
+    400008: bumper
+    400010: clgts
+    400012: dlgts
+    400014: flaps
+    400016: frame
+    400018: frim
+    400020: ftire
+    400022: glass
+    400024: hlgts
+    400026: markers
+    400028: mirrors
+    400030: mufflers
+    400032: pipes
+    400034: plate
+    400036: racks
+    400038: rrims
+    400040: rtires
+    400042: tanks
+    400044: tbox
+    400046: trim1
+    400048: trim2
+    400050: trim3
+    400052: //RootNode
+    400054: vents
+    2300000: antenae
+    2300002: axle
+    2300004: body
+    2300006: bottom
+    2300008: bumper
+    2300010: clgts
+    2300012: dlgts
+    2300014: flaps
+    2300016: frame
+    2300018: frim
+    2300020: ftire
+    2300022: glass
+    2300024: hlgts
+    2300026: markers
+    2300028: mirrors
+    2300030: mufflers
+    2300032: pipes
+    2300034: plate
+    2300036: racks
+    2300038: rrims
+    2300040: rtires
+    2300042: tanks
+    2300044: tbox
+    2300046: trim1
+    2300048: trim2
+    2300050: trim3
+    2300052: vents
+    3300000: antenae
+    3300002: axle
+    3300004: body
+    3300006: bottom
+    3300008: bumper
+    3300010: clgts
+    3300012: dlgts
+    3300014: flaps
+    3300016: frame
+    3300018: frim
+    3300020: ftire
+    3300022: glass
+    3300024: hlgts
+    3300026: markers
+    3300028: mirrors
+    3300030: mufflers
+    3300032: pipes
+    3300034: plate
+    3300036: racks
+    3300038: rrims
+    3300040: rtires
+    3300042: tanks
+    3300044: tbox
+    3300046: trim1
+    3300048: trim2
+    3300050: trim3
+    3300052: vents
+    4300000: antenae
+    4300002: axle
+    4300004: body
+    4300006: bottom
+    4300008: bumper
+    4300010: clgts
+    4300012: dlgts
+    4300014: flaps
+    4300016: frame
+    4300018: frim
+    4300020: ftire
+    4300022: glass
+    4300024: hlgts
+    4300026: markers
+    4300028: mirrors
+    4300030: mufflers
+    4300032: pipes
+    4300034: plate
+    4300036: racks
+    4300038: rrims
+    4300040: rtires
+    4300042: tanks
+    4300044: tbox
+    4300046: trim1
+    4300048: trim2
+    4300050: trim3
+    4300052: vents
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

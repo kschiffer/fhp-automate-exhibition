@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: c89ab3bdcab1c00468c14fd2c50ee8a6
+timeCreated: 1468085038
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: eyeball
+    100004: footl
+    100006: footr
+    100008: handl
+    100010: handr
+    100012: head
+    100014: iris
+    100016: lips
+    100018: lowarml
+    100020: lowarmr
+    100022: lowlegl
+    100024: lowlegr
+    100026: midtorso
+    100028: neck
+    100030: pelvis
+    100032: pupil
+    100034: uparml
+    100036: uparmr
+    100038: uplegl
+    100040: uplegr
+    100042: uptorso
+    400000: //RootNode
+    400002: eyeball
+    400004: footl
+    400006: footr
+    400008: handl
+    400010: handr
+    400012: head
+    400014: iris
+    400016: lips
+    400018: lowarml
+    400020: lowarmr
+    400022: lowlegl
+    400024: lowlegr
+    400026: midtorso
+    400028: neck
+    400030: pelvis
+    400032: pupil
+    400034: uparml
+    400036: uparmr
+    400038: uplegl
+    400040: uplegr
+    400042: uptorso
+    2300000: eyeball
+    2300002: footl
+    2300004: footr
+    2300006: handl
+    2300008: handr
+    2300010: head
+    2300012: iris
+    2300014: lips
+    2300016: lowarml
+    2300018: lowarmr
+    2300020: lowlegl
+    2300022: lowlegr
+    2300024: midtorso
+    2300026: neck
+    2300028: pelvis
+    2300030: pupil
+    2300032: uparml
+    2300034: uparmr
+    2300036: uplegl
+    2300038: uplegr
+    2300040: uptorso
+    3300000: eyeball
+    3300002: footl
+    3300004: footr
+    3300006: handl
+    3300008: handr
+    3300010: head
+    3300012: iris
+    3300014: lips
+    3300016: lowarml
+    3300018: lowarmr
+    3300020: lowlegl
+    3300022: lowlegr
+    3300024: midtorso
+    3300026: neck
+    3300028: pelvis
+    3300030: pupil
+    3300032: uparml
+    3300034: uparmr
+    3300036: uplegl
+    3300038: uplegr
+    3300040: uptorso
+    4300000: eyeball
+    4300002: footl
+    4300004: footr
+    4300006: handl
+    4300008: handr
+    4300010: head
+    4300012: iris
+    4300014: lips
+    4300016: lowarml
+    4300018: lowarmr
+    4300020: lowlegl
+    4300022: lowlegr
+    4300024: midtorso
+    4300026: neck
+    4300028: pelvis
+    4300030: pupil
+    4300032: uparml
+    4300034: uparmr
+    4300036: uplegl
+    4300038: uplegr
+    4300040: uptorso
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

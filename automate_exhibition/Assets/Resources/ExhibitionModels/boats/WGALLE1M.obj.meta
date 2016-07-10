@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 2aed097597b2f7c4b96a4eafc3d2633c
+timeCreated: 1468084876
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: aft
+    100002: deck
+    100004: foremast
+    100006: hull
+    100008: keel
+    100010: lamp
+    100012: mast1
+    100014: mast2
+    100016: mast3
+    100018: rig
+    100020: sail1
+    100022: sail2
+    100024: sail3
+    100026: sail4
+    100028: sail5
+    100030: sail6
+    100032: //RootNode
+    100034: windows
+    400000: aft
+    400002: deck
+    400004: foremast
+    400006: hull
+    400008: keel
+    400010: lamp
+    400012: mast1
+    400014: mast2
+    400016: mast3
+    400018: rig
+    400020: sail1
+    400022: sail2
+    400024: sail3
+    400026: sail4
+    400028: sail5
+    400030: sail6
+    400032: //RootNode
+    400034: windows
+    2300000: aft
+    2300002: deck
+    2300004: foremast
+    2300006: hull
+    2300008: keel
+    2300010: lamp
+    2300012: mast1
+    2300014: mast2
+    2300016: mast3
+    2300018: rig
+    2300020: sail1
+    2300022: sail2
+    2300024: sail3
+    2300026: sail4
+    2300028: sail5
+    2300030: sail6
+    2300032: windows
+    3300000: aft
+    3300002: deck
+    3300004: foremast
+    3300006: hull
+    3300008: keel
+    3300010: lamp
+    3300012: mast1
+    3300014: mast2
+    3300016: mast3
+    3300018: rig
+    3300020: sail1
+    3300022: sail2
+    3300024: sail3
+    3300026: sail4
+    3300028: sail5
+    3300030: sail6
+    3300032: windows
+    4300000: aft
+    4300002: deck
+    4300004: foremast
+    4300006: hull
+    4300008: keel
+    4300010: lamp
+    4300012: mast1
+    4300014: mast2
+    4300016: mast3
+    4300018: rig
+    4300020: sail1
+    4300022: sail2
+    4300024: sail3
+    4300026: sail4
+    4300028: sail5
+    4300030: sail6
+    4300032: windows
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

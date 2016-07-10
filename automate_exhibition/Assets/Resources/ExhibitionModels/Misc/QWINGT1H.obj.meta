@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: f86505f721ae5f64cbd68066a69ac587
+timeCreated: 1468085103
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: heel
+    100002: heeltip
+    100004: hsole
+    100006: inside
+    100008: laces
+    100010: lholes
+    100012: //RootNode
+    100014: seam1
+    100016: seam2
+    100018: sole1
+    100020: ssole
+    100022: stitch1
+    100024: tongue
+    100026: uppers1
+    100028: uppers2
+    100030: wingtip
+    400000: heel
+    400002: heeltip
+    400004: hsole
+    400006: inside
+    400008: laces
+    400010: lholes
+    400012: //RootNode
+    400014: seam1
+    400016: seam2
+    400018: sole1
+    400020: ssole
+    400022: stitch1
+    400024: tongue
+    400026: uppers1
+    400028: uppers2
+    400030: wingtip
+    2300000: heel
+    2300002: heeltip
+    2300004: hsole
+    2300006: inside
+    2300008: laces
+    2300010: lholes
+    2300012: seam1
+    2300014: seam2
+    2300016: sole1
+    2300018: ssole
+    2300020: stitch1
+    2300022: tongue
+    2300024: uppers1
+    2300026: uppers2
+    2300028: wingtip
+    3300000: heel
+    3300002: heeltip
+    3300004: hsole
+    3300006: inside
+    3300008: laces
+    3300010: lholes
+    3300012: seam1
+    3300014: seam2
+    3300016: sole1
+    3300018: ssole
+    3300020: stitch1
+    3300022: tongue
+    3300024: uppers1
+    3300026: uppers2
+    3300028: wingtip
+    4300000: heel
+    4300002: heeltip
+    4300004: hsole
+    4300006: inside
+    4300008: laces
+    4300010: lholes
+    4300012: seam1
+    4300014: seam2
+    4300016: sole1
+    4300018: ssole
+    4300020: stitch1
+    4300022: tongue
+    4300024: uppers1
+    4300026: uppers2
+    4300028: wingtip
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: ebf11d71e173239498cd980e547c8b36
+timeCreated: 1468085083
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: fusblue
+    100002: fusred
+    100004: fuswhite
+    100006: glass
+    100008: gtrim
+    100010: insets
+    100012: lbay
+    100014: lbays
+    100016: lbdoors
+    100018: ports
+    100020: //RootNode
+    100022: rgset
+    100024: rgtrack
+    100026: rgtube
+    100028: rrim
+    100030: rrubber
+    100032: rtruck
+    100034: rudder
+    100036: rudred
+    100038: white
+    100040: wings
+    400000: fusblue
+    400002: fusred
+    400004: fuswhite
+    400006: glass
+    400008: gtrim
+    400010: insets
+    400012: lbay
+    400014: lbays
+    400016: lbdoors
+    400018: ports
+    400020: //RootNode
+    400022: rgset
+    400024: rgtrack
+    400026: rgtube
+    400028: rrim
+    400030: rrubber
+    400032: rtruck
+    400034: rudder
+    400036: rudred
+    400038: white
+    400040: wings
+    2300000: fusblue
+    2300002: fusred
+    2300004: fuswhite
+    2300006: glass
+    2300008: gtrim
+    2300010: insets
+    2300012: lbay
+    2300014: lbays
+    2300016: lbdoors
+    2300018: ports
+    2300020: rgset
+    2300022: rgtrack
+    2300024: rgtube
+    2300026: rrim
+    2300028: rrubber
+    2300030: rtruck
+    2300032: rudder
+    2300034: rudred
+    2300036: white
+    2300038: wings
+    3300000: fusblue
+    3300002: fusred
+    3300004: fuswhite
+    3300006: glass
+    3300008: gtrim
+    3300010: insets
+    3300012: lbay
+    3300014: lbays
+    3300016: lbdoors
+    3300018: ports
+    3300020: rgset
+    3300022: rgtrack
+    3300024: rgtube
+    3300026: rrim
+    3300028: rrubber
+    3300030: rtruck
+    3300032: rudder
+    3300034: rudred
+    3300036: white
+    3300038: wings
+    4300000: fusblue
+    4300002: fusred
+    4300004: fuswhite
+    4300006: glass
+    4300008: gtrim
+    4300010: insets
+    4300012: lbay
+    4300014: lbays
+    4300016: lbdoors
+    4300018: ports
+    4300020: rgset
+    4300022: rgtrack
+    4300024: rgtube
+    4300026: rrim
+    4300028: rrubber
+    4300030: rtruck
+    4300032: rudder
+    4300034: rudred
+    4300036: white
+    4300038: wings
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

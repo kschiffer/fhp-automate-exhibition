@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: ae5d3a260af60e1498fb7f2ba05a54c6
+timeCreated: 1468085014
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: acleaner
+    100002: brakes
+    100004: column
+    100006: console
+    100008: engine
+    100010: frame
+    100012: frim
+    100014: fshocks
+    100016: ftire
+    100018: gped
+    100020: headers
+    100022: lights
+    100024: linkage
+    100026: muffler
+    100028: raxle
+    100030: rlgt
+    100032: rtire
+    100034: seat
+    100036: steering
+    100038: stwheel
+    100040: tank
+    100042: tlgt
+    100044: //RootNode
+    400000: acleaner
+    400002: brakes
+    400004: column
+    400006: console
+    400008: engine
+    400010: frame
+    400012: frim
+    400014: fshocks
+    400016: ftire
+    400018: gped
+    400020: headers
+    400022: lights
+    400024: linkage
+    400026: muffler
+    400028: raxle
+    400030: rlgt
+    400032: rtire
+    400034: seat
+    400036: steering
+    400038: stwheel
+    400040: tank
+    400042: tlgt
+    400044: //RootNode
+    2300000: acleaner
+    2300002: brakes
+    2300004: column
+    2300006: console
+    2300008: engine
+    2300010: frame
+    2300012: frim
+    2300014: fshocks
+    2300016: ftire
+    2300018: gped
+    2300020: headers
+    2300022: lights
+    2300024: linkage
+    2300026: muffler
+    2300028: raxle
+    2300030: rlgt
+    2300032: rtire
+    2300034: seat
+    2300036: steering
+    2300038: stwheel
+    2300040: tank
+    2300042: tlgt
+    3300000: acleaner
+    3300002: brakes
+    3300004: column
+    3300006: console
+    3300008: engine
+    3300010: frame
+    3300012: frim
+    3300014: fshocks
+    3300016: ftire
+    3300018: gped
+    3300020: headers
+    3300022: lights
+    3300024: linkage
+    3300026: muffler
+    3300028: raxle
+    3300030: rlgt
+    3300032: rtire
+    3300034: seat
+    3300036: steering
+    3300038: stwheel
+    3300040: tank
+    3300042: tlgt
+    4300000: acleaner
+    4300002: brakes
+    4300004: column
+    4300006: console
+    4300008: engine
+    4300010: frame
+    4300012: frim
+    4300014: fshocks
+    4300016: ftire
+    4300018: gped
+    4300020: headers
+    4300022: lights
+    4300024: linkage
+    4300026: muffler
+    4300028: raxle
+    4300030: rlgt
+    4300032: rtire
+    4300034: seat
+    4300036: steering
+    4300038: stwheel
+    4300040: tank
+    4300042: tlgt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

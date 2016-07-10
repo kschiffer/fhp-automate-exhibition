@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 344aa4dbc8ad8d84ab5ee33d0d12c156
+timeCreated: 1468084886
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bottom
+    100004: bumpers
+    100006: //RootNode
+    100008: fdoor
+    100010: glass
+    100012: grill
+    100014: grill1
+    100016: handles
+    100018: hlgts
+    100020: hood
+    100022: markers
+    100024: mirrors
+    100026: park
+    100028: rdoor
+    100030: rear
+    100032: rim
+    100034: roof
+    100036: rubber
+    100038: sunroof
+    100040: tlgts
+    100042: trim
+    100044: trim2
+    100046: trunk
+    400000: body
+    400002: bottom
+    400004: bumpers
+    400006: //RootNode
+    400008: fdoor
+    400010: glass
+    400012: grill
+    400014: grill1
+    400016: handles
+    400018: hlgts
+    400020: hood
+    400022: markers
+    400024: mirrors
+    400026: park
+    400028: rdoor
+    400030: rear
+    400032: rim
+    400034: roof
+    400036: rubber
+    400038: sunroof
+    400040: tlgts
+    400042: trim
+    400044: trim2
+    400046: trunk
+    2300000: body
+    2300002: bottom
+    2300004: bumpers
+    2300006: fdoor
+    2300008: glass
+    2300010: grill
+    2300012: grill1
+    2300014: handles
+    2300016: hlgts
+    2300018: hood
+    2300020: markers
+    2300022: mirrors
+    2300024: park
+    2300026: rdoor
+    2300028: rear
+    2300030: rim
+    2300032: roof
+    2300034: rubber
+    2300036: sunroof
+    2300038: tlgts
+    2300040: trim
+    2300042: trim2
+    2300044: trunk
+    3300000: body
+    3300002: bottom
+    3300004: bumpers
+    3300006: fdoor
+    3300008: glass
+    3300010: grill
+    3300012: grill1
+    3300014: handles
+    3300016: hlgts
+    3300018: hood
+    3300020: markers
+    3300022: mirrors
+    3300024: park
+    3300026: rdoor
+    3300028: rear
+    3300030: rim
+    3300032: roof
+    3300034: rubber
+    3300036: sunroof
+    3300038: tlgts
+    3300040: trim
+    3300042: trim2
+    3300044: trunk
+    4300000: body
+    4300002: bottom
+    4300004: bumpers
+    4300006: fdoor
+    4300008: glass
+    4300010: grill
+    4300012: grill1
+    4300014: handles
+    4300016: hlgts
+    4300018: hood
+    4300020: markers
+    4300022: mirrors
+    4300024: park
+    4300026: rdoor
+    4300028: rear
+    4300030: rim
+    4300032: roof
+    4300034: rubber
+    4300036: sunroof
+    4300038: tlgts
+    4300040: trim
+    4300042: trim2
+    4300044: trunk
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

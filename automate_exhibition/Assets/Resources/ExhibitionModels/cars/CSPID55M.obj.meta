@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 175514fa345d4fa4c9ba5b2d71f3a785
+timeCreated: 1468084859
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: alights
+    100002: body
+    100004: bottom
+    100006: brims
+    100008: btires
+    100010: //RootNode
+    100012: doors
+    100014: glass
+    100016: hlights
+    100018: interior
+    100020: lfrim
+    100022: lftire
+    100024: rfrim
+    100026: rftire
+    100028: rlights
+    100030: rollbar
+    100032: seats
+    100034: stwheel
+    100036: trim
+    400000: alights
+    400002: body
+    400004: bottom
+    400006: brims
+    400008: btires
+    400010: //RootNode
+    400012: doors
+    400014: glass
+    400016: hlights
+    400018: interior
+    400020: lfrim
+    400022: lftire
+    400024: rfrim
+    400026: rftire
+    400028: rlights
+    400030: rollbar
+    400032: seats
+    400034: stwheel
+    400036: trim
+    2300000: alights
+    2300002: body
+    2300004: bottom
+    2300006: brims
+    2300008: btires
+    2300010: doors
+    2300012: glass
+    2300014: hlights
+    2300016: interior
+    2300018: lfrim
+    2300020: lftire
+    2300022: rfrim
+    2300024: rftire
+    2300026: rlights
+    2300028: rollbar
+    2300030: seats
+    2300032: stwheel
+    2300034: trim
+    3300000: alights
+    3300002: body
+    3300004: bottom
+    3300006: brims
+    3300008: btires
+    3300010: doors
+    3300012: glass
+    3300014: hlights
+    3300016: interior
+    3300018: lfrim
+    3300020: lftire
+    3300022: rfrim
+    3300024: rftire
+    3300026: rlights
+    3300028: rollbar
+    3300030: seats
+    3300032: stwheel
+    3300034: trim
+    4300000: alights
+    4300002: body
+    4300004: bottom
+    4300006: brims
+    4300008: btires
+    4300010: doors
+    4300012: glass
+    4300014: hlights
+    4300016: interior
+    4300018: lfrim
+    4300020: lftire
+    4300022: rfrim
+    4300024: rftire
+    4300026: rlights
+    4300028: rollbar
+    4300030: seats
+    4300032: stwheel
+    4300034: trim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

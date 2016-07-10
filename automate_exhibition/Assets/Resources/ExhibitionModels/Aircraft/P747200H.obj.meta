@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: c2e9c0e43a6fda94898349216d0fe642
+timeCreated: 1468085033
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cockpit
+    100002: cowling
+    100004: edeicers
+    100006: elevator
+    100008: engine
+    100010: exhaust
+    100012: fus1
+    100014: fus2
+    100016: fus3
+    100018: fus4
+    100020: guides
+    100022: intakes
+    100024: lwindows
+    100026: //RootNode
+    100028: rudder
+    100030: trim
+    100032: uwindows
+    100034: wdeicers
+    100036: wings
+    100038: wount
+    400000: cockpit
+    400002: cowling
+    400004: edeicers
+    400006: elevator
+    400008: engine
+    400010: exhaust
+    400012: fus1
+    400014: fus2
+    400016: fus3
+    400018: fus4
+    400020: guides
+    400022: intakes
+    400024: lwindows
+    400026: //RootNode
+    400028: rudder
+    400030: trim
+    400032: uwindows
+    400034: wdeicers
+    400036: wings
+    400038: wount
+    2300000: cockpit
+    2300002: cowling
+    2300004: edeicers
+    2300006: elevator
+    2300008: engine
+    2300010: exhaust
+    2300012: fus1
+    2300014: fus2
+    2300016: fus3
+    2300018: fus4
+    2300020: guides
+    2300022: intakes
+    2300024: lwindows
+    2300026: rudder
+    2300028: trim
+    2300030: uwindows
+    2300032: wdeicers
+    2300034: wings
+    2300036: wount
+    3300000: cockpit
+    3300002: cowling
+    3300004: edeicers
+    3300006: elevator
+    3300008: engine
+    3300010: exhaust
+    3300012: fus1
+    3300014: fus2
+    3300016: fus3
+    3300018: fus4
+    3300020: guides
+    3300022: intakes
+    3300024: lwindows
+    3300026: rudder
+    3300028: trim
+    3300030: uwindows
+    3300032: wdeicers
+    3300034: wings
+    3300036: wount
+    4300000: cockpit
+    4300002: cowling
+    4300004: edeicers
+    4300006: elevator
+    4300008: engine
+    4300010: exhaust
+    4300012: fus1
+    4300014: fus2
+    4300016: fus3
+    4300018: fus4
+    4300020: guides
+    4300022: intakes
+    4300024: lwindows
+    4300026: rudder
+    4300028: trim
+    4300030: uwindows
+    4300032: wdeicers
+    4300034: wings
+    4300036: wount
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

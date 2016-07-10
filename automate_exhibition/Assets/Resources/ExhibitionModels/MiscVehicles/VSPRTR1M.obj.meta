@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 296bf0ec422cbc8478f761092bf499e7
+timeCreated: 1468084875
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arml
+    100002: armr
+    100004: body
+    100006: brace1
+    100008: brace2
+    100010: brims
+    100012: btires
+    100014: eng
+    100016: faxel
+    100018: fbump
+    100020: frame
+    100022: helmet
+    100024: lfrim
+    100026: lftire
+    100028: manbod
+    100030: pipes
+    100032: raxel
+    100034: rbump
+    100036: rfrim
+    100038: rftire
+    100040: roll
+    100042: sbump
+    100044: shocks
+    100046: steer
+    100048: tpipes
+    100050: //RootNode
+    400000: arml
+    400002: armr
+    400004: body
+    400006: brace1
+    400008: brace2
+    400010: brims
+    400012: btires
+    400014: eng
+    400016: faxel
+    400018: fbump
+    400020: frame
+    400022: helmet
+    400024: lfrim
+    400026: lftire
+    400028: manbod
+    400030: pipes
+    400032: raxel
+    400034: rbump
+    400036: rfrim
+    400038: rftire
+    400040: roll
+    400042: sbump
+    400044: shocks
+    400046: steer
+    400048: tpipes
+    400050: //RootNode
+    2300000: arml
+    2300002: armr
+    2300004: body
+    2300006: brace1
+    2300008: brace2
+    2300010: brims
+    2300012: btires
+    2300014: eng
+    2300016: faxel
+    2300018: fbump
+    2300020: frame
+    2300022: helmet
+    2300024: lfrim
+    2300026: lftire
+    2300028: manbod
+    2300030: pipes
+    2300032: raxel
+    2300034: rbump
+    2300036: rfrim
+    2300038: rftire
+    2300040: roll
+    2300042: sbump
+    2300044: shocks
+    2300046: steer
+    2300048: tpipes
+    3300000: arml
+    3300002: armr
+    3300004: body
+    3300006: brace1
+    3300008: brace2
+    3300010: brims
+    3300012: btires
+    3300014: eng
+    3300016: faxel
+    3300018: fbump
+    3300020: frame
+    3300022: helmet
+    3300024: lfrim
+    3300026: lftire
+    3300028: manbod
+    3300030: pipes
+    3300032: raxel
+    3300034: rbump
+    3300036: rfrim
+    3300038: rftire
+    3300040: roll
+    3300042: sbump
+    3300044: shocks
+    3300046: steer
+    3300048: tpipes
+    4300000: arml
+    4300002: armr
+    4300004: body
+    4300006: brace1
+    4300008: brace2
+    4300010: brims
+    4300012: btires
+    4300014: eng
+    4300016: faxel
+    4300018: fbump
+    4300020: frame
+    4300022: helmet
+    4300024: lfrim
+    4300026: lftire
+    4300028: manbod
+    4300030: pipes
+    4300032: raxel
+    4300034: rbump
+    4300036: rfrim
+    4300038: rftire
+    4300040: roll
+    4300042: sbump
+    4300044: shocks
+    4300046: steer
+    4300048: tpipes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

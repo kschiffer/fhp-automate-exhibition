@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 43c370d74fa55da4c9e911b001d80168
+timeCreated: 1468084907
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: engines
+    100002: fgram
+    100004: fgtrack
+    100006: fgtube
+    100008: frame
+    100010: frim
+    100012: frubber
+    100014: ftruck
+    100016: fuselage
+    100018: hubs
+    100020: intakes
+    100022: //RootNode
+    100024: props
+    100026: radome
+    100028: rgset
+    100030: rgtrack
+    100032: rgtube
+    100034: rrim
+    100036: rruber
+    100038: tail
+    100040: window
+    100042: wings
+    400000: engines
+    400002: fgram
+    400004: fgtrack
+    400006: fgtube
+    400008: frame
+    400010: frim
+    400012: frubber
+    400014: ftruck
+    400016: fuselage
+    400018: hubs
+    400020: intakes
+    400022: //RootNode
+    400024: props
+    400026: radome
+    400028: rgset
+    400030: rgtrack
+    400032: rgtube
+    400034: rrim
+    400036: rruber
+    400038: tail
+    400040: window
+    400042: wings
+    2300000: engines
+    2300002: fgram
+    2300004: fgtrack
+    2300006: fgtube
+    2300008: frame
+    2300010: frim
+    2300012: frubber
+    2300014: ftruck
+    2300016: fuselage
+    2300018: hubs
+    2300020: intakes
+    2300022: props
+    2300024: radome
+    2300026: rgset
+    2300028: rgtrack
+    2300030: rgtube
+    2300032: rrim
+    2300034: rruber
+    2300036: tail
+    2300038: window
+    2300040: wings
+    3300000: engines
+    3300002: fgram
+    3300004: fgtrack
+    3300006: fgtube
+    3300008: frame
+    3300010: frim
+    3300012: frubber
+    3300014: ftruck
+    3300016: fuselage
+    3300018: hubs
+    3300020: intakes
+    3300022: props
+    3300024: radome
+    3300026: rgset
+    3300028: rgtrack
+    3300030: rgtube
+    3300032: rrim
+    3300034: rruber
+    3300036: tail
+    3300038: window
+    3300040: wings
+    4300000: engines
+    4300002: fgram
+    4300004: fgtrack
+    4300006: fgtube
+    4300008: frame
+    4300010: frim
+    4300012: frubber
+    4300014: ftruck
+    4300016: fuselage
+    4300018: hubs
+    4300020: intakes
+    4300022: props
+    4300024: radome
+    4300026: rgset
+    4300028: rgtrack
+    4300030: rgtube
+    4300032: rrim
+    4300034: rruber
+    4300036: tail
+    4300038: window
+    4300040: wings
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

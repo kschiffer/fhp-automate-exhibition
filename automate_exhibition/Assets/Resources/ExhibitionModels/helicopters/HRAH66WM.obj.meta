@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 3574715a698ef9d49b9c636a3f4a5ccd
+timeCreated: 1468084889
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: axle
+    100002: bdoors
+    100004: bombs
+    100006: cavities
+    100008: cockpit
+    100010: ctrim
+    100012: fuselage
+    100014: gunmount
+    100016: hlfires
+    100018: holes
+    100020: //RootNode
+    100022: inset
+    100024: intakes
+    100026: ldoor
+    100028: mount
+    100030: mount2
+    100032: radar
+    100034: rim
+    100036: rotor
+    100038: rrotor
+    100040: tail
+    100042: tire
+    100044: vulcan
+    100046: warheads
+    100048: wing
+    400000: axle
+    400002: bdoors
+    400004: bombs
+    400006: cavities
+    400008: cockpit
+    400010: ctrim
+    400012: fuselage
+    400014: gunmount
+    400016: hlfires
+    400018: holes
+    400020: //RootNode
+    400022: inset
+    400024: intakes
+    400026: ldoor
+    400028: mount
+    400030: mount2
+    400032: radar
+    400034: rim
+    400036: rotor
+    400038: rrotor
+    400040: tail
+    400042: tire
+    400044: vulcan
+    400046: warheads
+    400048: wing
+    2300000: axle
+    2300002: bdoors
+    2300004: bombs
+    2300006: cavities
+    2300008: cockpit
+    2300010: ctrim
+    2300012: fuselage
+    2300014: gunmount
+    2300016: hlfires
+    2300018: holes
+    2300020: inset
+    2300022: intakes
+    2300024: ldoor
+    2300026: mount
+    2300028: mount2
+    2300030: radar
+    2300032: rim
+    2300034: rotor
+    2300036: rrotor
+    2300038: tail
+    2300040: tire
+    2300042: vulcan
+    2300044: warheads
+    2300046: wing
+    3300000: axle
+    3300002: bdoors
+    3300004: bombs
+    3300006: cavities
+    3300008: cockpit
+    3300010: ctrim
+    3300012: fuselage
+    3300014: gunmount
+    3300016: hlfires
+    3300018: holes
+    3300020: inset
+    3300022: intakes
+    3300024: ldoor
+    3300026: mount
+    3300028: mount2
+    3300030: radar
+    3300032: rim
+    3300034: rotor
+    3300036: rrotor
+    3300038: tail
+    3300040: tire
+    3300042: vulcan
+    3300044: warheads
+    3300046: wing
+    4300000: axle
+    4300002: bdoors
+    4300004: bombs
+    4300006: cavities
+    4300008: cockpit
+    4300010: ctrim
+    4300012: fuselage
+    4300014: gunmount
+    4300016: hlfires
+    4300018: holes
+    4300020: inset
+    4300022: intakes
+    4300024: ldoor
+    4300026: mount
+    4300028: mount2
+    4300030: radar
+    4300032: rim
+    4300034: rotor
+    4300036: rrotor
+    4300038: tail
+    4300040: tire
+    4300042: vulcan
+    4300044: warheads
+    4300046: wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

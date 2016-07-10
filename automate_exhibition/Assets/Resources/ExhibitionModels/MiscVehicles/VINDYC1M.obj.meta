@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 5a51584a9d016dd4381d71d582b23cb7
+timeCreated: 1468084922
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: frame
+    100004: frntglas
+    100006: hlight1
+    100008: hlight2
+    100010: lcover1
+    100012: lcover2
+    100014: lfin
+    100016: lfinrim
+    100018: lfrim
+    100020: lftire
+    100022: rearglas
+    100024: rearrim
+    100026: rfinrim
+    100028: rfrim
+    100030: rftire
+    100032: rrinrim
+    100034: rtires
+    100036: spoiler
+    100038: trunk
+    100040: vent1
+    100042: vent2
+    100044: venta
+    100046: //RootNode
+    400000: body
+    400002: frame
+    400004: frntglas
+    400006: hlight1
+    400008: hlight2
+    400010: lcover1
+    400012: lcover2
+    400014: lfin
+    400016: lfinrim
+    400018: lfrim
+    400020: lftire
+    400022: rearglas
+    400024: rearrim
+    400026: rfinrim
+    400028: rfrim
+    400030: rftire
+    400032: rrinrim
+    400034: rtires
+    400036: spoiler
+    400038: trunk
+    400040: vent1
+    400042: vent2
+    400044: venta
+    400046: //RootNode
+    2300000: body
+    2300002: frame
+    2300004: frntglas
+    2300006: hlight1
+    2300008: hlight2
+    2300010: lcover1
+    2300012: lcover2
+    2300014: lfin
+    2300016: lfinrim
+    2300018: lfrim
+    2300020: lftire
+    2300022: rearglas
+    2300024: rearrim
+    2300026: rfinrim
+    2300028: rfrim
+    2300030: rftire
+    2300032: rrinrim
+    2300034: rtires
+    2300036: spoiler
+    2300038: trunk
+    2300040: vent1
+    2300042: vent2
+    2300044: venta
+    3300000: body
+    3300002: frame
+    3300004: frntglas
+    3300006: hlight1
+    3300008: hlight2
+    3300010: lcover1
+    3300012: lcover2
+    3300014: lfin
+    3300016: lfinrim
+    3300018: lfrim
+    3300020: lftire
+    3300022: rearglas
+    3300024: rearrim
+    3300026: rfinrim
+    3300028: rfrim
+    3300030: rftire
+    3300032: rrinrim
+    3300034: rtires
+    3300036: spoiler
+    3300038: trunk
+    3300040: vent1
+    3300042: vent2
+    3300044: venta
+    4300000: body
+    4300002: frame
+    4300004: frntglas
+    4300006: hlight1
+    4300008: hlight2
+    4300010: lcover1
+    4300012: lcover2
+    4300014: lfin
+    4300016: lfinrim
+    4300018: lfrim
+    4300020: lftire
+    4300022: rearglas
+    4300024: rearrim
+    4300026: rfinrim
+    4300028: rfrim
+    4300030: rftire
+    4300032: rrinrim
+    4300034: rtires
+    4300036: spoiler
+    4300038: trunk
+    4300040: vent1
+    4300042: vent2
+    4300044: venta
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

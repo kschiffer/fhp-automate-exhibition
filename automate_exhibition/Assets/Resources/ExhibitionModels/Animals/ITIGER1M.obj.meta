@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: a6a01a9fb7ea90d45968c264c144115c
+timeCreated: 1468085008
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: backlegl
+    100002: backlegr
+    100004: backpawl
+    100006: backpawr
+    100008: body
+    100010: eye
+    100012: frntlegl
+    100014: frntlegr
+    100016: frntpawl
+    100018: frntpawr
+    100020: head
+    100022: innerear
+    100024: iris
+    100026: //RootNode
+    100028: nose
+    100030: outear
+    100032: pupil
+    100034: tail
+    100036: teeth
+    100038: tongue
+    400000: backlegl
+    400002: backlegr
+    400004: backpawl
+    400006: backpawr
+    400008: body
+    400010: eye
+    400012: frntlegl
+    400014: frntlegr
+    400016: frntpawl
+    400018: frntpawr
+    400020: head
+    400022: innerear
+    400024: iris
+    400026: //RootNode
+    400028: nose
+    400030: outear
+    400032: pupil
+    400034: tail
+    400036: teeth
+    400038: tongue
+    2300000: backlegl
+    2300002: backlegr
+    2300004: backpawl
+    2300006: backpawr
+    2300008: body
+    2300010: eye
+    2300012: frntlegl
+    2300014: frntlegr
+    2300016: frntpawl
+    2300018: frntpawr
+    2300020: head
+    2300022: innerear
+    2300024: iris
+    2300026: nose
+    2300028: outear
+    2300030: pupil
+    2300032: tail
+    2300034: teeth
+    2300036: tongue
+    3300000: backlegl
+    3300002: backlegr
+    3300004: backpawl
+    3300006: backpawr
+    3300008: body
+    3300010: eye
+    3300012: frntlegl
+    3300014: frntlegr
+    3300016: frntpawl
+    3300018: frntpawr
+    3300020: head
+    3300022: innerear
+    3300024: iris
+    3300026: nose
+    3300028: outear
+    3300030: pupil
+    3300032: tail
+    3300034: teeth
+    3300036: tongue
+    4300000: backlegl
+    4300002: backlegr
+    4300004: backpawl
+    4300006: backpawr
+    4300008: body
+    4300010: eye
+    4300012: frntlegl
+    4300014: frntlegr
+    4300016: frntpawl
+    4300018: frntpawr
+    4300020: head
+    4300022: innerear
+    4300024: iris
+    4300026: nose
+    4300028: outear
+    4300030: pupil
+    4300032: tail
+    4300034: teeth
+    4300036: tongue
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

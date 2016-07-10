@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 0e798cdc40ed63542ba0d0e080973b5b
+timeCreated: 1468084850
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bottom
+    100004: bumpers
+    100006: chrome
+    100008: glass
+    100010: grill
+    100012: hlghts
+    100014: luggage
+    100016: markers
+    100018: mirror
+    100020: rgrill
+    100022: rim
+    100024: roof
+    100026: rubber
+    100028: taillgts
+    100030: trim1
+    100032: turnlgts
+    100034: vents
+    100036: //RootNode
+    400000: body
+    400002: bottom
+    400004: bumpers
+    400006: chrome
+    400008: glass
+    400010: grill
+    400012: hlghts
+    400014: luggage
+    400016: markers
+    400018: mirror
+    400020: rgrill
+    400022: rim
+    400024: roof
+    400026: rubber
+    400028: taillgts
+    400030: trim1
+    400032: turnlgts
+    400034: vents
+    400036: //RootNode
+    2300000: body
+    2300002: bottom
+    2300004: bumpers
+    2300006: chrome
+    2300008: glass
+    2300010: grill
+    2300012: hlghts
+    2300014: luggage
+    2300016: markers
+    2300018: mirror
+    2300020: rgrill
+    2300022: rim
+    2300024: roof
+    2300026: rubber
+    2300028: taillgts
+    2300030: trim1
+    2300032: turnlgts
+    2300034: vents
+    3300000: body
+    3300002: bottom
+    3300004: bumpers
+    3300006: chrome
+    3300008: glass
+    3300010: grill
+    3300012: hlghts
+    3300014: luggage
+    3300016: markers
+    3300018: mirror
+    3300020: rgrill
+    3300022: rim
+    3300024: roof
+    3300026: rubber
+    3300028: taillgts
+    3300030: trim1
+    3300032: turnlgts
+    3300034: vents
+    4300000: body
+    4300002: bottom
+    4300004: bumpers
+    4300006: chrome
+    4300008: glass
+    4300010: grill
+    4300012: hlghts
+    4300014: luggage
+    4300016: markers
+    4300018: mirror
+    4300020: rgrill
+    4300022: rim
+    4300024: roof
+    4300026: rubber
+    4300028: taillgts
+    4300030: trim1
+    4300032: turnlgts
+    4300034: vents
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 8dbc7cc6538fa984cace946031ff7098
+timeCreated: 1468084974
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bblack
+    100002: bbottom
+    100004: bgroov
+    100006: bgroov1
+    100008: black
+    100010: edges
+    100012: eye
+    100014: gbottom
+    100016: heel
+    100018: inshoe
+    100020: inshoe1
+    100022: laces
+    100024: pad
+    100026: pad1
+    100028: plastic1
+    100030: plastic2
+    100032: s1
+    100034: s2
+    100036: //RootNode
+    100038: sole
+    100040: support
+    100042: tag
+    100044: thread
+    100046: wgroov
+    100048: wgroov1
+    100050: white
+    100052: white1
+    100054: white2
+    100056: white3
+    400000: bblack
+    400002: bbottom
+    400004: bgroov
+    400006: bgroov1
+    400008: black
+    400010: edges
+    400012: eye
+    400014: gbottom
+    400016: heel
+    400018: inshoe
+    400020: inshoe1
+    400022: laces
+    400024: pad
+    400026: pad1
+    400028: plastic1
+    400030: plastic2
+    400032: s1
+    400034: s2
+    400036: //RootNode
+    400038: sole
+    400040: support
+    400042: tag
+    400044: thread
+    400046: wgroov
+    400048: wgroov1
+    400050: white
+    400052: white1
+    400054: white2
+    400056: white3
+    2300000: bblack
+    2300002: bbottom
+    2300004: bgroov
+    2300006: bgroov1
+    2300008: black
+    2300010: edges
+    2300012: eye
+    2300014: gbottom
+    2300016: heel
+    2300018: inshoe
+    2300020: inshoe1
+    2300022: laces
+    2300024: pad
+    2300026: pad1
+    2300028: plastic1
+    2300030: plastic2
+    2300032: s1
+    2300034: s2
+    2300036: sole
+    2300038: support
+    2300040: tag
+    2300042: thread
+    2300044: wgroov
+    2300046: wgroov1
+    2300048: white
+    2300050: white1
+    2300052: white2
+    2300054: white3
+    3300000: bblack
+    3300002: bbottom
+    3300004: bgroov
+    3300006: bgroov1
+    3300008: black
+    3300010: edges
+    3300012: eye
+    3300014: gbottom
+    3300016: heel
+    3300018: inshoe
+    3300020: inshoe1
+    3300022: laces
+    3300024: pad
+    3300026: pad1
+    3300028: plastic1
+    3300030: plastic2
+    3300032: s1
+    3300034: s2
+    3300036: sole
+    3300038: support
+    3300040: tag
+    3300042: thread
+    3300044: wgroov
+    3300046: wgroov1
+    3300048: white
+    3300050: white1
+    3300052: white2
+    3300054: white3
+    4300000: bblack
+    4300002: bbottom
+    4300004: bgroov
+    4300006: bgroov1
+    4300008: black
+    4300010: edges
+    4300012: eye
+    4300014: gbottom
+    4300016: heel
+    4300018: inshoe
+    4300020: inshoe1
+    4300022: laces
+    4300024: pad
+    4300026: pad1
+    4300028: plastic1
+    4300030: plastic2
+    4300032: s1
+    4300034: s2
+    4300036: sole
+    4300038: support
+    4300040: tag
+    4300042: thread
+    4300044: wgroov
+    4300046: wgroov1
+    4300048: white
+    4300050: white1
+    4300052: white2
+    4300054: white3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

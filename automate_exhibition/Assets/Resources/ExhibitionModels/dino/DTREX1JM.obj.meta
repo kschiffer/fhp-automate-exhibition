@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 3a57ec5e678b191448612a74bbd82a14
+timeCreated: 1468084897
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: anklel
+    100002: ankler
+    100004: //RootNode
+    100006: foot
+    100008: footl
+    100010: handl
+    100012: handr
+    100014: head
+    100016: jaw
+    100018: lowarml
+    100020: lowarmr
+    100022: lowlegl
+    100024: lowlegr
+    100026: neck
+    100028: tail1
+    100030: tail2
+    100032: tail3
+    100034: torso
+    100036: uparml
+    100038: uparmr
+    100040: upleg
+    100042: uplegl
+    400000: anklel
+    400002: ankler
+    400004: //RootNode
+    400006: foot
+    400008: footl
+    400010: handl
+    400012: handr
+    400014: head
+    400016: jaw
+    400018: lowarml
+    400020: lowarmr
+    400022: lowlegl
+    400024: lowlegr
+    400026: neck
+    400028: tail1
+    400030: tail2
+    400032: tail3
+    400034: torso
+    400036: uparml
+    400038: uparmr
+    400040: upleg
+    400042: uplegl
+    2300000: anklel
+    2300002: ankler
+    2300004: foot
+    2300006: footl
+    2300008: handl
+    2300010: handr
+    2300012: head
+    2300014: jaw
+    2300016: lowarml
+    2300018: lowarmr
+    2300020: lowlegl
+    2300022: lowlegr
+    2300024: neck
+    2300026: tail1
+    2300028: tail2
+    2300030: tail3
+    2300032: torso
+    2300034: uparml
+    2300036: uparmr
+    2300038: upleg
+    2300040: uplegl
+    3300000: anklel
+    3300002: ankler
+    3300004: foot
+    3300006: footl
+    3300008: handl
+    3300010: handr
+    3300012: head
+    3300014: jaw
+    3300016: lowarml
+    3300018: lowarmr
+    3300020: lowlegl
+    3300022: lowlegr
+    3300024: neck
+    3300026: tail1
+    3300028: tail2
+    3300030: tail3
+    3300032: torso
+    3300034: uparml
+    3300036: uparmr
+    3300038: upleg
+    3300040: uplegl
+    4300000: anklel
+    4300002: ankler
+    4300004: foot
+    4300006: footl
+    4300008: handl
+    4300010: handr
+    4300012: head
+    4300014: jaw
+    4300016: lowarml
+    4300018: lowarmr
+    4300020: lowlegl
+    4300022: lowlegr
+    4300024: neck
+    4300026: tail1
+    4300028: tail2
+    4300030: tail3
+    4300032: torso
+    4300034: uparml
+    4300036: uparmr
+    4300038: upleg
+    4300040: uplegl
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

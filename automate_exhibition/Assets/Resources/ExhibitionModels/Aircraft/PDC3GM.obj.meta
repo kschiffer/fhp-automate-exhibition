@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 229742da45125c94baab719f5bffa43a
+timeCreated: 1468084870
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: alt
+    100002: bod
+    100004: cowl
+    100006: cyl
+    100008: doors
+    100010: eng
+    100012: engcov
+    100014: exhaust
+    100016: foil
+    100018: foils
+    100020: hub
+    100022: newpoly
+    100024: nose
+    100026: //RootNode
+    100028: props
+    100030: start
+    100032: trim
+    100034: wheel
+    100036: win
+    100038: win2
+    100040: wing
+    400000: alt
+    400002: bod
+    400004: cowl
+    400006: cyl
+    400008: doors
+    400010: eng
+    400012: engcov
+    400014: exhaust
+    400016: foil
+    400018: foils
+    400020: hub
+    400022: newpoly
+    400024: nose
+    400026: //RootNode
+    400028: props
+    400030: start
+    400032: trim
+    400034: wheel
+    400036: win
+    400038: win2
+    400040: wing
+    2300000: alt
+    2300002: bod
+    2300004: cowl
+    2300006: cyl
+    2300008: doors
+    2300010: eng
+    2300012: engcov
+    2300014: exhaust
+    2300016: foil
+    2300018: foils
+    2300020: hub
+    2300022: newpoly
+    2300024: nose
+    2300026: props
+    2300028: start
+    2300030: trim
+    2300032: wheel
+    2300034: win
+    2300036: win2
+    2300038: wing
+    3300000: alt
+    3300002: bod
+    3300004: cowl
+    3300006: cyl
+    3300008: doors
+    3300010: eng
+    3300012: engcov
+    3300014: exhaust
+    3300016: foil
+    3300018: foils
+    3300020: hub
+    3300022: newpoly
+    3300024: nose
+    3300026: props
+    3300028: start
+    3300030: trim
+    3300032: wheel
+    3300034: win
+    3300036: win2
+    3300038: wing
+    4300000: alt
+    4300002: bod
+    4300004: cowl
+    4300006: cyl
+    4300008: doors
+    4300010: eng
+    4300012: engcov
+    4300014: exhaust
+    4300016: foil
+    4300018: foils
+    4300020: hub
+    4300022: newpoly
+    4300024: nose
+    4300026: props
+    4300028: start
+    4300030: trim
+    4300032: wheel
+    4300034: win
+    4300036: win2
+    4300038: wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

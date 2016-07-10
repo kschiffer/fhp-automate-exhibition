@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 406f46e559c540e48a86638e53715ed1
+timeCreated: 1468084904
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bfootl
+    100002: bfootr
+    100004: blowlegr
+    100006: body
+    100008: buplegl
+    100010: buplegr
+    100012: //RootNode
+    100014: eye
+    100016: ffootl
+    100018: ffootr
+    100020: flowlegl
+    100022: flowlegr
+    100024: fuplegl
+    100026: fuplegr
+    100028: head
+    100030: jaw
+    100032: lowjaw
+    100034: neck1
+    100036: neck2
+    100038: neck3
+    100040: rlowlegl
+    100042: tail1
+    100044: tail2
+    100046: tail3
+    100048: tail4
+    100050: upmouth
+    400000: bfootl
+    400002: bfootr
+    400004: blowlegr
+    400006: body
+    400008: buplegl
+    400010: buplegr
+    400012: //RootNode
+    400014: eye
+    400016: ffootl
+    400018: ffootr
+    400020: flowlegl
+    400022: flowlegr
+    400024: fuplegl
+    400026: fuplegr
+    400028: head
+    400030: jaw
+    400032: lowjaw
+    400034: neck1
+    400036: neck2
+    400038: neck3
+    400040: rlowlegl
+    400042: tail1
+    400044: tail2
+    400046: tail3
+    400048: tail4
+    400050: upmouth
+    2300000: bfootl
+    2300002: bfootr
+    2300004: blowlegr
+    2300006: body
+    2300008: buplegl
+    2300010: buplegr
+    2300012: eye
+    2300014: ffootl
+    2300016: ffootr
+    2300018: flowlegl
+    2300020: flowlegr
+    2300022: fuplegl
+    2300024: fuplegr
+    2300026: head
+    2300028: jaw
+    2300030: lowjaw
+    2300032: neck1
+    2300034: neck2
+    2300036: neck3
+    2300038: rlowlegl
+    2300040: tail1
+    2300042: tail2
+    2300044: tail3
+    2300046: tail4
+    2300048: upmouth
+    3300000: bfootl
+    3300002: bfootr
+    3300004: blowlegr
+    3300006: body
+    3300008: buplegl
+    3300010: buplegr
+    3300012: eye
+    3300014: ffootl
+    3300016: ffootr
+    3300018: flowlegl
+    3300020: flowlegr
+    3300022: fuplegl
+    3300024: fuplegr
+    3300026: head
+    3300028: jaw
+    3300030: lowjaw
+    3300032: neck1
+    3300034: neck2
+    3300036: neck3
+    3300038: rlowlegl
+    3300040: tail1
+    3300042: tail2
+    3300044: tail3
+    3300046: tail4
+    3300048: upmouth
+    4300000: bfootl
+    4300002: bfootr
+    4300004: blowlegr
+    4300006: body
+    4300008: buplegl
+    4300010: buplegr
+    4300012: eye
+    4300014: ffootl
+    4300016: ffootr
+    4300018: flowlegl
+    4300020: flowlegr
+    4300022: fuplegl
+    4300024: fuplegr
+    4300026: head
+    4300028: jaw
+    4300030: lowjaw
+    4300032: neck1
+    4300034: neck2
+    4300036: neck3
+    4300038: rlowlegl
+    4300040: tail1
+    4300042: tail2
+    4300044: tail3
+    4300046: tail4
+    4300048: upmouth
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

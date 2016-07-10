@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 21378b0f42958444bb879cb5d2178059
+timeCreated: 1468084869
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: axle
+    100002: bed
+    100004: body
+    100006: bumper
+    100008: fframe
+    100010: frame
+    100012: frim
+    100014: ftire
+    100016: glass
+    100018: handle
+    100020: lights
+    100022: //RootNode
+    100024: shackle
+    100026: socket
+    100028: springs
+    100030: steps
+    100032: tanks
+    100034: torsnbar
+    400000: axle
+    400002: bed
+    400004: body
+    400006: bumper
+    400008: fframe
+    400010: frame
+    400012: frim
+    400014: ftire
+    400016: glass
+    400018: handle
+    400020: lights
+    400022: //RootNode
+    400024: shackle
+    400026: socket
+    400028: springs
+    400030: steps
+    400032: tanks
+    400034: torsnbar
+    2300000: axle
+    2300002: bed
+    2300004: body
+    2300006: bumper
+    2300008: fframe
+    2300010: frame
+    2300012: frim
+    2300014: ftire
+    2300016: glass
+    2300018: handle
+    2300020: lights
+    2300022: shackle
+    2300024: socket
+    2300026: springs
+    2300028: steps
+    2300030: tanks
+    2300032: torsnbar
+    3300000: axle
+    3300002: bed
+    3300004: body
+    3300006: bumper
+    3300008: fframe
+    3300010: frame
+    3300012: frim
+    3300014: ftire
+    3300016: glass
+    3300018: handle
+    3300020: lights
+    3300022: shackle
+    3300024: socket
+    3300026: springs
+    3300028: steps
+    3300030: tanks
+    3300032: torsnbar
+    4300000: axle
+    4300002: bed
+    4300004: body
+    4300006: bumper
+    4300008: fframe
+    4300010: frame
+    4300012: frim
+    4300014: ftire
+    4300016: glass
+    4300018: handle
+    4300020: lights
+    4300022: shackle
+    4300024: socket
+    4300026: springs
+    4300028: steps
+    4300030: tanks
+    4300032: torsnbar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

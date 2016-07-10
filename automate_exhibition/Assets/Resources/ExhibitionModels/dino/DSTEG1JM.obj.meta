@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 5085ce0e1acbc1c44bac55e64938f4d4
+timeCreated: 1468084917
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: backfotl
+    100002: backfotr
+    100004: black
+    100006: body
+    100008: btoesl
+    100010: //RootNode
+    100012: eye
+    100014: footl
+    100016: footr
+    100018: ftoesl
+    100020: ftoesr
+    100022: gtoesr
+    100024: head
+    100026: jaw
+    100028: lowarml
+    100030: lowarmr
+    100032: lowlegl
+    100034: lowlegr
+    100036: neck
+    100038: p5
+    100040: p6
+    100042: plates
+    100044: spike
+    100046: tail1
+    100048: tail2
+    100050: uparml
+    100052: uparmr
+    100054: uplegl
+    100056: uplegr
+    400000: backfotl
+    400002: backfotr
+    400004: black
+    400006: body
+    400008: btoesl
+    400010: //RootNode
+    400012: eye
+    400014: footl
+    400016: footr
+    400018: ftoesl
+    400020: ftoesr
+    400022: gtoesr
+    400024: head
+    400026: jaw
+    400028: lowarml
+    400030: lowarmr
+    400032: lowlegl
+    400034: lowlegr
+    400036: neck
+    400038: p5
+    400040: p6
+    400042: plates
+    400044: spike
+    400046: tail1
+    400048: tail2
+    400050: uparml
+    400052: uparmr
+    400054: uplegl
+    400056: uplegr
+    2300000: backfotl
+    2300002: backfotr
+    2300004: black
+    2300006: body
+    2300008: btoesl
+    2300010: eye
+    2300012: footl
+    2300014: footr
+    2300016: ftoesl
+    2300018: ftoesr
+    2300020: gtoesr
+    2300022: head
+    2300024: jaw
+    2300026: lowarml
+    2300028: lowarmr
+    2300030: lowlegl
+    2300032: lowlegr
+    2300034: neck
+    2300036: p5
+    2300038: p6
+    2300040: plates
+    2300042: spike
+    2300044: tail1
+    2300046: tail2
+    2300048: uparml
+    2300050: uparmr
+    2300052: uplegl
+    2300054: uplegr
+    3300000: backfotl
+    3300002: backfotr
+    3300004: black
+    3300006: body
+    3300008: btoesl
+    3300010: eye
+    3300012: footl
+    3300014: footr
+    3300016: ftoesl
+    3300018: ftoesr
+    3300020: gtoesr
+    3300022: head
+    3300024: jaw
+    3300026: lowarml
+    3300028: lowarmr
+    3300030: lowlegl
+    3300032: lowlegr
+    3300034: neck
+    3300036: p5
+    3300038: p6
+    3300040: plates
+    3300042: spike
+    3300044: tail1
+    3300046: tail2
+    3300048: uparml
+    3300050: uparmr
+    3300052: uplegl
+    3300054: uplegr
+    4300000: backfotl
+    4300002: backfotr
+    4300004: black
+    4300006: body
+    4300008: btoesl
+    4300010: eye
+    4300012: footl
+    4300014: footr
+    4300016: ftoesl
+    4300018: ftoesr
+    4300020: gtoesr
+    4300022: head
+    4300024: jaw
+    4300026: lowarml
+    4300028: lowarmr
+    4300030: lowlegl
+    4300032: lowlegr
+    4300034: neck
+    4300036: p5
+    4300038: p6
+    4300040: plates
+    4300042: spike
+    4300044: tail1
+    4300046: tail2
+    4300048: uparml
+    4300050: uparmr
+    4300052: uplegl
+    4300054: uplegr
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

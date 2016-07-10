@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: eabd8f7854b06924394d16a7801d9523
+timeCreated: 1468085081
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cglass
+    100002: cockpit
+    100004: cowl
+    100006: deicers
+    100008: doors
+    100010: elevator
+    100012: engine
+    100014: exhaust
+    100016: fuselage
+    100018: hub
+    100020: intake
+    100022: mflaps
+    100024: mount
+    100026: nose
+    100028: //RootNode
+    100030: rflaps
+    100032: rudder
+    100034: tail
+    100036: turbine
+    100038: windows
+    100040: wing
+    400000: cglass
+    400002: cockpit
+    400004: cowl
+    400006: deicers
+    400008: doors
+    400010: elevator
+    400012: engine
+    400014: exhaust
+    400016: fuselage
+    400018: hub
+    400020: intake
+    400022: mflaps
+    400024: mount
+    400026: nose
+    400028: //RootNode
+    400030: rflaps
+    400032: rudder
+    400034: tail
+    400036: turbine
+    400038: windows
+    400040: wing
+    2300000: cglass
+    2300002: cockpit
+    2300004: cowl
+    2300006: deicers
+    2300008: doors
+    2300010: elevator
+    2300012: engine
+    2300014: exhaust
+    2300016: fuselage
+    2300018: hub
+    2300020: intake
+    2300022: mflaps
+    2300024: mount
+    2300026: nose
+    2300028: rflaps
+    2300030: rudder
+    2300032: tail
+    2300034: turbine
+    2300036: windows
+    2300038: wing
+    3300000: cglass
+    3300002: cockpit
+    3300004: cowl
+    3300006: deicers
+    3300008: doors
+    3300010: elevator
+    3300012: engine
+    3300014: exhaust
+    3300016: fuselage
+    3300018: hub
+    3300020: intake
+    3300022: mflaps
+    3300024: mount
+    3300026: nose
+    3300028: rflaps
+    3300030: rudder
+    3300032: tail
+    3300034: turbine
+    3300036: windows
+    3300038: wing
+    4300000: cglass
+    4300002: cockpit
+    4300004: cowl
+    4300006: deicers
+    4300008: doors
+    4300010: elevator
+    4300012: engine
+    4300014: exhaust
+    4300016: fuselage
+    4300018: hub
+    4300020: intake
+    4300022: mflaps
+    4300024: mount
+    4300026: nose
+    4300028: rflaps
+    4300030: rudder
+    4300032: tail
+    4300034: turbine
+    4300036: windows
+    4300038: wing
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

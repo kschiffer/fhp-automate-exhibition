@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: dadde7a1f40bde444a075387b13fc54e
+timeCreated: 1468085071
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bar
+    100002: body
+    100004: bottom
+    100006: brakes
+    100008: exhaust
+    100010: foila
+    100012: frame
+    100014: fsus
+    100016: hubs
+    100018: inhubs
+    100020: intake
+    100022: kpins
+    100024: pylon
+    100026: raxle
+    100028: rfoil
+    100030: rims
+    100032: ring
+    100034: rsusp
+    100036: sping
+    100038: spokes
+    100040: tires
+    100042: trim
+    100044: //RootNode
+    400000: bar
+    400002: body
+    400004: bottom
+    400006: brakes
+    400008: exhaust
+    400010: foila
+    400012: frame
+    400014: fsus
+    400016: hubs
+    400018: inhubs
+    400020: intake
+    400022: kpins
+    400024: pylon
+    400026: raxle
+    400028: rfoil
+    400030: rims
+    400032: ring
+    400034: rsusp
+    400036: sping
+    400038: spokes
+    400040: tires
+    400042: trim
+    400044: //RootNode
+    2300000: bar
+    2300002: body
+    2300004: bottom
+    2300006: brakes
+    2300008: exhaust
+    2300010: foila
+    2300012: frame
+    2300014: fsus
+    2300016: hubs
+    2300018: inhubs
+    2300020: intake
+    2300022: kpins
+    2300024: pylon
+    2300026: raxle
+    2300028: rfoil
+    2300030: rims
+    2300032: ring
+    2300034: rsusp
+    2300036: sping
+    2300038: spokes
+    2300040: tires
+    2300042: trim
+    3300000: bar
+    3300002: body
+    3300004: bottom
+    3300006: brakes
+    3300008: exhaust
+    3300010: foila
+    3300012: frame
+    3300014: fsus
+    3300016: hubs
+    3300018: inhubs
+    3300020: intake
+    3300022: kpins
+    3300024: pylon
+    3300026: raxle
+    3300028: rfoil
+    3300030: rims
+    3300032: ring
+    3300034: rsusp
+    3300036: sping
+    3300038: spokes
+    3300040: tires
+    3300042: trim
+    4300000: bar
+    4300002: body
+    4300004: bottom
+    4300006: brakes
+    4300008: exhaust
+    4300010: foila
+    4300012: frame
+    4300014: fsus
+    4300016: hubs
+    4300018: inhubs
+    4300020: intake
+    4300022: kpins
+    4300024: pylon
+    4300026: raxle
+    4300028: rfoil
+    4300030: rims
+    4300032: ring
+    4300034: rsusp
+    4300036: sping
+    4300038: spokes
+    4300040: tires
+    4300042: trim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

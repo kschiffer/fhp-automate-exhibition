@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: f445525e0aa21d8429f791f0b450e0b9
+timeCreated: 1468085095
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: arm
+    100004: hand
+    100006: index1
+    100008: index2
+    100010: index3
+    100012: middle1
+    100014: middle2
+    100016: middle3
+    100018: pinky1
+    100020: pinky2
+    100022: pinky3
+    100024: ring1
+    100026: ring2
+    100028: ring3
+    100030: thumb1
+    100032: thumb2
+    400000: //RootNode
+    400002: arm
+    400004: hand
+    400006: index1
+    400008: index2
+    400010: index3
+    400012: middle1
+    400014: middle2
+    400016: middle3
+    400018: pinky1
+    400020: pinky2
+    400022: pinky3
+    400024: ring1
+    400026: ring2
+    400028: ring3
+    400030: thumb1
+    400032: thumb2
+    2300000: arm
+    2300002: hand
+    2300004: index1
+    2300006: index2
+    2300008: index3
+    2300010: middle1
+    2300012: middle2
+    2300014: middle3
+    2300016: pinky1
+    2300018: pinky2
+    2300020: pinky3
+    2300022: ring1
+    2300024: ring2
+    2300026: ring3
+    2300028: thumb1
+    2300030: thumb2
+    3300000: arm
+    3300002: hand
+    3300004: index1
+    3300006: index2
+    3300008: index3
+    3300010: middle1
+    3300012: middle2
+    3300014: middle3
+    3300016: pinky1
+    3300018: pinky2
+    3300020: pinky3
+    3300022: ring1
+    3300024: ring2
+    3300026: ring3
+    3300028: thumb1
+    3300030: thumb2
+    4300000: arm
+    4300002: hand
+    4300004: index1
+    4300006: index2
+    4300008: index3
+    4300010: middle1
+    4300012: middle2
+    4300014: middle3
+    4300016: pinky1
+    4300018: pinky2
+    4300020: pinky3
+    4300022: ring1
+    4300024: ring2
+    4300026: ring3
+    4300028: thumb1
+    4300030: thumb2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

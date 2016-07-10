@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 00f2fc5d72a64094d8cb668c2316bc59
+timeCreated: 1468084826
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: airclean
+    100002: body1
+    100004: body2
+    100006: bottom
+    100008: bumper
+    100010: chrome
+    100012: door
+    100014: filter
+    100016: frame
+    100018: glass
+    100020: hlgts
+    100022: markers
+    100024: mirmount
+    100026: mirror
+    100028: mirror2
+    100030: pipes
+    100032: plate
+    100034: rim1
+    100036: rim2
+    100038: rim3
+    100040: rim4
+    100042: stacks
+    100044: steps
+    100046: tire1
+    100048: tire2
+    100050: tire3
+    100052: tire4
+    100054: trim
+    100056: //RootNode
+    400000: airclean
+    400002: body1
+    400004: body2
+    400006: bottom
+    400008: bumper
+    400010: chrome
+    400012: door
+    400014: filter
+    400016: frame
+    400018: glass
+    400020: hlgts
+    400022: markers
+    400024: mirmount
+    400026: mirror
+    400028: mirror2
+    400030: pipes
+    400032: plate
+    400034: rim1
+    400036: rim2
+    400038: rim3
+    400040: rim4
+    400042: stacks
+    400044: steps
+    400046: tire1
+    400048: tire2
+    400050: tire3
+    400052: tire4
+    400054: trim
+    400056: //RootNode
+    2300000: airclean
+    2300002: body1
+    2300004: body2
+    2300006: bottom
+    2300008: bumper
+    2300010: chrome
+    2300012: door
+    2300014: filter
+    2300016: frame
+    2300018: glass
+    2300020: hlgts
+    2300022: markers
+    2300024: mirmount
+    2300026: mirror
+    2300028: mirror2
+    2300030: pipes
+    2300032: plate
+    2300034: rim1
+    2300036: rim2
+    2300038: rim3
+    2300040: rim4
+    2300042: stacks
+    2300044: steps
+    2300046: tire1
+    2300048: tire2
+    2300050: tire3
+    2300052: tire4
+    2300054: trim
+    3300000: airclean
+    3300002: body1
+    3300004: body2
+    3300006: bottom
+    3300008: bumper
+    3300010: chrome
+    3300012: door
+    3300014: filter
+    3300016: frame
+    3300018: glass
+    3300020: hlgts
+    3300022: markers
+    3300024: mirmount
+    3300026: mirror
+    3300028: mirror2
+    3300030: pipes
+    3300032: plate
+    3300034: rim1
+    3300036: rim2
+    3300038: rim3
+    3300040: rim4
+    3300042: stacks
+    3300044: steps
+    3300046: tire1
+    3300048: tire2
+    3300050: tire3
+    3300052: tire4
+    3300054: trim
+    4300000: airclean
+    4300002: body1
+    4300004: body2
+    4300006: bottom
+    4300008: bumper
+    4300010: chrome
+    4300012: door
+    4300014: filter
+    4300016: frame
+    4300018: glass
+    4300020: hlgts
+    4300022: markers
+    4300024: mirmount
+    4300026: mirror
+    4300028: mirror2
+    4300030: pipes
+    4300032: plate
+    4300034: rim1
+    4300036: rim2
+    4300038: rim3
+    4300040: rim4
+    4300042: stacks
+    4300044: steps
+    4300046: tire1
+    4300048: tire2
+    4300050: tire3
+    4300052: tire4
+    4300054: trim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

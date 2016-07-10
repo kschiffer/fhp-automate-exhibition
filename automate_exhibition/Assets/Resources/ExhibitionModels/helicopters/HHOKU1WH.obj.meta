@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 8d96b0842e1b72345bae6ef0165d685a
+timeCreated: 1468084972
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: blades
+    100002: elev
+    100004: engine
+    100006: etrim
+    100008: fins
+    100010: fuselage
+    100012: glass
+    100014: gtrim
+    100016: gun
+    100018: //RootNode
+    100020: holes
+    100022: intake
+    100024: intakes
+    100026: launch
+    100028: missle
+    100030: mount1
+    100032: mount2
+    100034: nozzles
+    100036: radar
+    100038: radar2
+    100040: rim
+    100042: rotgear
+    100044: rudder
+    100046: shaft
+    100048: tips
+    100050: tire
+    100052: whwells
+    100054: wings
+    400000: blades
+    400002: elev
+    400004: engine
+    400006: etrim
+    400008: fins
+    400010: fuselage
+    400012: glass
+    400014: gtrim
+    400016: gun
+    400018: //RootNode
+    400020: holes
+    400022: intake
+    400024: intakes
+    400026: launch
+    400028: missle
+    400030: mount1
+    400032: mount2
+    400034: nozzles
+    400036: radar
+    400038: radar2
+    400040: rim
+    400042: rotgear
+    400044: rudder
+    400046: shaft
+    400048: tips
+    400050: tire
+    400052: whwells
+    400054: wings
+    2300000: blades
+    2300002: elev
+    2300004: engine
+    2300006: etrim
+    2300008: fins
+    2300010: fuselage
+    2300012: glass
+    2300014: gtrim
+    2300016: gun
+    2300018: holes
+    2300020: intake
+    2300022: intakes
+    2300024: launch
+    2300026: missle
+    2300028: mount1
+    2300030: mount2
+    2300032: nozzles
+    2300034: radar
+    2300036: radar2
+    2300038: rim
+    2300040: rotgear
+    2300042: rudder
+    2300044: shaft
+    2300046: tips
+    2300048: tire
+    2300050: whwells
+    2300052: wings
+    3300000: blades
+    3300002: elev
+    3300004: engine
+    3300006: etrim
+    3300008: fins
+    3300010: fuselage
+    3300012: glass
+    3300014: gtrim
+    3300016: gun
+    3300018: holes
+    3300020: intake
+    3300022: intakes
+    3300024: launch
+    3300026: missle
+    3300028: mount1
+    3300030: mount2
+    3300032: nozzles
+    3300034: radar
+    3300036: radar2
+    3300038: rim
+    3300040: rotgear
+    3300042: rudder
+    3300044: shaft
+    3300046: tips
+    3300048: tire
+    3300050: whwells
+    3300052: wings
+    4300000: blades
+    4300002: elev
+    4300004: engine
+    4300006: etrim
+    4300008: fins
+    4300010: fuselage
+    4300012: glass
+    4300014: gtrim
+    4300016: gun
+    4300018: holes
+    4300020: intake
+    4300022: intakes
+    4300024: launch
+    4300026: missle
+    4300028: mount1
+    4300030: mount2
+    4300032: nozzles
+    4300034: radar
+    4300036: radar2
+    4300038: rim
+    4300040: rotgear
+    4300042: rudder
+    4300044: shaft
+    4300046: tips
+    4300048: tire
+    4300050: whwells
+    4300052: wings
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: c8c59cd7bfd31684e8cae768495154fd
+timeCreated: 1468085038
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cockpit
+    100002: diffuser
+    100004: exhaust
+    100006: fgram
+    100008: fgtrack
+    100010: fgtube
+    100012: frim
+    100014: frubber
+    100016: ftruck
+    100018: fuselage
+    100020: intake
+    100022: lights
+    100024: //RootNode
+    100026: rudder
+    100028: trim
+    400000: cockpit
+    400002: diffuser
+    400004: exhaust
+    400006: fgram
+    400008: fgtrack
+    400010: fgtube
+    400012: frim
+    400014: frubber
+    400016: ftruck
+    400018: fuselage
+    400020: intake
+    400022: lights
+    400024: //RootNode
+    400026: rudder
+    400028: trim
+    2300000: cockpit
+    2300002: diffuser
+    2300004: exhaust
+    2300006: fgram
+    2300008: fgtrack
+    2300010: fgtube
+    2300012: frim
+    2300014: frubber
+    2300016: ftruck
+    2300018: fuselage
+    2300020: intake
+    2300022: lights
+    2300024: rudder
+    2300026: trim
+    3300000: cockpit
+    3300002: diffuser
+    3300004: exhaust
+    3300006: fgram
+    3300008: fgtrack
+    3300010: fgtube
+    3300012: frim
+    3300014: frubber
+    3300016: ftruck
+    3300018: fuselage
+    3300020: intake
+    3300022: lights
+    3300024: rudder
+    3300026: trim
+    4300000: cockpit
+    4300002: diffuser
+    4300004: exhaust
+    4300006: fgram
+    4300008: fgtrack
+    4300010: fgtube
+    4300012: frim
+    4300014: frubber
+    4300016: ftruck
+    4300018: fuselage
+    4300020: intake
+    4300022: lights
+    4300024: rudder
+    4300026: trim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

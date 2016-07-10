@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: d2b0274d2d6b9e54eba5feccda9d4c2b
+timeCreated: 1468085054
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: asms
+    100002: fuselage
+    100004: glass
+    100006: guns
+    100008: //RootNode
+    100010: launcher
+    100012: lgear
+    100014: missles
+    100016: ngear
+    100018: rearotor
+    100020: rotors
+    100022: rspindle
+    100024: rtrhub
+    100026: sparrow
+    100028: turbines
+    100030: vents
+    100032: vulcan
+    400000: asms
+    400002: fuselage
+    400004: glass
+    400006: guns
+    400008: //RootNode
+    400010: launcher
+    400012: lgear
+    400014: missles
+    400016: ngear
+    400018: rearotor
+    400020: rotors
+    400022: rspindle
+    400024: rtrhub
+    400026: sparrow
+    400028: turbines
+    400030: vents
+    400032: vulcan
+    2300000: asms
+    2300002: fuselage
+    2300004: glass
+    2300006: guns
+    2300008: launcher
+    2300010: lgear
+    2300012: missles
+    2300014: ngear
+    2300016: rearotor
+    2300018: rotors
+    2300020: rspindle
+    2300022: rtrhub
+    2300024: sparrow
+    2300026: turbines
+    2300028: vents
+    2300030: vulcan
+    3300000: asms
+    3300002: fuselage
+    3300004: glass
+    3300006: guns
+    3300008: launcher
+    3300010: lgear
+    3300012: missles
+    3300014: ngear
+    3300016: rearotor
+    3300018: rotors
+    3300020: rspindle
+    3300022: rtrhub
+    3300024: sparrow
+    3300026: turbines
+    3300028: vents
+    3300030: vulcan
+    4300000: asms
+    4300002: fuselage
+    4300004: glass
+    4300006: guns
+    4300008: launcher
+    4300010: lgear
+    4300012: missles
+    4300014: ngear
+    4300016: rearotor
+    4300018: rotors
+    4300020: rspindle
+    4300022: rtrhub
+    4300024: sparrow
+    4300026: turbines
+    4300028: vents
+    4300030: vulcan
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

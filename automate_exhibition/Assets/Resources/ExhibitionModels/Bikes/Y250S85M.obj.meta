@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 868ace4f27381794c824bacd6b8bbd56
+timeCreated: 1468084967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bdrums
+    100002: bhubs
+    100004: boots
+    100006: btires
+    100008: engine
+    100010: ffender
+    100012: forks
+    100014: frame
+    100016: frntflap
+    100018: fwheel
+    100020: gascap
+    100022: gears
+    100024: grips
+    100026: hbars
+    100028: headlgt
+    100030: new
+    100032: pegs
+    100034: rack
+    100036: rearflap
+    100038: rfenders
+    100040: seat
+    100042: tank
+    100044: tube
+    100046: //RootNode
+    400000: bdrums
+    400002: bhubs
+    400004: boots
+    400006: btires
+    400008: engine
+    400010: ffender
+    400012: forks
+    400014: frame
+    400016: frntflap
+    400018: fwheel
+    400020: gascap
+    400022: gears
+    400024: grips
+    400026: hbars
+    400028: headlgt
+    400030: new
+    400032: pegs
+    400034: rack
+    400036: rearflap
+    400038: rfenders
+    400040: seat
+    400042: tank
+    400044: tube
+    400046: //RootNode
+    2300000: bdrums
+    2300002: bhubs
+    2300004: boots
+    2300006: btires
+    2300008: engine
+    2300010: ffender
+    2300012: forks
+    2300014: frame
+    2300016: frntflap
+    2300018: fwheel
+    2300020: gascap
+    2300022: gears
+    2300024: grips
+    2300026: hbars
+    2300028: headlgt
+    2300030: new
+    2300032: pegs
+    2300034: rack
+    2300036: rearflap
+    2300038: rfenders
+    2300040: seat
+    2300042: tank
+    2300044: tube
+    3300000: bdrums
+    3300002: bhubs
+    3300004: boots
+    3300006: btires
+    3300008: engine
+    3300010: ffender
+    3300012: forks
+    3300014: frame
+    3300016: frntflap
+    3300018: fwheel
+    3300020: gascap
+    3300022: gears
+    3300024: grips
+    3300026: hbars
+    3300028: headlgt
+    3300030: new
+    3300032: pegs
+    3300034: rack
+    3300036: rearflap
+    3300038: rfenders
+    3300040: seat
+    3300042: tank
+    3300044: tube
+    4300000: bdrums
+    4300002: bhubs
+    4300004: boots
+    4300006: btires
+    4300008: engine
+    4300010: ffender
+    4300012: forks
+    4300014: frame
+    4300016: frntflap
+    4300018: fwheel
+    4300020: gascap
+    4300022: gears
+    4300024: grips
+    4300026: hbars
+    4300028: headlgt
+    4300030: new
+    4300032: pegs
+    4300034: rack
+    4300036: rearflap
+    4300038: rfenders
+    4300040: seat
+    4300042: tank
+    4300044: tube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

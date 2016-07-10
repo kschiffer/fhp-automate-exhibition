@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: f980597b20c9da043a3ef4f901dcd4d3
+timeCreated: 1468085104
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: basket
+    100002: cartbotm
+    100004: door
+    100006: lfcaster
+    100008: lfrim
+    100010: lftire
+    100012: lrcaster
+    100014: lrrim
+    100016: lrtire
+    100018: //RootNode
+    100020: rack
+    100022: rfcaster
+    100024: rfrim
+    100026: rftire
+    100028: rrcaster
+    100030: rrrim
+    100032: rrtire
+    100034: wire
+    100036: wire1
+    400000: basket
+    400002: cartbotm
+    400004: door
+    400006: lfcaster
+    400008: lfrim
+    400010: lftire
+    400012: lrcaster
+    400014: lrrim
+    400016: lrtire
+    400018: //RootNode
+    400020: rack
+    400022: rfcaster
+    400024: rfrim
+    400026: rftire
+    400028: rrcaster
+    400030: rrrim
+    400032: rrtire
+    400034: wire
+    400036: wire1
+    2300000: basket
+    2300002: cartbotm
+    2300004: door
+    2300006: lfcaster
+    2300008: lfrim
+    2300010: lftire
+    2300012: lrcaster
+    2300014: lrrim
+    2300016: lrtire
+    2300018: rack
+    2300020: rfcaster
+    2300022: rfrim
+    2300024: rftire
+    2300026: rrcaster
+    2300028: rrrim
+    2300030: rrtire
+    2300032: wire
+    2300034: wire1
+    3300000: basket
+    3300002: cartbotm
+    3300004: door
+    3300006: lfcaster
+    3300008: lfrim
+    3300010: lftire
+    3300012: lrcaster
+    3300014: lrrim
+    3300016: lrtire
+    3300018: rack
+    3300020: rfcaster
+    3300022: rfrim
+    3300024: rftire
+    3300026: rrcaster
+    3300028: rrrim
+    3300030: rrtire
+    3300032: wire
+    3300034: wire1
+    4300000: basket
+    4300002: cartbotm
+    4300004: door
+    4300006: lfcaster
+    4300008: lfrim
+    4300010: lftire
+    4300012: lrcaster
+    4300014: lrrim
+    4300016: lrtire
+    4300018: rack
+    4300020: rfcaster
+    4300022: rfrim
+    4300024: rftire
+    4300026: rrcaster
+    4300028: rrrim
+    4300030: rrtire
+    4300032: wire
+    4300034: wire1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

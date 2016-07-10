@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 0fea11f9a12ed924c9d6251adb734f84
+timeCreated: 1468084851
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: black
+    100002: brace
+    100004: carpet
+    100006: color1
+    100008: color2
+    100010: dash
+    100012: glass
+    100014: hardwhit
+    100016: instru
+    100018: props
+    100020: silver
+    100022: softshit
+    100024: steel
+    100026: steerb
+    100028: steerw
+    100030: support
+    100032: tail
+    100034: wall
+    100036: //RootNode
+    100038: wood
+    400000: black
+    400002: brace
+    400004: carpet
+    400006: color1
+    400008: color2
+    400010: dash
+    400012: glass
+    400014: hardwhit
+    400016: instru
+    400018: props
+    400020: silver
+    400022: softshit
+    400024: steel
+    400026: steerb
+    400028: steerw
+    400030: support
+    400032: tail
+    400034: wall
+    400036: //RootNode
+    400038: wood
+    2300000: black
+    2300002: brace
+    2300004: carpet
+    2300006: color1
+    2300008: color2
+    2300010: dash
+    2300012: glass
+    2300014: hardwhit
+    2300016: instru
+    2300018: props
+    2300020: silver
+    2300022: softshit
+    2300024: steel
+    2300026: steerb
+    2300028: steerw
+    2300030: support
+    2300032: tail
+    2300034: wall
+    2300036: wood
+    3300000: black
+    3300002: brace
+    3300004: carpet
+    3300006: color1
+    3300008: color2
+    3300010: dash
+    3300012: glass
+    3300014: hardwhit
+    3300016: instru
+    3300018: props
+    3300020: silver
+    3300022: softshit
+    3300024: steel
+    3300026: steerb
+    3300028: steerw
+    3300030: support
+    3300032: tail
+    3300034: wall
+    3300036: wood
+    4300000: black
+    4300002: brace
+    4300004: carpet
+    4300006: color1
+    4300008: color2
+    4300010: dash
+    4300012: glass
+    4300014: hardwhit
+    4300016: instru
+    4300018: props
+    4300020: silver
+    4300022: softshit
+    4300024: steel
+    4300026: steerb
+    4300028: steerw
+    4300030: support
+    4300032: tail
+    4300034: wall
+    4300036: wood
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

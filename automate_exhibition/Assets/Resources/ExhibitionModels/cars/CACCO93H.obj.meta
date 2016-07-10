@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: e837050a3545a0043a6a2a6ab2e07df7
+timeCreated: 1468085079
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: antenna
+    100002: bdoors
+    100004: black
+    100006: body
+    100008: bottom
+    100010: brims
+    100012: btires
+    100014: //RootNode
+    100016: fbumper
+    100018: fdoors
+    100020: glass
+    100022: grill
+    100024: handles
+    100026: hood
+    100028: lfrim
+    100030: lftire
+    100032: lights
+    100034: logo
+    100036: mirror
+    100038: rbumper
+    100040: rfrim
+    100042: rftire
+    100044: sunroof
+    100046: tank
+    100048: trim
+    100050: trim2
+    100052: trunk
+    100054: wtrim
+    400000: antenna
+    400002: bdoors
+    400004: black
+    400006: body
+    400008: bottom
+    400010: brims
+    400012: btires
+    400014: //RootNode
+    400016: fbumper
+    400018: fdoors
+    400020: glass
+    400022: grill
+    400024: handles
+    400026: hood
+    400028: lfrim
+    400030: lftire
+    400032: lights
+    400034: logo
+    400036: mirror
+    400038: rbumper
+    400040: rfrim
+    400042: rftire
+    400044: sunroof
+    400046: tank
+    400048: trim
+    400050: trim2
+    400052: trunk
+    400054: wtrim
+    2300000: antenna
+    2300002: bdoors
+    2300004: black
+    2300006: body
+    2300008: bottom
+    2300010: brims
+    2300012: btires
+    2300014: fbumper
+    2300016: fdoors
+    2300018: glass
+    2300020: grill
+    2300022: handles
+    2300024: hood
+    2300026: lfrim
+    2300028: lftire
+    2300030: lights
+    2300032: logo
+    2300034: mirror
+    2300036: rbumper
+    2300038: rfrim
+    2300040: rftire
+    2300042: sunroof
+    2300044: tank
+    2300046: trim
+    2300048: trim2
+    2300050: trunk
+    2300052: wtrim
+    3300000: antenna
+    3300002: bdoors
+    3300004: black
+    3300006: body
+    3300008: bottom
+    3300010: brims
+    3300012: btires
+    3300014: fbumper
+    3300016: fdoors
+    3300018: glass
+    3300020: grill
+    3300022: handles
+    3300024: hood
+    3300026: lfrim
+    3300028: lftire
+    3300030: lights
+    3300032: logo
+    3300034: mirror
+    3300036: rbumper
+    3300038: rfrim
+    3300040: rftire
+    3300042: sunroof
+    3300044: tank
+    3300046: trim
+    3300048: trim2
+    3300050: trunk
+    3300052: wtrim
+    4300000: antenna
+    4300002: bdoors
+    4300004: black
+    4300006: body
+    4300008: bottom
+    4300010: brims
+    4300012: btires
+    4300014: fbumper
+    4300016: fdoors
+    4300018: glass
+    4300020: grill
+    4300022: handles
+    4300024: hood
+    4300026: lfrim
+    4300028: lftire
+    4300030: lights
+    4300032: logo
+    4300034: mirror
+    4300036: rbumper
+    4300038: rfrim
+    4300040: rftire
+    4300042: sunroof
+    4300044: tank
+    4300046: trim
+    4300048: trim2
+    4300050: trunk
+    4300052: wtrim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

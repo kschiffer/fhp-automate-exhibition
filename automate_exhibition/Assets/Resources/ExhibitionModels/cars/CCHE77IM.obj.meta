@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 77bbfd53d5c8fe2478396106c411949b
+timeCreated: 1468084958
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: black
+    100002: body
+    100004: bottom
+    100006: brim
+    100008: btire
+    100010: //RootNode
+    100012: chrome
+    100014: dash
+    100016: doors
+    100018: flrim
+    100020: fltire
+    100022: frrim
+    100024: frtire
+    100026: glass
+    100028: hlights
+    100030: hood
+    100032: mirror
+    100034: rlights
+    100036: steer
+    100038: tlights
+    100040: trunk
+    400000: black
+    400002: body
+    400004: bottom
+    400006: brim
+    400008: btire
+    400010: //RootNode
+    400012: chrome
+    400014: dash
+    400016: doors
+    400018: flrim
+    400020: fltire
+    400022: frrim
+    400024: frtire
+    400026: glass
+    400028: hlights
+    400030: hood
+    400032: mirror
+    400034: rlights
+    400036: steer
+    400038: tlights
+    400040: trunk
+    2300000: black
+    2300002: body
+    2300004: bottom
+    2300006: brim
+    2300008: btire
+    2300010: chrome
+    2300012: dash
+    2300014: doors
+    2300016: flrim
+    2300018: fltire
+    2300020: frrim
+    2300022: frtire
+    2300024: glass
+    2300026: hlights
+    2300028: hood
+    2300030: mirror
+    2300032: rlights
+    2300034: steer
+    2300036: tlights
+    2300038: trunk
+    3300000: black
+    3300002: body
+    3300004: bottom
+    3300006: brim
+    3300008: btire
+    3300010: chrome
+    3300012: dash
+    3300014: doors
+    3300016: flrim
+    3300018: fltire
+    3300020: frrim
+    3300022: frtire
+    3300024: glass
+    3300026: hlights
+    3300028: hood
+    3300030: mirror
+    3300032: rlights
+    3300034: steer
+    3300036: tlights
+    3300038: trunk
+    4300000: black
+    4300002: body
+    4300004: bottom
+    4300006: brim
+    4300008: btire
+    4300010: chrome
+    4300012: dash
+    4300014: doors
+    4300016: flrim
+    4300018: fltire
+    4300020: frrim
+    4300022: frtire
+    4300024: glass
+    4300026: hlights
+    4300028: hood
+    4300030: mirror
+    4300032: rlights
+    4300034: steer
+    4300036: tlights
+    4300038: trunk
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

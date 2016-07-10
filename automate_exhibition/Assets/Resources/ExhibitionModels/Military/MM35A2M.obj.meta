@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: d39d0d0d987da7046ab222d9c49e37ee
+timeCreated: 1468085054
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bed
+    100002: body
+    100004: bottom
+    100006: cab
+    100008: cover
+    100010: door
+    100012: exhaust
+    100014: faxle
+    100016: fenders
+    100018: frame
+    100020: frim
+    100022: front
+    100024: ftire
+    100026: glass
+    100028: grill
+    100030: gtanks
+    100032: hood
+    100034: lights
+    100036: //RootNode
+    100038: raxle
+    100040: rrims
+    100042: rtires
+    100044: srim
+    100046: stire
+    100048: trim
+    100050: winch
+    400000: bed
+    400002: body
+    400004: bottom
+    400006: cab
+    400008: cover
+    400010: door
+    400012: exhaust
+    400014: faxle
+    400016: fenders
+    400018: frame
+    400020: frim
+    400022: front
+    400024: ftire
+    400026: glass
+    400028: grill
+    400030: gtanks
+    400032: hood
+    400034: lights
+    400036: //RootNode
+    400038: raxle
+    400040: rrims
+    400042: rtires
+    400044: srim
+    400046: stire
+    400048: trim
+    400050: winch
+    2300000: bed
+    2300002: body
+    2300004: bottom
+    2300006: cab
+    2300008: cover
+    2300010: door
+    2300012: exhaust
+    2300014: faxle
+    2300016: fenders
+    2300018: frame
+    2300020: frim
+    2300022: front
+    2300024: ftire
+    2300026: glass
+    2300028: grill
+    2300030: gtanks
+    2300032: hood
+    2300034: lights
+    2300036: raxle
+    2300038: rrims
+    2300040: rtires
+    2300042: srim
+    2300044: stire
+    2300046: trim
+    2300048: winch
+    3300000: bed
+    3300002: body
+    3300004: bottom
+    3300006: cab
+    3300008: cover
+    3300010: door
+    3300012: exhaust
+    3300014: faxle
+    3300016: fenders
+    3300018: frame
+    3300020: frim
+    3300022: front
+    3300024: ftire
+    3300026: glass
+    3300028: grill
+    3300030: gtanks
+    3300032: hood
+    3300034: lights
+    3300036: raxle
+    3300038: rrims
+    3300040: rtires
+    3300042: srim
+    3300044: stire
+    3300046: trim
+    3300048: winch
+    4300000: bed
+    4300002: body
+    4300004: bottom
+    4300006: cab
+    4300008: cover
+    4300010: door
+    4300012: exhaust
+    4300014: faxle
+    4300016: fenders
+    4300018: frame
+    4300020: frim
+    4300022: front
+    4300024: ftire
+    4300026: glass
+    4300028: grill
+    4300030: gtanks
+    4300032: hood
+    4300034: lights
+    4300036: raxle
+    4300038: rrims
+    4300040: rtires
+    4300042: srim
+    4300044: stire
+    4300046: trim
+    4300048: winch
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

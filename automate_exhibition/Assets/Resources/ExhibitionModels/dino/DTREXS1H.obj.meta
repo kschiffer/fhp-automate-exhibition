@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 04f29e6bd96d221409aec5bef3ea2905
+timeCreated: 1468084836
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: claw1l
+    100002: claw1r
+    100004: claw2l
+    100006: claw2r
+    100008: copy
+    100010: //RootNode
+    100012: handl
+    100014: handr
+    100016: jaw
+    100018: lowarml
+    100020: lowarmr
+    100022: lteeth
+    100024: rib
+    100026: rib6
+    100028: scapl
+    100030: scapr
+    100032: skull
+    100034: uparml
+    100036: uparmr
+    100038: uteeth
+    100040: v1
+    100042: v11
+    100044: v2
+    100046: vertabra
+    100048: wristl
+    100050: wristr
+    400000: claw1l
+    400002: claw1r
+    400004: claw2l
+    400006: claw2r
+    400008: copy
+    400010: //RootNode
+    400012: handl
+    400014: handr
+    400016: jaw
+    400018: lowarml
+    400020: lowarmr
+    400022: lteeth
+    400024: rib
+    400026: rib6
+    400028: scapl
+    400030: scapr
+    400032: skull
+    400034: uparml
+    400036: uparmr
+    400038: uteeth
+    400040: v1
+    400042: v11
+    400044: v2
+    400046: vertabra
+    400048: wristl
+    400050: wristr
+    2300000: claw1l
+    2300002: claw1r
+    2300004: claw2l
+    2300006: claw2r
+    2300008: copy
+    2300010: handl
+    2300012: handr
+    2300014: jaw
+    2300016: lowarml
+    2300018: lowarmr
+    2300020: lteeth
+    2300022: rib
+    2300024: rib6
+    2300026: scapl
+    2300028: scapr
+    2300030: skull
+    2300032: uparml
+    2300034: uparmr
+    2300036: uteeth
+    2300038: v1
+    2300040: v11
+    2300042: v2
+    2300044: vertabra
+    2300046: wristl
+    2300048: wristr
+    3300000: claw1l
+    3300002: claw1r
+    3300004: claw2l
+    3300006: claw2r
+    3300008: copy
+    3300010: handl
+    3300012: handr
+    3300014: jaw
+    3300016: lowarml
+    3300018: lowarmr
+    3300020: lteeth
+    3300022: rib
+    3300024: rib6
+    3300026: scapl
+    3300028: scapr
+    3300030: skull
+    3300032: uparml
+    3300034: uparmr
+    3300036: uteeth
+    3300038: v1
+    3300040: v11
+    3300042: v2
+    3300044: vertabra
+    3300046: wristl
+    3300048: wristr
+    4300000: claw1l
+    4300002: claw1r
+    4300004: claw2l
+    4300006: claw2r
+    4300008: copy
+    4300010: handl
+    4300012: handr
+    4300014: jaw
+    4300016: lowarml
+    4300018: lowarmr
+    4300020: lteeth
+    4300022: rib
+    4300024: rib6
+    4300026: scapl
+    4300028: scapr
+    4300030: skull
+    4300032: uparml
+    4300034: uparmr
+    4300036: uteeth
+    4300038: v1
+    4300040: v11
+    4300042: v2
+    4300044: vertabra
+    4300046: wristl
+    4300048: wristr
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

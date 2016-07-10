@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 78e7af8bf111dea45b892c29291c22d1
+timeCreated: 1468084959
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bottom
+    100004: brims
+    100006: btires
+    100008: //RootNode
+    100010: glass
+    100012: grill
+    100014: lfrim
+    100016: lftire
+    100018: lights
+    100020: open
+    100022: rfrim
+    100024: rftire
+    100026: trim
+    400000: body
+    400002: bottom
+    400004: brims
+    400006: btires
+    400008: //RootNode
+    400010: glass
+    400012: grill
+    400014: lfrim
+    400016: lftire
+    400018: lights
+    400020: open
+    400022: rfrim
+    400024: rftire
+    400026: trim
+    2300000: body
+    2300002: bottom
+    2300004: brims
+    2300006: btires
+    2300008: glass
+    2300010: grill
+    2300012: lfrim
+    2300014: lftire
+    2300016: lights
+    2300018: open
+    2300020: rfrim
+    2300022: rftire
+    2300024: trim
+    3300000: body
+    3300002: bottom
+    3300004: brims
+    3300006: btires
+    3300008: glass
+    3300010: grill
+    3300012: lfrim
+    3300014: lftire
+    3300016: lights
+    3300018: open
+    3300020: rfrim
+    3300022: rftire
+    3300024: trim
+    4300000: body
+    4300002: bottom
+    4300004: brims
+    4300006: btires
+    4300008: glass
+    4300010: grill
+    4300012: lfrim
+    4300014: lftire
+    4300016: lights
+    4300018: open
+    4300020: rfrim
+    4300022: rftire
+    4300024: trim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
